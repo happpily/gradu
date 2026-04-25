@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Artifacts and figures
+artifacts/
+*.png
+
+# Editor folders
+.vscode/
+
+# Distribution/build
+dist/
+build/
+*.egg-info/
