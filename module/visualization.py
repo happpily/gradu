@@ -30,6 +30,67 @@ import numpy as np
 from module.config import Config
 
 
+# 全局绘图顺序：将 GATNet+WMMSE 作为主算法放在首位
+PLOT_ALGO_ORDER = ["GATNet+WMMSE", "GATNet", "WMMSE", "GA", "Equal Power", "Random"]
+GROUP_PLOT_ALGO_ORDER = ["GATNet+WMMSE", "GATNet", "WMMSE", "GA"]
+PLOT_ALGO_COLORS = {
+    "GATNet+WMMSE": "#1f77b4",
+    "GATNet": "#17becf",
+    "WMMSE": "#9467bd",
+    "GA": "#d62728",
+    "Equal Power": "#ff7f0e",
+    "Random": "#2ca02c",
+}
+
+
+def _configure_matplotlib_fonts() -> None:
+    """配置中英文混排字体，避免中文显示为方框。"""
+    plt.rcParams["font.family"] = "sans-serif"
+    plt.rcParams["font.sans-serif"] = [
+        "Microsoft YaHei",
+        "SimHei",
+        "Noto Sans CJK SC",
+        "WenQuanYi Micro Hei",
+        "Arial Unicode MS",
+        "DejaVu Sans",
+    ]
+    # 解决坐标轴负号显示为方框的问题
+    plt.rcParams["axes.unicode_minus"] = False
+
+
+def _safe_float_array(values: List[float], default: float = 0.0, target_len: int = 0) -> np.ndarray:
+    """将可能含 None/NaN 的序列转换为有限浮点数组。"""
+    out = []
+    for v in values:
+        try:
+            out.append(float(v))
+        except (TypeError, ValueError):
+            out.append(np.nan)
+
+    arr = np.asarray(out, dtype=np.float32)
+    if target_len > 0:
+        if arr.size < target_len:
+            arr = np.pad(arr, (0, target_len - arr.size), mode="constant", constant_values=default)
+        elif arr.size > target_len:
+            arr = arr[:target_len]
+
+    if arr.size == 0:
+        return np.full((target_len,), default, dtype=np.float32) if target_len > 0 else arr
+
+    finite = np.isfinite(arr)
+    if not np.any(finite):
+        arr[:] = default
+        return arr
+
+    if not np.all(finite):
+        idx = np.arange(arr.size)
+        arr[~finite] = np.interp(idx[~finite], idx[finite], arr[finite])
+    return arr
+
+
+_configure_matplotlib_fonts()
+
+
 # ═══════════════════════════════════════════════════════════════════════════
 # 信号平滑工具函数
 # Signal Smoothing Utilities
@@ -145,18 +206,28 @@ def plot_training_curve(
         metrics_history: 每轮各指标均值列表
         save_path      : 图片保存路径
     """
+    if len(loss_history) == 0:
+        print("  警告: loss_history 为空，跳过 training_curves 绘制")
+        return
+
+    n_epochs = min(len(loss_history), len(metrics_history)) if metrics_history else len(loss_history)
+    epochs = np.arange(1, n_epochs + 1)
+
     fig, axes = plt.subplots(2, 2, figsize=(12, 8))
     fig.suptitle("GATNet 训练收敛曲线 (Training Convergence Curves)", fontsize=13)
-    epochs = range(1, len(loss_history) + 1)
     smooth_window = 41  # 移动平均窗口大小
 
     # ── 左上：损失 Gap ────────────────────────────────────────────────────
-    raw_loss = [m.get("raw_loss", l) for m, l in zip(metrics_history, loss_history)]
-    ma_loss = _moving_average_edge_safe(raw_loss, smooth_window)
-    ema_loss = _ema_smooth(raw_loss, alpha=0.08)
-    trend_loss = np.asarray(loss_history, dtype=np.float32)
+    trend_loss = np.asarray(loss_history[:n_epochs], dtype=np.float32)
+    raw_loss = _safe_float_array(
+        [m.get("raw_loss", l) for m, l in zip(metrics_history[:n_epochs], trend_loss.tolist())],
+        default=float(trend_loss[-1]),
+        target_len=n_epochs,
+    )
+    ma_loss = _moving_average_edge_safe(raw_loss.tolist(), smooth_window)
+    ema_loss = _ema_smooth(raw_loss.tolist(), alpha=0.08)
 
-    axes[0, 0].plot(epochs, _gap_to_final(np.asarray(raw_loss)), alpha=0.2, label="Raw Loss Gap")
+    axes[0, 0].plot(epochs, _gap_to_final(raw_loss), alpha=0.2, label="Raw Loss Gap")
     axes[0, 0].plot(epochs, _gap_to_final(ma_loss), linewidth=1.8, label="MA Loss Gap")
     axes[0, 0].plot(epochs, _gap_to_final(ema_loss), linewidth=1.6, linestyle="--", label="EMA Loss Gap")
     axes[0, 0].plot(epochs, _gap_to_final(trend_loss), linewidth=2.0, label="Trend Loss Gap")
@@ -166,27 +237,53 @@ def plot_training_curve(
     axes[0, 0].grid(alpha=0.3)
 
     # ── 右上：和速率 Gap ──────────────────────────────────────────────────
-    sum_rates = [m.get("sum_rate", 0) for m in metrics_history]
-    axes[0, 1].plot(epochs, _gap_to_final(_ema_smooth(sum_rates)), color="green", linewidth=1.6)
+    sum_rates_raw = []
+    for m in metrics_history[:n_epochs]:
+        val = m.get("sum_rate")
+        if val is None:
+            val = m.get("sumrate")
+        if val is None:
+            val = m.get("weighted_sum_rate")
+        sum_rates_raw.append(val)
+
+    sum_rates = _safe_float_array(sum_rates_raw, default=0.0, target_len=n_epochs)
+    ma_sr = _moving_average_edge_safe(sum_rates.tolist(), smooth_window)
+    ema_sr = _ema_smooth(sum_rates.tolist(), alpha=0.08)
+    trend_sr = _ema_smooth(sum_rates.tolist(), alpha=0.20)
+
+    axes[0, 1].plot(epochs, _gap_to_final(sum_rates), alpha=0.2, color="green", label="Raw Sum-Rate Gap")
+    axes[0, 1].plot(epochs, _gap_to_final(ma_sr), linewidth=1.8, color="limegreen", label="MA Sum-Rate Gap")
+    axes[0, 1].plot(epochs, _gap_to_final(ema_sr), linewidth=1.6, color="darkgreen", linestyle="--", label="EMA Sum-Rate Gap")
+    axes[0, 1].plot(epochs, _gap_to_final(trend_sr), linewidth=2.0, color="forestgreen", label="Trend Sum-Rate Gap")
     axes[0, 1].set_title("Sum-Rate Gap to Final (↓ Better)")
     axes[0, 1].set_xlabel("Epoch")
+    axes[0, 1].set_ylabel("Normalized Gap")
+    axes[0, 1].legend(fontsize=8)
     axes[0, 1].grid(alpha=0.3)
 
     # ── 左下：平均功率 Gap ────────────────────────────────────────────────
-    mean_powers = [m.get("mean_power", 0) for m in metrics_history]
+    mean_powers = _safe_float_array(
+        [m.get("mean_power", 0) for m in metrics_history[:n_epochs]],
+        default=0.0,
+        target_len=n_epochs,
+    )
     axes[1, 0].plot(epochs, _gap_to_final(_ema_smooth(mean_powers)), color="orange", linewidth=1.6)
     axes[1, 0].set_title("Mean-Power Gap to Final (↓ Better)")
     axes[1, 0].set_xlabel("Epoch")
     axes[1, 0].grid(alpha=0.3)
 
     # ── 右下：QoS Gap ─────────────────────────────────────────────────────
-    qos = [m.get("qos_satisfaction", 0) for m in metrics_history]
+    qos = _safe_float_array(
+        [m.get("qos_satisfaction", 0) for m in metrics_history[:n_epochs]],
+        default=0.0,
+        target_len=n_epochs,
+    )
     axes[1, 1].plot(epochs, _gap_to_final(_ema_smooth(qos)), color="purple", linewidth=1.6)
     axes[1, 1].set_title("QoS Satisfaction Gap to Final (↓ Better)")
     axes[1, 1].set_xlabel("Epoch")
     axes[1, 1].grid(alpha=0.3)
 
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 1, 0.96])
     plt.savefig(save_path, dpi=200, bbox_inches="tight")
     plt.close()
     print(f"  已保存: {save_path}")
@@ -207,14 +304,13 @@ def plot_result_bar(
         mean_results: evaluate_algorithms() 返回的均值结果字典
         save_path   : 图片保存路径
     """
-    # 注意：trainer.py 中算法键名为 "GATNet"，这里保持一致
-    algo_keys = ["GATNet", "GATNet+WMMSE", "Random", "Equal Power", "WMMSE", "GA"]
+    algo_keys = PLOT_ALGO_ORDER
     rate_vals = [mean_results.get(k, 0.0) for k in algo_keys]
     time_vals = [mean_results.get(f"{k} Time (ms)", 0.0) for k in algo_keys]
 
-    colors = ["#1f77b4", "#17becf", "#2ca02c", "#d62728", "#9467bd", "#8c564b"]
+    colors = [PLOT_ALGO_COLORS[k] for k in algo_keys]
     fig, axes = plt.subplots(1, 2, figsize=(14, 5.2))
-    fig.suptitle("GATNet vs. 基线算法综合对比 (GATNet vs. Baselines)", fontsize=12)
+    fig.suptitle("GATNet+WMMSE vs. 基线算法综合对比 (GATNet+WMMSE vs. Baselines)", fontsize=12)
 
     # ── 左图：和速率对比 ──────────────────────────────────────────────────
     bars1 = axes[0].bar(algo_keys, rate_vals, color=colors, edgecolor="white", linewidth=0.8)
@@ -242,7 +338,7 @@ def plot_result_bar(
             f"{val:.2f}", ha="center", va="bottom", fontsize=9
         )
 
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
     plt.savefig(save_path, dpi=200, bbox_inches="tight")
     plt.close()
     print(f"  已保存: {save_path}")
@@ -264,15 +360,15 @@ def plot_thesis_metrics(
         mean_results: 包含各算法指标的结果字典
         save_path   : 图片保存路径
     """
-    algo_keys = ["GATNet", "GATNet+WMMSE", "Random", "Equal Power", "WMMSE", "GA"]
-    colors = ["#1f77b4", "#17becf", "#2ca02c", "#d62728", "#9467bd", "#8c564b"]
+    algo_keys = PLOT_ALGO_ORDER
+    colors = [PLOT_ALGO_COLORS[k] for k in algo_keys]
 
     sinr_vals = [mean_results.get(f"{k} avg_sinr_db", mean_results.get("avg_sinr_db", 0.0)) for k in algo_keys]
     ber_vals = [mean_results.get(f"{k} avg_ber", mean_results.get("avg_ber", 0.0)) for k in algo_keys]
     qos_vals = [mean_results.get(f"{k} success_ratio", mean_results.get("success_ratio", 0.0)) for k in algo_keys]
 
     fig, axes = plt.subplots(1, 3, figsize=(18, 5.2))
-    fig.suptitle("GATNet 论文指标对比 (Thesis Metrics Comparison)", fontsize=12)
+    fig.suptitle("GATNet+WMMSE 论文指标对比 (Thesis Metrics Comparison)", fontsize=12)
 
     # ── 左图：SINR ────────────────────────────────────────────────────────
     bars1 = axes[0].bar(algo_keys, sinr_vals, color=colors, edgecolor="white", linewidth=0.8)
@@ -309,7 +405,7 @@ def plot_thesis_metrics(
         axes[2].text(bar.get_x() + bar.get_width() / 2, val + 0.01,
                      f"{val:.3f}", ha="center", va="bottom", fontsize=9)
 
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
     plt.savefig(save_path, dpi=220, bbox_inches="tight")
     plt.close()
     print(f"  已保存: {save_path}")
@@ -329,7 +425,7 @@ def print_result_table(mean_results: Dict[str, float], title: str = "Evaluation 
     print(f"{'Algorithm':<15} | {'Weighted Sum Rate':>18} | {'Time(ms)':>10}")
     print("-" * 52)
 
-    for key in ["GATNet", "GATNet+WMMSE", "Random", "Equal Power", "WMMSE", "GA"]:
+    for key in PLOT_ALGO_ORDER:
         if key in mean_results:
             t_key = f"{key} Time (ms)"
             print(f"{key:<15} | {mean_results[key]:>18.6f} | {mean_results.get(t_key, 0.0):>10.3f}")
@@ -445,7 +541,7 @@ def print_interference_group_table(group_results: Dict[str, Dict[str, float]]) -
 
     for group_name in ["Light", "Medium", "Heavy"]:
         res = group_results[group_name]
-        for algo in ["GATNet", "GATNet+WMMSE", "WMMSE", "GA"]:
+        for algo in GROUP_PLOT_ALGO_ORDER:
             t_key = f"{algo} Time (ms)"
             print(
                 f"{group_name:<10} | {algo:<14} | "
@@ -467,8 +563,8 @@ def plot_interference_group_comparison(
         save_path    : 图片保存路径
     """
     groups = ["Light", "Medium", "Heavy"]
-    algos = ["GATNet", "GATNet+WMMSE", "WMMSE", "GA"]
-    colors = ["#1f77b4", "#17becf", "#9467bd", "#d62728"]
+    algos = GROUP_PLOT_ALGO_ORDER
+    colors = [PLOT_ALGO_COLORS[k] for k in algos]
 
     x = np.arange(len(groups))
     width = 0.18
@@ -498,7 +594,7 @@ def plot_interference_group_comparison(
     axes[1].grid(axis="y", alpha=0.3)
     axes[1].legend(fontsize=9)
 
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
     plt.savefig(save_path, dpi=220, bbox_inches="tight")
     plt.close()
     print(f"  已保存: {save_path}")
