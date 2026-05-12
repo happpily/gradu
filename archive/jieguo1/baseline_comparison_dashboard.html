@@ -1,0 +1,312 @@
+
+<style>
+  .dash { font-family: var(--font-sans); padding: 16px 0; }
+  h3 { font-size: 15px; font-weight: 500; color: var(--color-text-primary); margin: 0 0 4px; text-align: center; }
+  .sub { font-size: 12px; color: var(--color-text-secondary); text-align: center; margin: 0 0 12px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  .grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+  .card { background: var(--color-background-secondary); border-radius: var(--border-radius-lg); padding: 14px; }
+  /* Table */
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  th { background: var(--color-background-tertiary); color: var(--color-text-primary); font-weight: 500; padding: 7px 8px; text-align: center; border-bottom: 1px solid var(--color-border-primary); }
+  td { padding: 6px 8px; text-align: center; color: var(--color-text-primary); border-bottom: 1px solid var(--color-border-tertiary); }
+  td:first-child { text-align: left; font-weight: 500; }
+  tr:last-child td { border-bottom: none; }
+  .tag { display: inline-block; border-radius: 4px; padding: 1px 7px; font-size: 11px; font-weight: 500; }
+  .tag-g  { background: #E1F5EE; color: #085041; }
+  .tag-r  { background: #FCEBEB; color: #501313; }
+  .tag-y  { background: #FAEEDA; color: #412402; }
+  .tag-b  { background: #E6F1FB; color: #042C53; }
+  @media (prefers-color-scheme: dark) {
+    .tag-g { background: #085041; color: #9FE1CB; }
+    .tag-r { background: #501313; color: #F7C1C1; }
+    .tag-y { background: #412402; color: #FAC775; }
+    .tag-b { background: #042C53; color: #B5D4F4; }
+  }
+  .note { font-size: 11px; color: var(--color-text-tertiary); margin-top: 8px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 10px; }
+  .leg-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--color-text-secondary); }
+  .leg-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+</style>
+
+<div class="dash">
+
+<!-- ① Sum-Rate + Runtime side by side -->
+<div class="grid2">
+  <!-- Sum-Rate -->
+  <div class="card">
+    <h3>频谱效率对比（Sum-Rate）</h3>
+    <p class="sub">平均加权和速率 (bps/Hz)</p>
+    <svg width="100%" viewBox="0 0 300 200" role="img">
+      <title>频谱效率对比</title>
+      <desc>六种算法的平均加权和速率柱状图</desc>
+      <!-- bars: max=28.321, scale: 28.321→160px  factor=5.65 -->
+      <!-- WMMSE 28.321 -->
+      <rect x="12"  y="40"  width="34" height="155" rx="3" fill="#534AB7"/>
+      <!-- GA 28.280 -->
+      <rect x="56"  y="40"  width="34" height="155" rx="3" fill="#E24B4A"/>
+      <!-- GATNet+W 27.525 -->
+      <rect x="100" y="44"  width="34" height="151" rx="3" fill="#185FA5"/>
+      <!-- Equal 21.810 -->
+      <rect x="144" y="76"  width="34" height="119" rx="3" fill="#BA7517"/>
+      <!-- GATNet 21.491 -->
+      <rect x="188" y="78"  width="34" height="117" rx="3" fill="#1D9E75"/>
+      <!-- Random 20.397 -->
+      <rect x="232" y="84"  width="34" height="111" rx="3" fill="#639922"/>
+      <!-- value labels -->
+      <text x="29"  y="37"  text-anchor="middle" font-size="9" fill="#534AB7" font-weight="500">28.32</text>
+      <text x="73"  y="37"  text-anchor="middle" font-size="9" fill="#E24B4A" font-weight="500">28.28</text>
+      <text x="117" y="41"  text-anchor="middle" font-size="9" fill="#185FA5" font-weight="500">27.53</text>
+      <text x="161" y="73"  text-anchor="middle" font-size="9" fill="#BA7517" font-weight="500">21.81</text>
+      <text x="205" y="75"  text-anchor="middle" font-size="9" fill="#1D9E75" font-weight="500">21.49</text>
+      <text x="249" y="81"  text-anchor="middle" font-size="9" fill="#639922" font-weight="500">20.40</text>
+      <!-- baseline -->
+      <line x1="6" y1="195" x2="294" y2="195" stroke="var(--color-border-secondary)" stroke-width="0.5"/>
+      <!-- x labels -->
+      <text x="29"  y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">WMMSE</text>
+      <text x="73"  y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">GA</text>
+      <text x="117" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">G+W</text>
+      <text x="161" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">Equal</text>
+      <text x="205" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">GATNet</text>
+      <text x="249" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">Random</text>
+      <!-- star marker on GATNet+W -->
+      <text x="117" y="55" text-anchor="middle" font-size="10" fill="#185FA5">★</text>
+    </svg>
+    <p class="note">★ GATNet+WMMSE 达到 WMMSE 性能的 97.2%</p>
+  </div>
+
+  <!-- Runtime -->
+  <div class="card">
+    <h3>计算延迟对比（Runtime）</h3>
+    <p class="sub">单样本平均计算时间 (ms)</p>
+    <svg width="100%" viewBox="0 0 300 200" role="img">
+      <title>计算延迟对比</title>
+      <desc>六种算法的计算延迟柱状图，GA最慢63.62ms，Equal Power最快0.35ms</desc>
+      <!-- max=63.62 → 160px, factor=2.515  log scale implied visually -->
+      <!-- GA 63.62 → 160 -->
+      <rect x="12"  y="35"  width="34" height="160" rx="3" fill="#E24B4A"/>
+      <!-- Random 46.18 → 116 -->
+      <rect x="56"  y="79"  width="34" height="116" rx="3" fill="#639922"/>
+      <!-- GATNet+W 8.31 → 21 -->
+      <rect x="100" y="174" width="34" height="21"  rx="3" fill="#185FA5"/>
+      <!-- WMMSE 7.33 → 18 -->
+      <rect x="144" y="177" width="34" height="18"  rx="3" fill="#534AB7"/>
+      <!-- GATNet 7.03 → 18 -->
+      <rect x="188" y="177" width="34" height="18"  rx="3" fill="#1D9E75"/>
+      <!-- Equal 0.35 → 1 -->
+      <rect x="232" y="194" width="34" height="1"   rx="1" fill="#BA7517"/>
+      <!-- value labels -->
+      <text x="29"  y="32"  text-anchor="middle" font-size="9" fill="#E24B4A" font-weight="500">63.62</text>
+      <text x="73"  y="76"  text-anchor="middle" font-size="9" fill="#639922" font-weight="500">46.18</text>
+      <text x="117" y="171" text-anchor="middle" font-size="9" fill="#185FA5" font-weight="500">8.31</text>
+      <text x="161" y="174" text-anchor="middle" font-size="9" fill="#534AB7" font-weight="500">7.33</text>
+      <text x="205" y="174" text-anchor="middle" font-size="9" fill="#1D9E75" font-weight="500">7.03</text>
+      <text x="249" y="191" text-anchor="middle" font-size="9" fill="#BA7517" font-weight="500">0.35</text>
+      <!-- baseline -->
+      <line x1="6" y1="195" x2="294" y2="195" stroke="var(--color-border-secondary)" stroke-width="0.5"/>
+      <!-- x labels -->
+      <text x="29"  y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">GA</text>
+      <text x="73"  y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">Random</text>
+      <text x="117" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">G+W</text>
+      <text x="161" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">WMMSE</text>
+      <text x="205" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">GATNet</text>
+      <text x="249" y="199" text-anchor="middle" font-size="8" fill="var(--color-text-tertiary)">Equal</text>
+      <!-- star -->
+      <text x="117" y="182" text-anchor="middle" font-size="10" fill="#185FA5">★</text>
+    </svg>
+    <p class="note">★ GATNet+WMMSE 延迟仅为 GA 的 13.1%</p>
+  </div>
+</div>
+
+<!-- ② Three metrics -->
+<div class="grid3">
+  <!-- SINR -->
+  <div class="card">
+    <h3>平均 SINR (dB)</h3>
+    <p class="sub">↑ 越高越好</p>
+    <svg width="100%" viewBox="0 0 190 160" role="img">
+      <title>平均SINR对比</title>
+      <desc>各算法平均SINR，GATNet最高2.41dB</desc>
+      <!-- zero line at y=110, scale: 1dB=26px -->
+      <line x1="4" y1="110" x2="186" y2="110" stroke="var(--color-border-secondary)" stroke-width="0.8" stroke-dasharray="3 2"/>
+      <text font-size="8" fill="var(--color-text-tertiary)" x="4" y="108">0 dB</text>
+      <!-- GATNet 2.41 → up 63px → top=47 h=63 -->
+      <rect x="10" y="47"  width="22" height="63" rx="2" fill="#1D9E75"/>
+      <text x="21" y="44"  text-anchor="middle" font-size="8" fill="#1D9E75" font-weight="500">2.41</text>
+      <!-- Equal 1.74 -->
+      <rect x="40" y="65"  width="22" height="45" rx="2" fill="#BA7517"/>
+      <text x="51" y="62"  text-anchor="middle" font-size="8" fill="#BA7517" font-weight="500">1.74</text>
+      <!-- Random 0.53 -->
+      <rect x="70" y="96"  width="22" height="14" rx="2" fill="#639922"/>
+      <text x="81" y="93"  text-anchor="middle" font-size="8" fill="#639922" font-weight="500">0.53</text>
+      <!-- GA -0.10 → down 3px -->
+      <rect x="100" y="110" width="22" height="3"  rx="1" fill="#E24B4A"/>
+      <text x="111" y="122" text-anchor="middle" font-size="8" fill="#E24B4A" font-weight="500">-0.10</text>
+      <!-- WMMSE -0.85 → down 22px -->
+      <rect x="130" y="110" width="22" height="22" rx="2" fill="#534AB7"/>
+      <text x="141" y="142" text-anchor="middle" font-size="8" fill="#534AB7" font-weight="500">-0.85</text>
+      <!-- GATNet+W -0.64 → down 17px -->
+      <rect x="160" y="110" width="22" height="17" rx="2" fill="#185FA5"/>
+      <text x="171" y="137" text-anchor="middle" font-size="8" fill="#185FA5" font-weight="500">-0.64</text>
+      <!-- x labels -->
+      <text x="21"  y="155" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">GATNet</text>
+      <text x="51"  y="155" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">Equal</text>
+      <text x="81"  y="155" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">Random</text>
+      <text x="111" y="155" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">GA</text>
+      <text x="141" y="155" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">WMMSE</text>
+      <text x="171" y="155" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">G+W</text>
+    </svg>
+  </div>
+
+  <!-- BER -->
+  <div class="card">
+    <h3>平均误码率（BER）</h3>
+    <p class="sub">↓ 越低越好</p>
+    <svg width="100%" viewBox="0 0 190 160" role="img">
+      <title>平均BER对比</title>
+      <desc>各算法平均误码率，GATNet最低8.04e-2</desc>
+      <!-- max=0.155→h=130, scale factor=839  BER×839=height -->
+      <!-- WMMSE 0.155→130 -->
+      <rect x="10" y="25"  width="22" height="130" rx="2" fill="#534AB7"/>
+      <text x="21" y="22"  text-anchor="middle" font-size="7.5" fill="#534AB7" font-weight="500">1.55e-1</text>
+      <!-- GA 0.143→120 -->
+      <rect x="40" y="35"  width="22" height="120" rx="2" fill="#E24B4A"/>
+      <text x="51" y="32"  text-anchor="middle" font-size="7.5" fill="#E24B4A" font-weight="500">1.43e-1</text>
+      <!-- GATNet+W 0.149→125 -->
+      <rect x="70" y="30"  width="22" height="125" rx="2" fill="#185FA5"/>
+      <text x="81" y="27"  text-anchor="middle" font-size="7.5" fill="#185FA5" font-weight="500">1.49e-1</text>
+      <!-- Random 0.118→99 -->
+      <rect x="100" y="56" width="22" height="99"  rx="2" fill="#639922"/>
+      <text x="111" y="53" text-anchor="middle" font-size="7.5" fill="#639922" font-weight="500">1.18e-1</text>
+      <!-- Equal 0.0954→80 -->
+      <rect x="130" y="75" width="22" height="80"  rx="2" fill="#BA7517"/>
+      <text x="141" y="72" text-anchor="middle" font-size="7.5" fill="#BA7517" font-weight="500">9.54e-2</text>
+      <!-- GATNet 0.0804→67 -->
+      <rect x="160" y="88" width="22" height="67"  rx="2" fill="#1D9E75"/>
+      <text x="171" y="85" text-anchor="middle" font-size="7.5" fill="#1D9E75" font-weight="500">8.04e-2</text>
+      <!-- baseline -->
+      <line x1="4" y1="155" x2="186" y2="155" stroke="var(--color-border-secondary)" stroke-width="0.5"/>
+      <!-- x labels -->
+      <text x="21"  y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">WMMSE</text>
+      <text x="51"  y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">GA</text>
+      <text x="81"  y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">G+W</text>
+      <text x="111" y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">Random</text>
+      <text x="141" y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">Equal</text>
+      <text x="171" y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">GATNet</text>
+    </svg>
+  </div>
+
+  <!-- QoS -->
+  <div class="card">
+    <h3>QoS 满足率</h3>
+    <p class="sub">↑ 越高越好</p>
+    <svg width="100%" viewBox="0 0 190 160" role="img">
+      <title>QoS满足率对比</title>
+      <desc>各算法QoS满足率，GATNet最高0.824</desc>
+      <!-- max=1.0→h=130, scale=130 -->
+      <!-- GATNet 0.824→107 -->
+      <rect x="10" y="48"  width="22" height="107" rx="2" fill="#1D9E75"/>
+      <text x="21" y="45"  text-anchor="middle" font-size="7.5" fill="#1D9E75" font-weight="500">0.824</text>
+      <!-- Equal 0.780→101 -->
+      <rect x="40" y="54"  width="22" height="101" rx="2" fill="#BA7517"/>
+      <text x="51" y="51"  text-anchor="middle" font-size="7.5" fill="#BA7517" font-weight="500">0.780</text>
+      <!-- Random 0.713→93 -->
+      <rect x="70" y="62"  width="22" height="93"  rx="2" fill="#639922"/>
+      <text x="81" y="59"  text-anchor="middle" font-size="7.5" fill="#639922" font-weight="500">0.713</text>
+      <!-- GA 0.678→88 -->
+      <rect x="100" y="67" width="22" height="88"  rx="2" fill="#E24B4A"/>
+      <text x="111" y="64" text-anchor="middle" font-size="7.5" fill="#E24B4A" font-weight="500">0.678</text>
+      <!-- GATNet+W 0.666→87 -->
+      <rect x="130" y="68" width="22" height="87"  rx="2" fill="#185FA5"/>
+      <text x="141" y="65" text-anchor="middle" font-size="7.5" fill="#185FA5" font-weight="500">0.666</text>
+      <!-- WMMSE 0.656→85 -->
+      <rect x="160" y="70" width="22" height="85"  rx="2" fill="#534AB7"/>
+      <text x="171" y="67" text-anchor="middle" font-size="7.5" fill="#534AB7" font-weight="500">0.656</text>
+      <!-- baseline -->
+      <line x1="4" y1="155" x2="186" y2="155" stroke="var(--color-border-secondary)" stroke-width="0.5"/>
+      <!-- x labels -->
+      <text x="21"  y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">GATNet</text>
+      <text x="51"  y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">Equal</text>
+      <text x="81"  y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">Random</text>
+      <text x="111" y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">GA</text>
+      <text x="141" y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">G+W</text>
+      <text x="171" y="159" text-anchor="middle" font-size="7" fill="var(--color-text-tertiary)">WMMSE</text>
+    </svg>
+  </div>
+</div>
+
+<!-- ③ Complexity table -->
+<div class="card">
+  <h3>表 3.1　各算法计算复杂度与特性对比</h3>
+  <p class="sub" style="margin-bottom:10px"></p>
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align:left">算法</th>
+        <th>计算复杂度</th>
+        <th>需要训练</th>
+        <th>实时性</th>
+        <th>可扩展性</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>WMMSE</td>
+        <td style="font-family:var(--font-mono);font-size:11px">O(T<sub>iter</sub>·N³)</td>
+        <td><span class="tag tag-r">否</span></td>
+        <td><span class="tag tag-r">差</span></td>
+        <td><span class="tag tag-r">差</span></td>
+      </tr>
+      <tr>
+        <td>GA</td>
+        <td style="font-family:var(--font-mono);font-size:11px">O(G·P·N²)</td>
+        <td><span class="tag tag-r">否</span></td>
+        <td><span class="tag tag-r">差</span></td>
+        <td><span class="tag tag-r">差</span></td>
+      </tr>
+      <tr>
+        <td>Equal Power</td>
+        <td style="font-family:var(--font-mono);font-size:11px">O(N)</td>
+        <td><span class="tag tag-r">否</span></td>
+        <td><span class="tag tag-g">优</span></td>
+        <td><span class="tag tag-g">优</span></td>
+      </tr>
+      <tr>
+        <td>Random</td>
+        <td style="font-family:var(--font-mono);font-size:11px">O(N)</td>
+        <td><span class="tag tag-r">否</span></td>
+        <td><span class="tag tag-g">优</span></td>
+        <td><span class="tag tag-g">优</span></td>
+      </tr>
+      <tr>
+        <td><strong>GATNet</strong></td>
+        <td style="font-family:var(--font-mono);font-size:11px">O(L·|E|·K)</td>
+        <td><span class="tag tag-b">是</span></td>
+        <td><span class="tag tag-g">优</span></td>
+        <td><span class="tag tag-b">良</span></td>
+      </tr>
+      <tr style="background:var(--color-background-info)">
+        <td><strong>GATNet+WMMSE ★</strong></td>
+        <td style="font-family:var(--font-mono);font-size:11px">O(L·|E|·K + T'·N³)</td>
+        <td><span class="tag tag-b">是</span></td>
+        <td><span class="tag tag-y">中</span></td>
+        <td><span class="tag tag-y">中</span></td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="note" style="margin-top:8px">
+    T<sub>iter</sub>：WMMSE迭代次数；&nbsp; G, P：遗传算法代数与种群规模；&nbsp; |E|：干扰图边数；&nbsp; ★ 本文提出的混合方案
+  </p>
+</div>
+
+<!-- Legend -->
+<div class="legend" style="margin-top:10px">
+  <div class="leg-item"><div class="leg-dot" style="background:#185FA5"></div>GATNet+WMMSE</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#1D9E75"></div>GATNet</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#534AB7"></div>WMMSE</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#E24B4A"></div>GA</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#BA7517"></div>Equal Power</div>
+  <div class="leg-item"><div class="leg-dot" style="background:#639922"></div>Random</div>
+</div>
+
+</div>

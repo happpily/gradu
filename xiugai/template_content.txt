@@ -1,0 +1,1886 @@
+[P0|Normal|align=None] 
+  runs: 
+
+[P1|Normal|align=None] 审定成绩：
+  runs: [r0 bold=True size=None name=None text='审定成绩：'] [r1 bold=True size=None name=None text='           '] 
+
+[P2|Normal|align=None] 
+  runs: 
+
+[P3|Normal|align=None] 
+  runs: 
+
+[P4|Normal|align=CENTER (1)] 2025年 12 月
+  runs: [r0 bold=True size=177800 name=None text='2025'] [r1 bold=True size=177800 name=None text='年'] [r2 bold=True size=177800 name=None text=' '] [r3 bold=True size=177800 name=None text='12'] [r4 bold=True size=177800 name=None text=' '] [r5 bold=True size=177800 name=None text='月'] 
+
+[P5|Normal|align=CENTER (1)] 重庆邮电大学教务处制
+  runs: [r0 bold=True size=177800 name=None text='重庆邮电大学教务处制'] 
+
+[P6|Normal|align=CENTER (1)] 通信与信息工程   学院本科毕业设计(论文)诚信承诺书
+  runs: [r0 bold=True size=None name=None text=''] [r1 bold=True size=None name=None text='  '] [r2 bold=True size=203200 name=None text='通信'] [r3 bold=True size=203200 name=None text='与信息'] [r4 bold=True size=203200 name=None text='工程'] [r5 bold=True size=None name=None text='   '] [r6 bold=None size=228600 name=None text='学院本科毕业设计'] [r7 bold=None size=228600 name=None text='('] [r8 bold=None size=228600 name=None text='论文'] [r9 bold=None size=228600 name=None text=')'] [r10 bold=None size=228600 name=None text='诚信承诺书'] 
+
+[P7|Normal|align=None] 本人郑重承诺：
+  runs: [r0 bold=None size=None name=None text='本人郑重承诺：'] [r1 bold=None size=None name=None text=' '] 
+
+[P8|Normal|align=None] 我向学院呈交的论文《基于图神经网络的无线通信网络功率分配 》，是本人在指导教师的指导下，独立进行研究工作所取得的成果。除文中已经注明引用的内容外，本论文不含任何其他个人或集体已经发表或撰写过的作品成果。对本文的研究做出重要贡献的个人和集体，均已在文中以明确方式标明并致谢。本人完全意识到本声明的法律结果由本人承担。
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text='我向学院呈交的论文《'] [r2 bold=True size=None name=None text='基于图神经网络的无线通信网络功率分配'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='》，是本人在指导教师的指导下，独立进行研究工作所取得的成果。除文中已经注明引用的内容外，本论文不含任何其他个人或集体已经发表或撰写过的作品成果。对本文的研究做出'] 
+
+[P9|Normal|align=CENTER (1)] 
+  runs: 
+
+[P10|Normal|align=CENTER (1)] 
+  runs: 
+
+[P11|Normal|align=CENTER (1)] 
+  runs: 
+
+[P12|Normal|align=CENTER (1)] 年级：2022211098
+  runs: [r0 bold=None size=None name=None text='             '] [r1 bold=None size=None name=None text='            '] [r2 bold=None size=None name=None text='年级'] [r3 bold=None size=None name=None text='：'] [r4 bold=None size=None name=None text='2022211098'] [r5 bold=None size=None name=None text='                  '] 
+
+[P13|Normal|align=CENTER (1)] 专业：电子信息工程
+  runs: [r0 bold=None size=None name=None text='             '] [r1 bold=None size=None name=None text='          '] [r2 bold=None size=None name=None text='    '] [r3 bold=None size=None name=None text='专业'] [r4 bold=None size=None name=None text='：'] [r5 bold=None size=None name=None text='电子信息'] [r6 bold=None size=None name=None text='工程'] [r7 bold=None size=None name=None text='                  '] 
+
+[P14|Normal|align=CENTER (1)] 班级：01022202
+  runs: [r0 bold=None size=None name=None text='             '] [r1 bold=None size=None name=None text='          '] [r2 bold=None size=None name=None text='班级'] [r3 bold=None size=None name=None text='：'] [r4 bold=None size=None name=None text='01022202'] [r5 bold=None size=None name=None text='                 '] 
+
+[P15|Normal|align=CENTER (1)] 承诺人签名 ：王锋源
+  runs: [r0 bold=None size=None name=None text='       '] [r1 bold=None size=None name=None text='                     '] [r2 bold=None size=None name=None text='承诺人签名'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='：'] [r5 bold=None size=None name=None text='王锋源'] 
+
+[P16|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text='                                    '] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text=''] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text=''] [r7 bold=None size=None name=None text=''] [r8 bold=None size=None name=None text=''] [r9 bold=None size=None name=None text=''] [r10 bold=None size=None name=None text=''] [r11 bold=None size=None name=None text=''] [r12 bold=None size=None name=None text=''] [r13 bold=None size=None name=None text=''] [r14 bold=None size=None name=None text=''] [r15 bold=None size=None name=None text=''] [r16 bold=None size=None name=None text=''] [r17 bold=None size=None name=None text=''] [r18 bold=None size=None name=None text='                 '] 
+
+[P17|Normal|align=CENTER (1)] 2025年 12月 30日
+  runs: [r0 bold=None size=None name=None text='                                    '] [r1 bold=None size=None name=None text='2025'] [r2 bold=None size=None name=None text='年'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='12'] [r5 bold=None size=None name=None text='月'] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text='30'] [r8 bold=None size=None name=None text='日'] 
+
+[P18|Normal|align=CENTER (1)] 
+  runs: 
+
+[P19|Normal|align=CENTER (1)] 
+  runs: 
+
+[P20|Normal|align=CENTER (1)] 学位论文版权使用授权书
+  runs: [r0 bold=None size=228600 name=None text='学位论文版权使用授权书'] 
+
+[P21|Normal|align=None] 本人完全了解重庆邮电大学有权保留、使用学位论文纸质版和电子版的规定，即学校有权向国家有关部门或机构送交论文，允许论文被查阅和借阅等。本人授权重庆邮电大学可以公布本学位论文的全部或部分内容，可编入有关数据库或信息系统进行检索、分析或评价，可以采用影印、缩印、扫描或拷贝等复制手段保存、汇编本学位论文。
+  runs: [r0 bold=None size=None name=None text='本人完全了解'] [r1 bold=None size=None name=None text='重庆邮电大学'] [r2 bold=None size=None name=None text='有权保留、使用学位论文纸质版和电子版的规定，即学校有权向国家有关部门或机构送交论文，允许论文被查阅和借阅等。本人授权'] [r3 bold=None size=None name=None text='重庆邮电大学'] [r4 bold=None size=None name=None text='可以公布本学位论文的全部或部分内容，可编入有关数据库或信息系统进行检索、分析或评价，可以采用影印、缩印、扫描或拷贝等复制手段保存、汇编本学位论文。'] 
+
+[P22|Normal|align=None] （注：保密的学位论文在解密后适用本授权书。）
+  runs: [r0 bold=None size=None name=None text='（注：保密的学位论文在解密后适用本授权书。）'] 
+
+[P23|Normal|align=CENTER (1)] 
+  runs: 
+
+[P24|Heading 1|align=None] 摘要
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text='摘要'] 
+
+[P25|Normal|align=None] 针对无线通信网络中传统功率分配方法在复杂拓扑下建模困难、实时优化能力不足的问题，本研究围绕“基于图神经网络的无线通信网络功率分配方法”开展系统分析与设计。研究首先梳理图神经网络与无线资源分配相关理论，明确功率分配对频谱效率、通信可靠性与系统稳定性的影响机制；随后基于多节点干扰场景构建无线网络仿真模型，建立接收信号、信道状态、干扰关系及功率约束的统一描述；在此基础上，将网络拓扑映射为图结构数据，设计包含节点与边特征的图神经网络模型，实现端到端功率分配决策；最后通过对比实验，将所提方法与遗传算法、传统优化方法进行性能评估。仿真结果表明，该方法在频谱效率与误码率等关键指标上具有较好优化效果，在动态网
+  runs: [r0 bold=None size=None name=宋体 text='针对无线通信网络中传统功率分配方法在复杂拓扑下建模困难、实时优化能力不足的问题，本研究围绕“基于图神经网络的无线通信网络功率分配方法”开展系统分析与设计。研究首'] [r1 bold=None size=None name=宋体 text='图结构'] [r2 bold=None size=None name=宋体 text='数据，设计包含节点与'] [r3 bold=None size=None name=宋体 text='边特征'] [r4 bold=None size=None name=宋体 text='的图神经网络模型，实现端到端功率分配决策；最后通过对比实验，将所提方法与遗传算法、传统优化方法进行性能评估。仿真结果表明，该方法在频谱效率与误码率等关键指标上具'] 
+
+[P26|Normal|align=None] 
+  runs: 
+
+[P27|Normal|align=None] 关键词：无线通信网络；资源分配；图神经网络；功率控制；频谱效率
+  runs: [r0 bold=True size=None name=None text='关键词'] [r1 bold=None size=None name=None text='：无线通信网络；资源分配；图神经网络；功率控制；频谱效率'] 
+
+[P28|Normal|align=None] 
+  runs: 
+
+[P29|Normal|align=None] 
+  runs: 
+
+[P30|Normal|align=CENTER (1)] Abstract
+  runs: [r0 bold=True size=203200 name=None text=''] [r1 bold=True size=203200 name=None text='Abstract'] 
+
+[P31|Normal|align=None] To address the challenges of traditional power allocation methods in wireless communication networks, especially difficult modeling under complex topologies and limited real-time optimization capability, this study investigates a graph neural network (GNN)-based power allocation method. First, the s
+  runs: [r0 bold=None size=None name=None text='To address the challenges of traditional power allocation methods in wireless co'] 
+
+[P32|Normal|align=None] 
+  runs: 
+
+[P33|Normal|align=None] Keywords: wireless communication network; resource allocation; graph neural network; power control; spectrum efficiency
+  runs: [r0 bold=None size=None name=None text='Keywords: wireless communication network; resource allocation; graph neural netw'] 
+
+[P34|Normal|align=None] 
+  runs: 
+
+[P35|Normal|align=None] 。
+  runs: [r0 bold=None size=None name=None text='。'] 
+
+[P36|Normal|align=CENTER (1)] 目录
+  runs: [r0 bold=None size=203200 name=None text=''] [r1 bold=None size=203200 name=None text='目录'] 
+
+[P37|toc 1|align=None] 摘要	I
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text=''] 
+
+[P38|toc 1|align=None] 第1章 引言	1
+  runs: 
+
+[P39|toc 2|align=None] 1.1研究背景和意义	1
+  runs: 
+
+[P40|toc 2|align=None] 1.2 国内外研究现状	2
+  runs: 
+
+[P41|toc 3|align=None] 1.2.1 国外研究现状	2
+  runs: 
+
+[P42|toc 3|align=None] 1.2.2国内研究现状	2
+  runs: 
+
+[P43|toc 2|align=None] 1.3 主要内容和工作安排	3
+  runs: 
+
+[P44|toc 1|align=None] 第2章 系统模型与问题建模	5
+  runs: 
+
+[P45|toc 2|align=None] 2.1网络拓扑模型	5
+  runs: 
+
+[P46|toc 2|align=None] 2.2信道模型	5
+  runs: 
+
+[P47|toc 3|align=None] 2.2.1复合信道衰落模型	5
+  runs: 
+
+[P48|toc 3|align=None] 2.2.2 接收信号与干扰模型	5
+  runs: 
+
+[P49|toc 2|align=None] 2.3图结构数据表示	6
+  runs: 
+
+[P50|toc 2|align=None] 2.4优化问题建模	6
+  runs: 
+
+[P51|toc 2|align=None] 2.5本章小结	7
+  runs: 
+
+[P52|toc 1|align=None] 第3章 GATNet模型设计与算法实现	8
+  runs: 
+
+[P53|toc 2|align=None] 3.1 图注意力网络基础	8
+  runs: 
+
+[P54|toc 3|align=None] 3.1.1 图神经网络概述	8
+  runs: 
+
+[P55|toc 3|align=None] 3.1.2 注意力机制原理	8
+  runs: 
+
+[P56|toc 2|align=None] 3.2 GATNet模型架构设计	9
+  runs: 
+
+[P57|toc 3|align=None] 3.2.1 整体网络结构	9
+  runs: 
+
+[P58|toc 3|align=None] 3.2.2 多头图注意力层	9
+  runs: 
+
+[P59|toc 3|align=None] 3.2.3  残差连接与层归一化	10
+  runs: 
+
+[P60|toc 3|align=None] 3.2.4 功率输出层	10
+  runs: 
+
+[P61|toc 2|align=None] 3.3无监督训练策略	11
+  runs: 
+
+[P62|toc 3|align=None] 3.3.1 损失函数设计	11
+  runs: 
+
+[P63|toc 3|align=None] 3.3.2 训练流程	11
+  runs: 
+
+[P64|toc 2|align=None] 3.4基线算法与对比框架	12
+  runs: 
+
+[P65|toc 2|align=None] 3.5本章小结	13
+  runs: 
+
+[P66|toc 1|align=None] 第4章 仿真实验与结果分析	13
+  runs: 
+
+[P67|toc 2|align=None] 4.1 实验环境与参数设置	13
+  runs: 
+
+[P68|toc 2|align=None] 4.2 训练收敛性分析	14
+  runs: 
+
+[P69|toc 2|align=None] 4.3 算法综合性能对比	16
+  runs: 
+
+[P70|toc 3|align=None] 4.3.1 频谱效率对比	16
+  runs: 
+
+[P71|toc 3|align=None] 4.3.2 计算延迟对比	17
+  runs: 
+
+[P72|toc 2|align=None] 4.4 多干扰场景鲁棒性测试	17
+  runs: 
+
+[P73|toc 3|align=None] 4.4.1 不同干扰强度下的频谱效率	18
+  runs: 
+
+[P74|toc 3|align=None] 4.4.2 不同干扰强度下的计算延迟	18
+  runs: 
+
+[P75|toc 2|align=None] 4.5 多维度指标评估	19
+  runs: 
+
+[P76|toc 3|align=None] 4.5.1 平均SINR分析	19
+  runs: 
+
+[P77|toc 3|align=None] 4.5.2 平均误码率分析	20
+  runs: 
+
+[P78|toc 3|align=None] 4.5.3 QoS满足率分析	20
+  runs: 
+
+[P79|toc 2|align=None] 4.6 本章小结	20
+  runs: 
+
+[P80|toc 1|align=None] 第5章 总结与展望	22
+  runs: 
+
+[P81|toc 2|align=None] 5.1 主要工作与创新点	22
+  runs: 
+
+[P82|toc 2|align=None] 5.2 研究局限性	23
+  runs: 
+
+[P83|toc 2|align=None] 5.3 后续研究工作展望	23
+  runs: 
+
+[P84|toc 1|align=None] 第6章 参考文献的标注和要求	26
+  runs: 
+
+[P85|toc 2|align=None] 6.1 参考文献的重要性	26
+  runs: 
+
+[P86|toc 2|align=None] 6.2 顺序编码体系	26
+  runs: 
+
+[P87|toc 3|align=None] 6.2.1正文中引用文献的标注方法	26
+  runs: 
+
+[P88|toc 3|align=None] 6.2.2 文后参考文献表的著录方法	27
+  runs: 
+
+[P89|toc 2|align=None] 6.3 参考文献要求	28
+  runs: 
+
+[P90|toc 2|align=None] 6.4本章小结	29
+  runs: 
+
+[P91|toc 1|align=None] 第7章 总结与展望	30
+  runs: 
+
+[P92|toc 2|align=None] 7.1 主要工作与创新点	30
+  runs: 
+
+[P93|toc 2|align=None] 7.2 后续研究工作展望	30
+  runs: 
+
+[P94|toc 1|align=None] 参考文献	31
+  runs: 
+
+[P95|toc 1|align=None] 致谢	33
+  runs: 
+
+[P96|toc 1|align=None] 附录A  科技写作中非学术性低级错误的主要表现	34
+  runs: 
+
+[P97|toc 1|align=None] 附录B  英文翻译	37
+  runs: 
+
+[P98|toc 1|align=None] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P99|无缩进正文|align=None] 
+  runs: 
+
+[P100|无缩进正文|align=None] 
+  runs: 
+
+[P101|无缩进正文|align=None] 
+  runs: 
+
+[P102|ABTSTRACT内容|align=None] 
+  runs: 
+
+[P103|Heading 1|align=None] 
+  runs: 
+
+[P104|Heading 1|align=None] 第1章 引言
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='1'] [r2 bold=None size=None name=None text='章'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='引言'] 
+
+[P105|Normal|align=None] 随着5G向6G演进，无线网络正在变得更密集、更动态。用户和设备数量持续增长，链路之间的干扰更复杂，传统功率分配方法在大规模场景下面临两类核心问题：一是建模和求解成本高，二是实时性不足。功率分配直接决定频谱效率、通信可靠性与系统能耗，因此，研究高效、可泛化的分配方法具有明确的工程价值。
+  runs: [r0 bold=None size=None name=None text='随着'] [r1 bold=None size=None name=None text='5G'] [r2 bold=None size=None name=None text='向'] [r3 bold=None size=None name=None text='6G'] [r4 bold=None size=None name=None text='演进，无线网络正在变得更密集、更动态。用户和设备数量持续增长，链路之间的干扰更复杂，传统功率分配方法在大规模场景下面临两类核心问题：一是建模和求解成本高，二是实'] 
+
+[P106|Normal|align=None] 现有方法如凸优化、遗传算法和启发式迭代，在小规模或理想条件下效果较好，但在复杂拓扑和快速变化信道下，往往难以兼顾“性能、速度与鲁棒性”。图神经网络（GNN）能够利用图结构表达节点间依赖关系，天然适合描述无线网络中的“拓扑-信道-干扰”耦合关系，为功率分配提供了新的技术路径。
+  runs: [r0 bold=None size=None name=None text='现有方法如'] [r1 bold=None size=None name=None text='凸'] [r2 bold=None size=None name=None text='优化、遗传算法和启发式迭代，在小规模或理想条件下效果较好，但在复杂拓扑和快速变化信道下，往往难以兼顾'] [r3 bold=None size=None name=None text='“'] [r4 bold=None size=None name=None text='性能、速度与鲁棒性'] [r5 bold=None size=None name=None text='”'] [r6 bold=None size=None name=None text='。图神经网络（'] [r7 bold=None size=None name=None text='GNN'] [r8 bold=None size=None name=None text='）能够利用'] [r9 bold=None size=None name=None text='图结构'] [r10 bold=None size=None name=None text='表达节点间依赖关系，天然适合描述无线网络中的'] [r11 bold=None size=None name=None text='“'] [r12 bold=None size=None name=None text='拓扑'] [r13 bold=None size=None name=None text='-'] [r14 bold=None size=None name=None text='信道'] [r15 bold=None size=None name=None text='-'] [r16 bold=None size=None name=None text='干扰'] [r17 bold=None size=None name=None text='”'] [r18 bold=None size=None name=None text='耦合关系，为功率分配提供了新的技术路径。'] 
+
+[P107|Normal|align=None] 基于此，本文围绕“基于图神经网络的无线通信网络功率分配”开展研究：先建立多节点干扰场景下的系统模型与约束；再将网络映射为图数据，设计GNN端到端输出功率系数；最后通过对比实验评估其在频谱效率、误码率和稳定性上的表现。研究目标是：在满足功率约束与QoS要求的前提下，实现比传统方法更优的综合性能。
+  runs: [r0 bold=None size=None name=None text='基于此，本文'] [r1 bold=None size=None name=None text='围绕'] [r2 bold=None size=None name=None text='“'] [r3 bold=None size=None name=None text='基于图神经网络的无线通信网络功率分配'] [r4 bold=None size=None name=None text='”'] [r5 bold=None size=None name=None text='开展研究：先建立多节点干扰场景下的系统模型与约束；再将网络映射为图数据，设计'] [r6 bold=None size=None name=None text='GNN'] [r7 bold=None size=None name=None text='端到端输出功率系数；最后通过对比实验评估其在频谱效率、误码率和稳定性上的表现。研究目标是：在满足功率约束与'] [r8 bold=None size=None name=None text='Qo'] [r9 bold=None size=None name=None text='S'] [r10 bold=None size=None name=None text='要求的前提下，实现比传统方法更优的综合性能。'] 
+
+[P108|Heading 2|align=None] 1.1 研究背景和意义
+  runs: [r0 bold=None size=None name=None text='1.1'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text='研究背景和意义'] 
+
+[P109|ds-markdown-paragraph|align=None] 随着5G规模化部署和6G研究推进，无线网络向超密集组网方向发展，链路间的同频干扰已成为制约系统容量的主要瓶颈。如何有效管理发射功率以抑制干扰、提升频谱效率，是无线资源优化的核心问题。
+  runs: [r0 bold=None size=None name=Segoe UI text='随着'] [r1 bold=None size=None name=Segoe UI text='5G'] [r2 bold=None size=None name=Segoe UI text='规模化部署和'] [r3 bold=None size=None name=Segoe UI text='6G'] [r4 bold=None size=None name=Segoe UI text='研究推进，无线网络向超密集组'] [r5 bold=None size=None name=Segoe UI text='网方向'] [r6 bold=None size=None name=Segoe UI text='发展，链路间的同频干扰已成为制约'] [r7 bold=None size=None name=Segoe UI text='系统容量的主要瓶颈。如何有效管理发射功率以抑制干扰、提升频谱效率，是无线资源优化的核心问题。'] 
+
+[P110|ds-markdown-paragraph|align=None] 传统功率分配方法以WMMSE迭代优化为代表，虽具有近似最优性能，但计算复杂度高，难以满足实时性需求。遗传算法等启发式方法同样存在搜索时间过长的缺陷。近年来，深度学习方法被用于学习从信道状态到功率分配的快速映射，但早期的全连接网络和卷积网络将链路间干扰关系“打平”处理，丢失了无线网络天然具备的不规则图结构信息。
+  runs: [r0 bold=None size=None name=Segoe UI text='传统功率分配方法以'] [r1 bold=None size=None name=Segoe UI text='WMMSE'] [r2 bold=None size=None name=Segoe UI text='迭代优化为代表，虽具有近似最优性能，但计算复杂度高，难以满足实时性需求。遗传'] [r3 bold=None size=None name=Segoe UI text='算法等启发式方法同样存在搜索时间过长的缺陷。近年来，深度学习方法被用于学习从信道状态到功率分配的快速映射，但早期的全连接网络和卷积网络将链路间干扰关系'] [r4 bold=None size=None name=Segoe UI text='“'] [r5 bold=None size=None name=Segoe UI text='打平'] [r6 bold=None size=None name=Segoe UI text='”'] [r7 bold=None size=None name=Segoe UI text='处理，丢失了无'] [r8 bold=None size=None name=Segoe UI text='线网络'] [r9 bold=None size=None name=Segoe UI text='天然具备的不规则'] [r10 bold=None size=None name=Segoe UI text='图结构'] [r11 bold=None size=None name=Segoe UI text='信息。'] 
+
+[P111|ds-markdown-paragraph|align=None] 图神经网络的出现为这一问题提供了新的建模范式。将收发链路视为节点、干扰关系视为边，功率分配即转化为在干扰图上的节点回归任务。其中，图注意力网络（GAT）通过可学习的注意力权重，能自适应区分不同干扰源的影响程度，天然契合无线干扰环境的强度差异特性。
+  runs: [r0 bold=None size=None name=Segoe UI text='图神经网络的出现为这一问题提供了新的建模范式。将收发链路视为节点、干扰关系视为边，功率分配即转化为在干扰图上的节点回归任务。其中，图注意力网络（'] [r1 bold=None size=None name=Segoe UI text='GAT'] [r2 bold=None size=None name=Segoe UI text='）通过可学习的注意力权重，能自适应区分不同干扰源的影响程度，天然契合无线干扰环境的强度差异特性。'] 
+
+[P112|ds-markdown-paragraph|align=None] 本文研究一种基于多头图注意力网络的端到端功率分配方法，以最大化加权和速率为目标进行无监督训练，同时兼顾公平性与服务质量约束。其理论意义在于丰富了图神经网络在通信物理层中的应用方法；实践意义在于推理速度快、性能逼近传统迭代算法，具备在实际网络控制器中部署的前景。
+  runs: [r0 bold=None size=None name=Segoe UI text='本文研究一种基于多头图注意力网络的端到端功率分配方法，以最大化加权和速率为目标进行无监督训练，同时兼顾公平性与服务质量约束。其理论意义在'] [r1 bold=None size=None name=Segoe UI text='于丰富了图神经网络在通信物理层中的应用方法；实践意义在于推理速度快、性能逼近传统迭代算法，具备在实际网络控制器中部署的前景。'] 
+
+[P113|Normal|align=None] 
+  runs: 
+
+[P114|Heading 2|align=None] 1.2国内外研究现状
+  runs: [r0 bold=None size=None name=None text='1.2'] [r1 bold=None size=None name=None text='国内外研究现状'] 
+
+[P115|Heading 3|align=None] 1.2.1 国外研究现状
+  runs: [r0 bold=None size=None name=None text='1.2.1 '] [r1 bold=None size=None name=None text='国外研究现状'] 
+
+[P116|Normal|align=None] 在国外，研究人员较早开始将机器学习引入无线资源管理领域。Sun等人[1]于2018年率先将深度神经网络（DNN）应用于无线功率控制，提出了WMMSE的神经网络近似方法，证明了数据驱动方法可以以更低的计算代价近似传统迭代算法，开创了无线资源管理与深度学习相结合的研究范式。
+  runs: [r0 bold=None size=None name=None text='在国外，研究人员较早开始将机器学习引入无线资源管理领域。'] [r1 bold=None size=None name=None text='Sun'] [r2 bold=None size=None name=None text='等人'] [r3 bold=None size=None name=None text='[1]'] [r4 bold=None size=None name=None text='于'] [r5 bold=None size=None name=None text='2018'] [r6 bold=None size=None name=None text='年率先将深度神经网络（'] [r7 bold=None size=None name=None text='DNN'] [r8 bold=None size=None name=None text='）应用于无线功率控制，提出了'] [r9 bold=None size=None name=None text='WMMSE'] [r10 bold=None size=None name=None text='的神经网络近似方法，证明了数据驱动方法可以以更低的计算代价近似传统迭代算法，开创了无线资源管理与深度学习相结合的研究范式。'] 
+
+[P117|Normal|align=None] Eisen等人[2]进一步将图神经网络引入无线资源管理，提出了基于随机边图神经网络（REGNN）的分布式功率分配框架。该方法通过利用干扰图的置换等变性质，保证了算法在不同网络规模下的泛化能力，成为图学习方法应用于无线通信的奠基性工作。Shen等人[3]专门针对干扰管理问题，设计了基于图注意力网络的端到端学习框架，在多用户MISO系统中实现了接近最优的波束成形决策，相较传统WMMSE算法，计算延迟降低了两个数量级。
+  runs: [r0 bold=None size=None name=None text='Eisen'] [r1 bold=None size=None name=None text='等人'] [r2 bold=None size=None name=None text='[2]'] [r3 bold=None size=None name=None text='进一步将图神经网络引入无线资源管理，提出了基于随机边图神经网络（'] [r4 bold=None size=None name=None text='REGNN'] [r5 bold=None size=None name=None text='）的分布式功率分配框架。该方法通过利用干扰图的'] [r6 bold=None size=None name=None text='置换等变性质'] [r7 bold=None size=None name=None text='，保证了算法在不同网络规模下的泛化能力，成为图学习方法应用于无线通信的奠基性工作。'] [r8 bold=None size=None name=None text='Shen'] [r9 bold=None size=None name=None text='等人'] [r10 bold=None size=None name=None text='[3]'] [r11 bold=None size=None name=None text='专门针对干扰管理问题，设计了基于图注意力网络的端到'] [r12 bold=None size=None name=None text='端学习'] [r13 bold=None size=None name=None text='框架，在多用户'] [r14 bold=None size=None name=None text='MISO'] [r15 bold=None size=None name=None text='系统中实现了接近最优的波束成形决策，相较传统'] [r16 bold=None size=None name=None text='WMMSE'] [r17 bold=None size=None name=None text='算法，计算延迟降低了两个数量级。'] 
+
+[P118|Normal|align=None] Velickovic等人[5]提出的图注意力网络（GAT）通过引入多头注意力机制，使节点表示学习能够自适应地聚焦于重要邻居，为本文所提GATNet方法提供了核心理论基础。近年来，国外研究者还探索了将元学习、联邦学习与图神经网络相结合的方向，进一步提升了模型在异构、动态网络中的适应性。
+  runs: [r0 bold=None size=None name=None text='Velickovic'] [r1 bold=None size=None name=None text='等人'] [r2 bold=None size=None name=None text='[5]'] [r3 bold=None size=None name=None text='提出的图注意力网络（'] [r4 bold=None size=None name=None text='GAT'] [r5 bold=None size=None name=None text='）通过引入多头注意力机制，使节点表示学习能够自适应地聚焦于重要邻居，为本文所提'] [r6 bold=None size=None name=None text='GATNet'] [r7 bold=None size=None name=None text='方法提供了核心理论基础。近年来，国外研究者还探索了将元学习、联邦学习与图神经网络相结合的方向，进一步提升了模型在异构、动态网络中的适应性。'] 
+
+[P119|Heading 3|align=None] 1.2.2国内研究现状
+  runs: [r0 bold=None size=None name=None text='1.2.2'] [r1 bold=None size=None name=None text='国内研究现状'] 
+
+[P120|Normal|align=None] 在国内，华为、中兴等企业及高校科研机构对智能无线资源管理开展了大量研究。北京邮电大学团队将深度强化学习（DRL）与图神经网络相结合，探索多智能体协作功率控制方案，在多小区场景下取得了显著的性能提升。电子科技大学团队针对异构网络中的功率分配问题，设计了基于图卷积网络（GCN）的跨层资源管理算法，有效降低了小区间干扰，降低了传统迭代算法高计算复杂度的制约。
+  runs: [r0 bold=None size=None name=None text='在国内，华为、中兴等企业及高校科研机构对智能无线资源管理开展了大量研究。北京邮电大学团队将深度强化学习（'] [r1 bold=None size=None name=None text='DRL'] [r2 bold=None size=None name=None text='）与图神经网络相结合，探索多智能体协作功率控制方案，在'] [r3 bold=None size=None name=None text='多小区场景'] [r4 bold=None size=None name=None text='下取得了显著的性能提升。电子科技大学团队针对异构网络中的功率分配问题，设计了基于图卷积网络（'] [r5 bold=None size=None name=None text='GCN'] [r6 bold=None size=None name=None text='）'] [r7 bold=None size=None name=None text='的跨层资源管理'] [r8 bold=None size=None name=None text='算法，有效降低了小区间干扰，降低了传统迭代算法高计算复杂度的制约。'] 
+
+[P121|Normal|align=None] 上海交通大学团队将迁移学习引入GNN功率分配，提出了跨场景快速适应方法，缩短了模型在新拓扑下的部署时间。重庆邮电大学在无线通信与智能网络领域有持续投入，相关研究聚焦于异构网络资源调度与边缘计算辅助推理，为本文提供了重要参考。此外，国内学者在WMMSE和博弈论框架下，针对D2D通信等场景提出了分布式、低复杂度的改进算法，初步实现了低延迟功率控制。
+  runs: [r0 bold=None size=None name=None text='上海交通大学团队将迁移学习引入'] [r1 bold=None size=None name=None text='GNN'] [r2 bold=None size=None name=None text='功率分配，提出了跨场景快速适应方法，缩短了模型在新拓扑下的部署时间。重庆邮电大学在无线通信与智能网络领域有持续投入，相关研究聚焦于异构网络资源调度与边缘计算辅助'] [r3 bold=None size=None name=None text='WMMSE'] [r4 bold=None size=None name=None text='和博弈论框架下，针对'] [r5 bold=None size=None name=None text='D2D'] [r6 bold=None size=None name=None text='通信等场景提出了分布式、'] [r7 bold=None size=None name=None text='低复杂'] [r8 bold=None size=None name=None text='度的改进算法，初步实现了低延迟功率控制。'] 
+
+[P122|Normal|align=None] 总体来看，国内外现有研究在以下方面仍有不足：一是大多未充分利用注意力机制对不同干扰源差异化加权，在强干扰不均匀场景下性能受限；二是端到端深度学习方法与传统凸优化的混合方案研究较少；三是面向动态外部干扰环境的鲁棒性评估不足。本文针对上述问题展开研究，提出了基于多头图注意力网络的端到端功率分配方法。
+  runs: [r0 bold=None size=None name=None text='总体来看，国内外现有研究在以下方面仍有不足：一是大多未充分利用注意力机制对不同干扰源差异化加权，在强干扰不均匀场景下性能受限；二是端到端深度学习方法与传统'] [r1 bold=None size=None name=None text='凸'] [r2 bold=None size=None name=None text='优化的混合方案研究较少；三是面向动态外部干扰环境的鲁棒性评估不足。本文针对上述问题展开研究，提出了基于多头图注意力网络的端到端功率分配方法。'] 
+
+[P123|Normal|align=None] 
+  runs: 
+
+[P124|Heading 2|align=None] 1.3主要内容和工作安排
+  runs: [r0 bold=None size=None name=None text='1.3'] [r1 bold=None size=None name=None text='主要内容和工作安排'] 
+
+[P125|Normal|align=None] 写出论文的主要工作内容，并逐一介绍每章的内容安排。全文共分为5章，内容结构安排如下：
+  runs: [r0 bold=None size=None name=None text='写出论文的主要工作内容，并逐一介绍每章的内容安排。全文共分为'] [r1 bold=None size=None name=None text='5'] [r2 bold=None size=None name=None text='章，内容结构安排如下：'] 
+
+[P126|Normal|align=None] 本文以多链路干扰场景为研究背景，针对传统功率分配方法的局限性，提出了基于图注意力网络（GATNet）的端到端无线功率分配方法。全文共分为五章，内容结构安排如下：
+  runs: [r0 bold=None size=None name=None text='本文以多链路干扰场景为研究背景，针对传统功率分配方法的局限性，提出了基于图注意力网络（'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='）的端到端无线功率分配方法。全文共分为五章，内容结构安排如下：'] 
+
+[P127|Normal|align=None] 第1章为引言，介绍课题研究背景与意义，梳理国内外研究现状，并说明本文主要工作安排。
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='1'] [r2 bold=None size=None name=None text='章为引言，介绍课题研究背景与意义，梳理国内外研究现状，并说明本文主要工作安排。'] 
+
+[P128|Normal|align=None] 第2章建立无线通信网络系统模型与优化问题框架，包括网络拓扑、信道模型、图结构数据表示与非凸优化问题建模。
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='2'] [r2 bold=None size=None name=None text='章建立无线通信网络系统模型与优化问题框架，包括网络拓扑、信道模型、'] [r3 bold=None size=None name=None text='图结构'] [r4 bold=None size=None name=None text='数据表示与非'] [r5 bold=None size=None name=None text='凸'] [r6 bold=None size=None name=None text='优化问题建模。'] 
+
+[P129|Normal|align=None] 第3章设计GATNet模型结构与无监督训练策略，详细介绍多头图注意力层、残差连接、输出映射及损失函数，并给出与基线算法的对比框架。
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='3'] [r2 bold=None size=None name=None text='章设计'] [r3 bold=None size=None name=None text='GATNet'] [r4 bold=None size=None name=None text='模型结构与无监督训练策略，详细介绍多头图注意力层、残差连接、输出映射及损失函数，并给出与基线算法的对比框架。'] 
+
+[P130|Normal|align=None] 第4章进行仿真实验与多维度性能评估，从训练收敛性、综合算法对比、多干扰场景鲁棒性及SINR/BER/QoS等指标对所提方法进行全面验证。
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='4'] [r2 bold=None size=None name=None text='章进行仿真实验与多维度性能评估，从训练收敛性、综合算法对比、多干扰场景鲁棒性及'] [r3 bold=None size=None name=None text='SINR/BER/QoS'] [r4 bold=None size=None name=None text='等指标对所提方法进行全面验证。'] 
+
+[P131|Normal|align=None] 第5章对全文工作进行总结，指出当前研究局限性，并展望未来研究方向。
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='5'] [r2 bold=None size=None name=None text='章对全文工作进行总结，指出当前研究局限性，并展望未来研究方向。'] 
+
+[P132|Normal|align=None] 
+  runs: 
+
+[P133|Heading 1|align=None] 第2章 系统模型与问题建模
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='2'] [r2 bold=None size=None name=None text='章'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='系统模型与问题建模'] 
+
+[P134|Heading 2|align=None] 2.1网络拓扑模型
+  runs: [r0 bold=None size=None name=None text='2.1'] [r1 bold=None size=None name=None text='网络拓扑模型'] 
+
+[P135|Normal|align=None] 考虑一个由对发射机-接收机构成的无线通信网络，所有链路共享同一频谱资源，部署在边长为的正方形区域内。第个发射机（）与对应的接收机（）构成一条通信链路，收发间距约束在范围内。
+  runs: [r0 bold=None size=None name=None text='考虑一个由'] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text='对发射机'] [r3 bold=None size=None name=None text='-'] [r4 bold=None size=None name=None text='接收机构成的无线通信网络，所有链路共享同一频谱资源，部署在边长为'] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text='的正方形区域内。第'] [r7 bold=None size=None name=None text=''] [r8 bold=None size=None name=None text='个'] [r9 bold=None size=None name=None text='发射机（'] [r10 bold=None size=None name=None text=''] [r11 bold=None size=None name=None text=''] [r12 bold=None size=None name=None text='）与对应的接收机（'] [r13 bold=None size=None name=None text=''] [r14 bold=None size=None name=None text='）构成一条通信链路，收发间距约束在'] [r15 bold=None size=None name=None text=''] [r16 bold=None size=None name=None text='范围内。'] 
+
+[P136|Normal|align=None] 发射机位置在区域内均匀随机分布，接收机位置以对应发射机为圆心、极坐标方式生成。网络拓扑可抽象为有向干扰图，其中顶点集表示通信链路，有向边集表示链路间的干扰关系：若链路的发射信号对链路的接收机构成干扰，则存在边。
+  runs: [r0 bold=None size=None name=None text='发射机位置在区域内均匀随机分布，接收机位置以对应发射机为圆心、极坐标方式生成。网络拓扑可抽象为有向干扰图'] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text='，其中顶点集'] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text='表示通信链路，有向边集'] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text='表示链路间的干扰关系：若链路'] [r7 bold=None size=None name=None text=''] [r8 bold=None size=None name=None text='的发射信号对链路'] [r9 bold=None size=None name=None text=''] [r10 bold=None size=None name=None text='的接收机构成干扰，则存在边'] [r11 bold=None size=None name=None text=''] [r12 bold=None size=None name=None text='。'] 
+
+[P137|Normal|align=None] 
+  runs: 
+
+[P138|Heading 2|align=None] 2.2信道模型
+  runs: [r0 bold=None size=None name=None text='2.2'] [r1 bold=None size=None name=None text='信道模型'] 
+
+[P139|Heading 3|align=None] 2.2.1复合信道衰落模型
+  runs: [r0 bold=None size=None name=None text='2.2.1'] [r1 bold=None size=None name=None text='复合信道衰落模型'] 
+
+[P140|Normal|align=None] 信道增益表示从发射机到接收机的链路增益，综合考虑大尺度路径损耗与小尺度 Rayleigh 衰落：
+  runs: [r0 bold=None size=None name=None text='信道增益'] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text='表示从发射机'] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text='到接收机'] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text='的链路增益，综合考虑大尺度路径损耗与小尺度'] [r7 bold=None size=None name=None text=' Rayleigh '] [r8 bold=None size=None name=None text='衰落：'] 
+
+[P141|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P142|Normal|align=None] 式中：
+  runs: [r0 bold=None size=None name=None text='式中：'] 
+
+[P143|Normal|align=None] —— 小尺度衰落系数，服从复高斯分布 ，
+  runs: [r0 bold=None size=None name=None text='   '] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='——'] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text='小尺度衰落系数，服从复高斯分布'] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text=''] [r9 bold=None size=None name=None text='，'] 
+
+[P144|Normal|align=None] 即  服从单位均值的指数分布（Rayleigh 衰落）；
+  runs: [r0 bold=None size=None name=None text='           '] [r1 bold=None size=None name=None text='即'] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='服从单位均值的指数分布（'] [r6 bold=None size=None name=None text='Rayleigh '] [r7 bold=None size=None name=None text='衰落）；'] 
+
+[P145|Normal|align=None] —— 发射机  与接收机  之间的欧氏距离，单位为 m；
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text='——'] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='发射机'] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text=''] [r8 bold=None size=None name=None text=' '] [r9 bold=None size=None name=None text='与接收机'] [r10 bold=None size=None name=None text=' '] [r11 bold=None size=None name=None text=''] [r12 bold=None size=None name=None text=' '] [r13 bold=None size=None name=None text='之间的欧氏距离，单位为'] [r14 bold=None size=None name=None text=' m'] [r15 bold=None size=None name=None text='；'] 
+
+[P146|Normal|align=None] 
+  runs: 
+
+[P147|Normal|align=None] —— 路径损耗指数，本文取 ；
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text='   '] [r3 bold=None size=None name=None text='——'] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='路径损耗指数，本文取'] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text=''] [r8 bold=None size=None name=None text='；'] 
+
+[P148|Normal|align=None] 该值可根据传播环境在  范围内调整；
+  runs: [r0 bold=None size=None name=None text='           '] [r1 bold=None size=None name=None text='该值可根据传播环境在'] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='范围内调整；'] 
+
+[P149|Normal|align=None] 
+  runs: 
+
+[P150|Normal|align=None] —— 数值稳定常数，取 ，
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text='   '] [r3 bold=None size=None name=None text='——'] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='数值稳定常数，取'] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text=''] [r8 bold=None size=None name=None text='，'] 
+
+[P151|Normal|align=None] 用于防止收发距离极近时出现除零。
+  runs: [r0 bold=None size=None name=None text='           '] [r1 bold=None size=None name=None text='用于防止收发距离极近时出现除零。'] 
+
+[P152|Normal|align=None] 
+  runs: 
+
+[P153|Normal|align=None] 当  时， 为第  条链路的直传信道增益；
+  runs: [r0 bold=None size=None name=None text='当'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='时，'] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text='为第'] [r8 bold=None size=None name=None text=' '] [r9 bold=None size=None name=None text=''] [r10 bold=None size=None name=None text=' '] [r11 bold=None size=None name=None text='条链路的直'] [r12 bold=None size=None name=None text='传信道'] [r13 bold=None size=None name=None text='增益；'] 
+
+[P154|Normal|align=None] 当  时， 为发射机  对接收机  的干扰信道增益。
+  runs: [r0 bold=None size=None name=None text='当'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='时，'] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text='为发射机'] [r8 bold=None size=None name=None text=' '] [r9 bold=None size=None name=None text=''] [r10 bold=None size=None name=None text=' '] [r11 bold=None size=None name=None text='对接收机'] [r12 bold=None size=None name=None text=' '] [r13 bold=None size=None name=None text=''] [r14 bold=None size=None name=None text=' '] [r15 bold=None size=None name=None text='的干扰信道增益。'] 
+
+[P155|Heading 3|align=None] 2.2.2 接收信号与干扰模型
+  runs: [r0 bold=None size=None name=None text='2.2.2 '] [r1 bold=None size=None name=None text='接收信号与干扰模型'] 
+
+[P156|Normal|align=None] 在接收机处，接收信号可表示为：
+  runs: [r0 bold=None size=None name=None text='在接收机'] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text='处，接收信号可表示为：'] 
+
+[P157|Normal|align=CENTER (1)] 式中
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text='式中'] 
+
+[P158|Normal|align=None] —— 发射机i的发射功率，满足
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='发射机'] [r3 bold=None size=None name=None text='i'] [r4 bold=None size=None name=None text='的发射功率'] [r5 bold=None size=None name=None text='，满足'] [r6 bold=None size=None name=None text=''] 
+
+[P159|Normal|align=None] —— 发送符号，满足
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='发送符号，满足'] [r3 bold=None size=None name=None text=''] 
+
+[P160|Normal|align=None] —— 加性高斯白噪声，, 为噪声功率；
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='加性高斯白噪声，'] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text=','] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text=''] [r7 bold=None size=None name=None text='为噪声功率'] [r8 bold=None size=None name=None text='；'] 
+
+[P161|Normal|align=None] —— 来自其他链路的同频干扰。
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='来自其他链路的同频干扰。'] 
+
+[P162|Normal|align=None] 接收机i的信干噪比（SINR）为：
+  runs: [r0 bold=None size=None name=None text='接收机'] [r1 bold=None size=None name=None text='i'] [r2 bold=None size=None name=None text='的信干噪'] [r3 bold=None size=None name=None text='比（'] [r4 bold=None size=None name=None text='SINR'] [r5 bold=None size=None name=None text='）为：'] 
+
+[P163|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P164|Normal|align=None] 式中， —— 链路  承受的外部干扰功率，包括持续干扰与突发干扰两类，用于模拟动态电磁环境。
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text=' —— '] [r3 bold=None size=None name=None text='链路'] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text=''] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text='承受的外部干扰功率，包括持续干扰与突发干扰两类，用于模拟动态电磁环境。'] 
+
+[P165|Normal|align=None] 根据香农公式，链路  的可达速率为：
+  runs: [r0 bold=None size=None name=None text='根据香农公式，链路'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='的可达速率为：'] 
+
+[P166|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P167|Normal|align=None] 外部干扰功率  由持续干扰与突发干扰两部分构成。持续干扰来自  个随机部署的外部干扰源，各干扰源以概率  活跃，发射功率为 ；突发干扰以概率  触发，强度在  范围内均匀分布。该模型使仿真环境更贴近实际部署中复杂多变的电磁干扰场景。
+  runs: [r0 bold=None size=None name=None text='外部干扰功率'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='由持续干扰与突发干扰两部分构成。持续干扰来自'] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text=''] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text='个'] [r9 bold=None size=None name=None text='随机部署的外部干扰源，各干扰源以概率'] [r10 bold=None size=None name=None text=' '] [r11 bold=None size=None name=None text=''] [r12 bold=None size=None name=None text=' '] [r13 bold=None size=None name=None text='活跃，发射功率为'] [r14 bold=None size=None name=None text=' '] [r15 bold=None size=None name=None text=''] [r16 bold=None size=None name=None text='；突发干扰以概率'] [r17 bold=None size=None name=None text=' '] [r18 bold=None size=None name=None text=''] [r19 bold=None size=None name=None text=' '] [r20 bold=None size=None name=None text='触发，强度在'] [r21 bold=None size=None name=None text=' '] [r22 bold=None size=None name=None text=''] [r23 bold=None size=None name=None text=' '] [r24 bold=None size=None name=None text='范围内均匀分布。该模型使仿真环境更贴近实际部署中复杂多变的电磁干扰场景。'] 
+
+[P168|Normal|align=None] 
+  runs: 
+
+[P169|Heading 2|align=None] 2.3图结构数据表示
+  runs: [r0 bold=None size=None name=None text='2.3'] [r1 bold=None size=None name=None text='图结构'] [r2 bold=None size=None name=None text='数据表示'] 
+
+[P170|Normal|align=CENTER (1)] 为适配图神经网络处理，将上述网络拓扑转化为图结构数据。对于有向干扰图
+  runs: [r0 bold=None size=None name=None text='为适配图神经网络处理，将上述网络拓扑转化为'] [r1 bold=None size=None name=None text='图结构'] [r2 bold=None size=None name=None text='数据。对于有向干扰图'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text=''] 
+
+[P171|Normal|align=None] 
+  runs: 
+
+[P172|Normal|align=None] 节点特征：每个节点  对应第  条通信链路，其特征向量包含直传信道质量、链路重要性以及噪声基底信息：
+  runs: [r0 bold=None size=None name=None text='节点特征：每个节点'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='对应第'] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text=''] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text='条通信链路，其特征向量包含直'] [r9 bold=None size=None name=None text='传信道'] [r10 bold=None size=None name=None text='质量、链路重要性以及噪声基底信息：'] 
+
+[P173|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P174|Normal|align=None] 式中：
+  runs: [r0 bold=None size=None name=None text='式中：'] 
+
+[P175|Normal|align=None] —— 链路  的直传信道增益，由式  给出；
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='链路'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text=''] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text='的直'] [r7 bold=None size=None name=None text='传信道'] [r8 bold=None size=None name=None text='增益，由式'] [r9 bold=None size=None name=None text='  '] [r10 bold=None size=None name=None text='给出；'] 
+
+[P176|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' '] 
+
+[P177|Normal|align=None] —— 链路权重，与直传距离成反比并归一化，距离越短的链路在优化中享有越高优先级；
+  runs: [r0 bold=None size=None name=None text='—— '] [r1 bold=None size=None name=None text='链路权重，与直传距离成反比并归一化，距离越短的链路在优化中享有越高优先级；'] 
+
+[P178|Normal|align=None] —— 热噪声功率，取对数使数值范围与增益特征匹配。
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='热噪声功率，取对数使数值范围与增益特征匹配。'] 
+
+[P179|Normal|align=None] 边特征：有向边  表示发射机  对接收机  的干扰，其边特征编码了两个方向的信道增益，以利用信道互易性：
+  runs: [r0 bold=None size=None name=None text='边特征：有向边'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='表示发射机'] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text=''] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text='对接收机'] [r9 bold=None size=None name=None text=' '] [r10 bold=None size=None name=None text=''] [r11 bold=None size=None name=None text=' '] [r12 bold=None size=None name=None text='的干扰，其边特征编码了两个方向的信道增益，以利用信道互易性：'] 
+
+[P180|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P181|Normal|align=None] 式中：
+  runs: [r0 bold=None size=None name=None text='式中：'] 
+
+[P182|Normal|align=None] —— 发射机  到接收机  的干扰信道增益；
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='发射机'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text=''] [r5 bold=None size=None name=None text=' '] [r6 bold=None size=None name=None text='到接收机'] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text=''] [r9 bold=None size=None name=None text=' '] [r10 bold=None size=None name=None text='的干扰信道增益；'] 
+
+[P183|Normal|align=None] —— 反向信道增益，反映互易特性。
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='反向信道增益，反映互易特性。'] 
+
+[P184|Normal|align=None] 邻接关系：干扰图为全连接有向图（删除自环），即任意两条不同链路之间都存在干扰边：
+  runs: [r0 bold=None size=None name=None text='邻接关系：干扰图为全连接有向图（删除自环），即任意两条不同链路之间都存在干扰边：'] 
+
+[P185|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P186|Normal|align=None] 该设计完整保留了所有潜在干扰关系，使图神经网络能够在训练过程中通过注意力机制自动识别并弱化可忽略的干扰边，无需预先设定干扰阈值。
+  runs: [r0 bold=None size=None name=None text='该设计完整保留了所有潜在干扰关系，使图神经网络能够在训练过程中通过注意力机制自动识别并弱化可忽略的干扰边，无需预先设定干扰阈值。'] 
+
+[P187|Normal|align=None] 
+  runs: 
+
+[P188|Heading 2|align=None] 2.4优化问题建模
+  runs: [r0 bold=None size=None name=None text='2.4'] [r1 bold=None size=None name=None text='优化问题建模'] 
+
+[P189|Normal|align=None] 以最大化网络加权和速率为目标，建立功率分配优化问题：
+  runs: [r0 bold=None size=None name=None text='以最大化网络加权和速率为目标，建立功率分配优化问题：'] 
+
+[P190|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P191|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P192|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P193|Normal|align=None] —— 链路权重，用于体现不同业务的优先级；
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='链路权重，用于体现不同业务的优先级；'] 
+
+[P194|Normal|align=None] —— 最大发射功率约束；
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='最大发射功率约束；'] 
+
+[P195|Normal|align=None] —— 最小 SINR 门限，保障链路服务质量。
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='最小'] [r2 bold=None size=None name=None text=' SINR '] [r3 bold=None size=None name=None text='门限，保障链路服务质量。'] 
+
+[P196|Normal|align=None] 该问题属于非凸优化问题，目标函数为关于  的非凸函数，且存在耦合的干扰项，传统迭代算法（如 WMMSE）计算复杂度高，难以满足实时性需求。因此，本文采用图注意力网络学习从信道状态到功率分配的直接映射，实现端到端的快速推理。
+  runs: [r0 bold=None size=None name=None text='该问题属于非'] [r1 bold=None size=None name=None text='凸'] [r2 bold=None size=None name=None text='优化问题，目标函数为关于'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='的非凸函数，且存在耦合的干扰项，传统迭代算法（如'] [r6 bold=None size=None name=None text=' WMMSE'] [r7 bold=None size=None name=None text='）计算复杂度高，难以满足实时性需求。因此，本文采用图注意力网络学习从信道状态到功率分配的直接映射，实现端到端的快速推理。'] 
+
+[P197|Normal|align=CENTER (1)] 
+  runs: 
+
+[P198|Heading 2|align=None] 2.5本章小结
+  runs: [r0 bold=None size=None name=None text='2.5'] [r1 bold=None size=None name=None text='本章小结'] 
+
+[P199|Normal|align=None] 本章建立了多链路干扰场景下的无线通信网络模型，主要内容包括：
+  runs: [r0 bold=None size=None name=None text='本章建立了多链路干扰场景下的无线通信网络模型，主要内容包括：'] 
+
+[P200|Normal|align=None] 1. 基于随机几何的网络拓扑与节点分布；
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='基于随机几何的网络拓扑与节点分布；'] 
+
+[P201|Normal|align=None] 2. Rayleigh衰落与路径损耗复合信道模型；
+  runs: [r0 bold=None size=None name=None text='2. Rayleigh'] [r1 bold=None size=None name=None text='衰落与路径损耗复合信道模型；'] 
+
+[P202|Normal|align=None] 3. 包含外部干扰的SINR与速率计算；
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='包含外部干扰的'] [r2 bold=None size=None name=None text='SINR'] [r3 bold=None size=None name=None text='与速率计算；'] 
+
+[P203|Normal|align=None] 4. 将网络映射为图结构数据的节点/边特征设计；
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='将网络映射为'] [r2 bold=None size=None name=None text='图结构'] [r3 bold=None size=None name=None text='数据的节点'] [r4 bold=None size=None name=None text='/'] [r5 bold=None size=None name=None text='边特征'] [r6 bold=None size=None name=None text='设计；'] 
+
+[P204|Normal|align=None] 5. 以加权和速率最大化为目标的非凸优化问题建模。
+  runs: [r0 bold=None size=None name=None text='5. '] [r1 bold=None size=None name=None text='以加权和速率最大化为目标的非'] [r2 bold=None size=None name=None text='凸'] [r3 bold=None size=None name=None text='优化问题建模。'] 
+
+[P205|Normal|align=None] 上述模型为后续第3章的GAT网络设计与第4章的实验评估提供了理论基础与问题框架。
+  runs: [r0 bold=None size=None name=None text='上述模型为后续第'] [r1 bold=None size=None name=None text='3'] [r2 bold=None size=None name=None text='章的'] [r3 bold=None size=None name=None text='GAT'] [r4 bold=None size=None name=None text='网络设计与第'] [r5 bold=None size=None name=None text='4'] [r6 bold=None size=None name=None text='章的实验评估提供了理论基础与问题框架。'] 
+
+[P206|Normal|align=None] 
+  runs: 
+
+[P207|Heading 1|align=None] 第3章 GATNet模型设计与算法实现
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text='第'] [r2 bold=None size=None name=None text='3'] [r3 bold=None size=None name=None text='章'] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='GATNet'] [r6 bold=None size=None name=None text='模型设计与算法实现'] 
+
+[P208|Heading 2|align=None] 3.1图注意力网络基础
+  runs: [r0 bold=None size=None name=None text='3.1'] [r1 bold=None size=None name=None text='图注意力网络基础'] 
+
+[P209|Heading 3|align=None] 3.1.1 图神经网络概述
+  runs: [r0 bold=None size=None name=None text='3.1.1 '] [r1 bold=None size=None name=None text='图神经网络概述'] 
+
+[P210|Normal|align=None] 图神经网络（Graph Neural Network, GNN）是一类直接作用于图结构数据的深度学习模型。与传统全连接网络或卷积神经网络不同，GNN通过消息传递机制（Message Passing）聚合邻居节点信息，能够有效捕获节点间的不规则拓扑依赖关系。
+  runs: [r0 bold=None size=None name=None text='图神经网络（'] [r1 bold=None size=None name=None text='Graph Neural Network, GNN'] [r2 bold=None size=None name=None text='）是一类直接作用于'] [r3 bold=None size=None name=None text='图结构'] [r4 bold=None size=None name=None text='数据的深度学习模型。与传统全连接网络或卷积神经网络不同，'] [r5 bold=None size=None name=None text='GNN'] [r6 bold=None size=None name=None text='通过消息传递机制（'] [r7 bold=None size=None name=None text='Message Passing'] [r8 bold=None size=None name=None text='）聚合邻居节点信息，能够有效捕获节点间的不规则拓扑依赖关系。'] 
+
+[P211|Normal|align=None] 对于干扰图G=(V,E)，GNN的第l层传播规则可概括为：
+  runs: [r0 bold=None size=None name=None text='对于干扰图'] [r1 bold=None size=None name=None text='G=(V,E)'] [r2 bold=None size=None name=None text='，'] [r3 bold=None size=None name=None text='GNN'] [r4 bold=None size=None name=None text='的第'] [r5 bold=None size=None name=None text='l'] [r6 bold=None size=None name=None text='层传播'] [r7 bold=None size=None name=None text='规则可概括为：'] 
+
+[P212|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P213|Normal|align=None] 式中， —— 节点在第l层的隐藏状态；
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text=''] [r2 bold=None size=None name=None text=' —— '] [r3 bold=None size=None name=None text='节点'] [r4 bold=None size=None name=None text=''] [r5 bold=None size=None name=None text='在第'] [r6 bold=None size=None name=None text='l'] [r7 bold=None size=None name=None text='层的隐藏状态；'] 
+
+[P214|Normal|align=None] —— 节点的邻居节点集合；
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='节点'] [r3 bold=None size=None name=None text=''] [r4 bold=None size=None name=None text='的邻居节点集合；'] 
+
+[P215|Normal|align=None] —— 邻居信息聚合函数；
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='邻居信息聚合函数；'] 
+
+[P216|Normal|align=None] —— 状态更新函数。
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='状态更新函数。'] 
+
+[P217|Normal|align=None] 
+  runs: 
+
+[P218|Heading 3|align=None] 3.1.2 注意力机制原理
+  runs: [r0 bold=None size=None name=None text='3.1.2 '] [r1 bold=None size=None name=None text='注意力机制原理'] 
+
+[P219|Normal|align=None] 注意力机制（Attention Mechanism）通过可学习的权重系数自适应地衡量不同输入的重要性。在图结构中，注意力机制赋予模型区分不同邻居节点影响程度的能力，这对于干扰强度差异显著的无线通信场景尤为关键。
+  runs: [r0 bold=None size=None name=None text='注意力机制（'] [r1 bold=None size=None name=None text='Attention Mechanism'] [r2 bold=None size=None name=None text='）通过可学习的权重系数自适应地衡量不同输入的重要性。在'] [r3 bold=None size=None name=None text='图结构'] [r4 bold=None size=None name=None text='中，注意力机制赋予模型区分不同邻居节点影响程度的能力，这对于干扰强度差异显著的无线通信场景尤为关键。'] 
+
+[P220|Normal|align=None] 给定节点  及其邻居 ，注意力系数  衡量节点  对节点  的重要性：
+  runs: [r0 bold=None size=None name=None text='给定节点'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text='及其邻居'] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='，注意力系数'] [r6 bold=None size=None name=None text=' '] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text='衡量节点'] [r9 bold=None size=None name=None text=' '] [r10 bold=None size=None name=None text=' '] [r11 bold=None size=None name=None text='对节点'] [r12 bold=None size=None name=None text=' '] [r13 bold=None size=None name=None text=' '] [r14 bold=None size=None name=None text='的重要性：'] 
+
+[P221|Normal|align=None] 
+  runs: 
+
+[P222|Normal|align=None] 式中：
+  runs: [r0 bold=None size=None name=None text='式中：'] 
+
+[P223|Normal|align=None] —— 可学习的线性变换矩阵；
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='可学习的线性变换矩阵；'] 
+
+[P224|Normal|align=None] —— 注意力权重向量；
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='注意力权重向量；'] 
+
+[P225|Normal|align=None] —— 向量拼接操作；
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='向量拼接操作；'] 
+
+[P226|Normal|align=None] —— 带泄露修正的线性单元，负斜率取 。
+  runs: [r0 bold=None size=None name=None text=' —— '] [r1 bold=None size=None name=None text='带泄露修正的线性单元，负斜率取'] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text='。'] 
+
+[P227|Normal|align=None] 通过 Softmax 归一化得到注意力权重：
+  runs: [r0 bold=None size=None name=None text='通过'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text='Softmax'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='归一化得到注意力权重：'] 
+
+[P228|Normal|align=None] 
+  runs: 
+
+[P229|Normal|align=None] 节点  的输出特征为邻居特征的加权和：
+  runs: [r0 bold=None size=None name=None text='节点'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text='的输出特征为邻居特征的加权和：'] 
+
+[P230|Normal|align=None] 
+  runs: 
+
+[P231|Normal|align=None] 式中， —— 非线性激活函数，本文采用 ELU（Exponential Linear Unit）。
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='非线性激活函数，本文采用'] [r3 bold=None size=None name=None text=' ELU'] [r4 bold=None size=None name=None text='（'] [r5 bold=None size=None name=None text='Exponential Linear Unit'] [r6 bold=None size=None name=None text='）。'] 
+
+[P232|Normal|align=None] 
+  runs: 
+
+[P233|Heading 2|align=None] 3.2 GATNet模型架构设计
+  runs: [r0 bold=None size=None name=None text='3.'] [r1 bold=None size=None name=None text='2'] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text='GATNet'] [r4 bold=None size=None name=None text='模型架构设计'] 
+
+[P234|Heading 3|align=None] 3.2.1 整体网络结构
+  runs: [r0 bold=None size=None name=None text='3.2.1 '] [r1 bold=None size=None name=None text='整体网络结构'] 
+
+[P235|Normal|align=None] 本文提出的 GATNet 模型采用编码器-解码器架构，实现从信道状态到功率分配系数的端到端映射，如图 3.1 所示。网络输入为干扰图的节点特征矩阵  和边集，输出为各链路的发射功率系数向量 ()。
+  runs: [r0 bold=None size=None name=None text='本文提出的'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='模型采用编码器'] [r5 bold=None size=None name=None text='-'] [r6 bold=None size=None name=None text='解码器架构，实现从信道状态到功率分配系数的端到端映射，如图'] [r7 bold=None size=None name=None text=' 3.1 '] [r8 bold=None size=None name=None text='所示。网络输入为干扰图的节点特征矩阵'] [r9 bold=None size=None name=None text=' '] [r10 bold=None size=None name=None text=''] [r11 bold=None size=None name=None text=' '] [r12 bold=None size=None name=None text='和边集'] [r13 bold=None size=None name=None text=''] [r14 bold=None size=None name=None text='，输出为各链路的发射功率系数向量'] [r15 bold=None size=None name=None text=' ('] [r16 bold=None size=None name=None text=''] [r17 bold=None size=None name=None text=')'] [r18 bold=None size=None name=None text='。'] 
+
+[P236|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P237|Normal|align=CENTER (1)] 图3.1  GATNet网络架构示意图（请在此处插入网络结构框图）
+  runs: [r0 bold=True size=None name=None text='图'] [r1 bold=True size=None name=None text='3.1  '] [r2 bold=True size=None name=None text='GATNet'] [r3 bold=True size=None name=None text='网络架构示意图（请在此处插入网络结构框图）'] 
+
+[P238|Normal|align=None] 
+  runs: 
+
+[P239|Normal|align=None] GATNet包含以下核心组件：
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='包含以下核心组件：'] 
+
+[P240|Normal|align=None] 1. 输入嵌入层：将原始节点特征映射到高维隐藏空间；
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='输入嵌入层：将原始节点特征'] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text='映射到高维隐藏空间；'] 
+
+[P241|Normal|align=None] 2. 多头图注意力层：堆叠层，每层包含多头注意力聚合与残差连接；
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='多头图注意力层：堆叠'] [r2 bold=None size=None name=None text=''] [r3 bold=None size=None name=None text='层，每层包含多头注意力聚合与残差连接；'] 
+
+[P242|Normal|align=None] 3. 层归一化（Layer Normalization）：稳定深层网络训练；
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='层归一化（'] [r2 bold=None size=None name=None text='Layer Normalization'] [r3 bold=None size=None name=None text='）：稳定深层网络训练；'] 
+
+[P243|Normal|align=None] 4. 输出投影层：将最终节点表示映射为功率分配系数，经Sigmoid激活后缩放至。
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='输出投影层：将最终节点表示映射为功率分配系数，经'] [r2 bold=None size=None name=None text='Sigmoid'] [r3 bold=None size=None name=None text='激活后缩放至'] [r4 bold=None size=None name=None text=''] [r5 bold=None size=None name=None text='。'] 
+
+[P244|Normal|align=None] 
+  runs: 
+
+[P245|Heading 3|align=None] 3.2.2 多头图注意力层
+  runs: [r0 bold=None size=None name=None text='3.2.2 '] [r1 bold=None size=None name=None text='多头图注意力层'] 
+
+[P246|Normal|align=None] 为增强模型表达能力并稳定注意力学习，采用多头注意力机制。设注意力头数为 ，每个头独立计算注意力权重并输出特征，最终拼接：
+  runs: [r0 bold=None size=None name=None text='为增强模型表达能力并稳定注意力学习，采用多头注意力机制。设注意力头数为'] [r1 bold=None size=None name=None text=' '] [r2 bold=None size=None name=None text='，每个头独立计算注意力权重并输出特征，最终拼接：'] 
+
+[P247|Normal|align=None] 
+  runs: 
+
+[P248|Normal|align=None] 式中， —— 第  个注意力头计算的权重；
+ —— 第  个头的线性变换矩阵。
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text=' —— '] [r2 bold=None size=None name=None text='第'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text=' '] [r5 bold=None size=None name=None text='个'] [r6 bold=None size=None name=None text='注意力'] [r7 bold=None size=None name=None text='头计算'] [r8 bold=None size=None name=None text='的权重；'] [r9 bold=None size=None name=None text='
+'] [r10 bold=None size=None name=None text=' —— '] [r11 bold=None size=None name=None text='第'] [r12 bold=None size=None name=None text=' '] [r13 bold=None size=None name=None text=' '] [r14 bold=None size=None name=None text='个头的线性变换矩阵。'] 
+
+[P249|Normal|align=None] 在末层采用平均聚合替代拼接，以保持输出维度稳定：
+  runs: [r0 bold=None size=None name=None text='在末层采用'] [r1 bold=None size=None name=None text='平均聚合替代拼接，以保持输出维度稳定：'] 
+
+[P250|Normal|align=None] 
+  runs: 
+
+[P251|Heading 3|align=None] 3.2.3  残差连接与层归一化
+  runs: [r0 bold=None size=None name=None text='3.2.3  '] [r1 bold=None size=None name=None text='残差连接与层归一化'] 
+
+[P252|Normal|align=None] 为缓解深层GNN的过度平滑（Over-smoothing）问题，每层引入残差连接：
+  runs: [r0 bold=None size=None name=None text='为缓解深层'] [r1 bold=None size=None name=None text='GNN'] [r2 bold=None size=None name=None text='的过度平滑（'] [r3 bold=None size=None name=None text='Over-smoothing'] [r4 bold=None size=None name=None text='）问题，每层引入残差连接：'] 
+
+[P253|Normal|align=CENTER (1)] h_i^(l) = LayerNorm(h_i^(l-1) + GAT^(l)(h_i^(l-1)))
+  runs: [r0 bold=None size=139700 name=None text='h_i'] [r1 bold=None size=139700 name=None text='^(l) = '] [r2 bold=None size=139700 name=None text='LayerNorm'] [r3 bold=None size=139700 name=None text='('] [r4 bold=None size=139700 name=None text='h_i'] [r5 bold=None size=139700 name=None text='^(l-1) + GAT^(l)('] [r6 bold=None size=139700 name=None text='h_i'] [r7 bold=None size=139700 name=None text='^(l-1)))'] 
+
+[P254|Normal|align=None] 层归一化对每个样本的所有节点特征进行归一化：
+  runs: [r0 bold=None size=None name=None text='层归一化对每个样本的所有节点特征进行归一化：'] 
+
+[P255|Normal|align=CENTER (1)] LayerNorm(h) = γ ⊙ (h - μ) / √(σ² + ε) + β
+  runs: [r0 bold=None size=139700 name=None text='LayerNorm'] [r1 bold=None size=139700 name=None text='(h) = γ ⊙ (h - μ) / '] [r2 bold=None size=139700 name=None text='√('] [r3 bold=None size=139700 name=None text='σ² + ε) + β'] 
+
+[P256|Normal|align=None] 式中，μ, σ² —— 特征的均值与方差；
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text='μ, σ² —— '] [r2 bold=None size=None name=None text='特征的均值与方差；'] 
+
+[P257|Normal|align=None] γ, β —— 可学习的缩放与偏移参数；
+  runs: [r0 bold=None size=None name=None text='γ, β —— '] [r1 bold=None size=None name=None text='可学习的缩放与偏移参数；'] 
+
+[P258|Normal|align=None] ε —— 数值稳定性常数，取10^{-6}。
+  runs: [r0 bold=None size=None name=None text='ε —— '] [r1 bold=None size=None name=None text='数值稳定性常数，取'] [r2 bold=None size=None name=None text='10^{-6}'] [r3 bold=None size=None name=None text='。'] 
+
+[P259|Heading 3|align=None] 3.2.4 功率输出层
+  runs: [r0 bold=None size=None name=None text='3.2.'] [r1 bold=None size=None name=None text='4'] [r2 bold=None size=None name=None text=' '] [r3 bold=None size=None name=None text='功率输出层'] 
+
+[P260|Normal|align=None] 最终节点表示h_i^(L)∈R^{F_out}经全连接层映射为标量，并通过Sigmoid函数约束在(0,1)区间：
+  runs: [r0 bold=None size=None name=None text='最终节点表示'] [r1 bold=None size=None name=None text='h_i'] [r2 bold=None size=None name=None text='^(L)∈R^{'] [r3 bold=None size=None name=None text='F_out'] [r4 bold=None size=None name=None text='}'] [r5 bold=None size=None name=None text='经全连接层映射为标量，并通过'] [r6 bold=None size=None name=None text='Sigmoid'] [r7 bold=None size=None name=None text='函数约束在'] [r8 bold=None size=None name=None text='(0,1)'] [r9 bold=None size=None name=None text='区间：'] 
+
+[P261|Normal|align=CENTER (1)] p̃_i = Sigmoid(w_out^T · h_i^(L) + b_out)
+  runs: [r0 bold=None size=139700 name=None text='p̃_'] [r1 bold=None size=139700 name=None text='i'] [r2 bold=None size=139700 name=None text=' = '] [r3 bold=None size=139700 name=None text='Sigmoid('] [r4 bold=None size=139700 name=None text='w_out^T'] [r5 bold=None size=139700 name=None text=' · '] [r6 bold=None size=139700 name=None text='h_i'] [r7 bold=None size=139700 name=None text='^(L) + '] [r8 bold=None size=139700 name=None text='b_out'] [r9 bold=None size=139700 name=None text=')'] 
+
+[P262|Normal|align=None] 实际发射功率为：
+  runs: [r0 bold=None size=None name=None text='实际发射功率为：'] 
+
+[P263|Normal|align=CENTER (1)] p_i = p̃_i · p_max
+  runs: [r0 bold=None size=139700 name=None text='p_i'] [r1 bold=None size=139700 name=None text=' = p̃_'] [r2 bold=None size=139700 name=None text='i'] [r3 bold=None size=139700 name=None text=' · '] [r4 bold=None size=139700 name=None text='p_max'] 
+
+[P264|Normal|align=None] 该设计天然满足功率非负约束p_i∈[0, p_max]，无需额外投影操作。
+  runs: [r0 bold=None size=None name=None text='该设计天然满足功率非负约束'] [r1 bold=None size=None name=None text='p_i'] [r2 bold=None size=None name=None text='∈[0, '] [r3 bold=None size=None name=None text='p_max'] [r4 bold=None size=None name=None text=']'] [r5 bold=None size=None name=None text='，无需额外投影操作。'] 
+
+[P265|Normal|align=None] 
+  runs: 
+
+[P266|Normal|align=None] 
+  runs: 
+
+[P267|Heading 2|align=None] 3.3无监督训练策略
+  runs: [r0 bold=None size=None name=None text='3.3'] [r1 bold=None size=None name=None text='无监督训练策略'] 
+
+[P268|Heading 3|align=None] 3.3.1 损失函数设计
+  runs: [r0 bold=None size=None name=None text='3.3.1 '] [r1 bold=None size=None name=None text='损失函数设计'] 
+
+[P269|Normal|align=None] GATNet采用无监督端到端训练，以网络加权和速率为优化目标。由于速率R_i关于功率p_i可微，可直接通过梯度下降最大化总和速率。损失函数定义为负加权和速率：
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='采用无监督端到端训练，以网络加权和速率为优化目标。由于速率'] [r2 bold=None size=None name=None text='R_i'] [r3 bold=None size=None name=None text='关于功率'] [r4 bold=None size=None name=None text='p_i'] [r5 bold=None size=None name=None text='可微，可直接通过梯度下降最大化总和速率。损失函数定义为负加权和速率：'] 
+
+[P270|Normal|align=CENTER (1)] L(θ) = -1/B · Σ_{b=1}^{B} Σ_{i=1}^{N} w_i · log₂(1 + γ_i^(b))
+  runs: [r0 bold=None size=139700 name=None text='L(θ) = -1/B · Σ_{b='] [r1 bold=None size=139700 name=None text='1}^'] [r2 bold=None size=139700 name=None text='{B} Σ_{'] [r3 bold=None size=139700 name=None text='i'] [r4 bold=None size=139700 name=None text='='] [r5 bold=None size=139700 name=None text='1}^'] [r6 bold=None size=139700 name=None text='{N} '] [r7 bold=None size=139700 name=None text='w_i'] [r8 bold=None size=139700 name=None text=' · log'] [r9 bold=None size=139700 name=None text='₂('] [r10 bold=None size=139700 name=None text='1 + '] [r11 bold=None size=139700 name=None text='γ_i'] [r12 bold=None size=139700 name=None text='^(b))'] 
+
+[P271|Normal|align=None] 式中，θ —— 网络可学习参数；
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text='θ —— '] [r2 bold=None size=None name=None text='网络可学习参数；'] 
+
+[P272|Normal|align=None] B —— 批次大小；
+  runs: [r0 bold=None size=None name=None text='B —— '] [r1 bold=None size=None name=None text='批次大小；'] 
+
+[P273|Normal|align=None] 上标(b) —— 第b个训练样本。
+  runs: [r0 bold=None size=None name=None text='上标'] [r1 bold=None size=None name=None text='(b) —— '] [r2 bold=None size=None name=None text='第'] [r3 bold=None size=None name=None text='b'] [r4 bold=None size=None name=None text='个'] [r5 bold=None size=None name=None text='训练样本。'] 
+
+[P274|Normal|align=None] 为提升公平性与QoS保障，引入辅助正则项：
+  runs: [r0 bold=None size=None name=None text='为提升公平性与'] [r1 bold=None size=None name=None text='QoS'] [r2 bold=None size=None name=None text='保障，引入辅助正则项：'] 
+
+[P275|Normal|align=CENTER (1)] L_total = L + λ₁·L_fair + λ₂·L_qos
+  runs: [r0 bold=None size=139700 name=None text='L_total'] [r1 bold=None size=139700 name=None text=' = L + λ₁·'] [r2 bold=None size=139700 name=None text='L_fair'] [r3 bold=None size=139700 name=None text=' + λ₂·'] [r4 bold=None size=139700 name=None text='L_qos'] 
+
+[P276|Normal|align=None] 其中，公平性正则项采用Jain公平指数惩罚：
+  runs: [r0 bold=None size=None name=None text='其中，公平性正则'] [r1 bold=None size=None name=None text='项采用'] [r2 bold=None size=None name=None text='Jain'] [r3 bold=None size=None name=None text='公平指数惩罚：'] 
+
+[P277|Normal|align=CENTER (1)] L_fair = -(Σ_i R_i)² / (N · Σ_i R_i²)
+  runs: [r0 bold=None size=139700 name=None text='L_fair'] [r1 bold=None size=139700 name=None text=' = '] [r2 bold=None size=139700 name=None text='-('] [r3 bold=None size=139700 name=None text='Σ_i'] [r4 bold=None size=139700 name=None text=' '] [r5 bold=None size=139700 name=None text='R_'] [r6 bold=None size=139700 name=None text='i'] [r7 bold=None size=139700 name=None text=')²'] [r8 bold=None size=139700 name=None text=' / (N · '] [r9 bold=None size=139700 name=None text='Σ_i'] [r10 bold=None size=139700 name=None text=' R_i²)'] 
+
+[P278|Normal|align=None] QoS违反惩罚项：
+  runs: [r0 bold=None size=None name=None text='QoS'] [r1 bold=None size=None name=None text='违反惩罚项：'] 
+
+[P279|Normal|align=CENTER (1)] L_qos = 1/N · Σ_i ReLU(γ_th - γ_i)
+  runs: [r0 bold=None size=139700 name=None text='L_qos'] [r1 bold=None size=139700 name=None text=' = 1/N · '] [r2 bold=None size=139700 name=None text='Σ_i'] [r3 bold=None size=139700 name=None text=' '] [r4 bold=None size=139700 name=None text='ReLU'] [r5 bold=None size=139700 name=None text='('] [r6 bold=None size=139700 name=None text='γ_th'] [r7 bold=None size=139700 name=None text=' - '] [r8 bold=None size=139700 name=None text='γ_i'] [r9 bold=None size=139700 name=None text=')'] 
+
+[P280|Normal|align=None] 式中，λ₁, λ₂ —— 正则化系数，分别取0.1和1.0。
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text='λ₁, λ₂ —— '] [r2 bold=None size=None name=None text='正则化系数，分别取'] [r3 bold=None size=None name=None text='0.1'] [r4 bold=None size=None name=None text='和'] [r5 bold=None size=None name=None text='1.0'] [r6 bold=None size=None name=None text='。'] 
+
+[P281|Heading 3|align=None] 3.3.2 训练流程
+  runs: [r0 bold=None size=None name=None text='3.3.2 '] [r1 bold=None size=None name=None text='训练流程'] 
+
+[P282|Normal|align=None] 训练过程如算法3.1所示。采用Adam优化器，初始学习率10^{-3}，每500轮衰减为原来的0.9倍。训练数据通过随机网络拓扑生成器实时采样，确保模型泛化能力。
+  runs: [r0 bold=None size=None name=None text='训练过程如算法'] [r1 bold=None size=None name=None text='3.1'] [r2 bold=None size=None name=None text='所示。采用'] [r3 bold=None size=None name=None text='Adam'] [r4 bold=None size=None name=None text='优化器，初始学习率'] [r5 bold=None size=None name=None text='10^{-3}'] [r6 bold=None size=None name=None text='，每'] [r7 bold=None size=None name=None text='500'] [r8 bold=None size=None name=None text='轮衰减为原来的'] [r9 bold=None size=None name=None text='0.9'] [r10 bold=None size=None name=None text='倍。训练数据通过随机网络拓扑生成器实时采样，确保模型泛化能力。'] 
+
+[P283|Normal|align=None] 
+  runs: 
+
+[P284|Normal|align=None] 算法3.1  GATNet训练算法
+  runs: [r0 bold=True size=127000 name=Courier New text='算法'] [r1 bold=True size=127000 name=Courier New text='3.1  '] [r2 bold=True size=127000 name=Courier New text='GATNet'] [r3 bold=True size=127000 name=Courier New text='训练算法'] 
+
+[P285|Normal|align=None] 输入：训练轮数T，批次大小B，学习率η，网络层数L，注意力头数K
+  runs: [r0 bold=None size=127000 name=Courier New text='输入：训练轮数'] [r1 bold=None size=127000 name=Courier New text='T'] [r2 bold=None size=127000 name=Courier New text='，批次大小'] [r3 bold=None size=127000 name=Courier New text='B'] [r4 bold=None size=127000 name=Courier New text='，学习率'] [r5 bold=None size=127000 name=Courier New text='η'] [r6 bold=None size=127000 name=Courier New text='，网络层数'] [r7 bold=None size=127000 name=Courier New text='L'] [r8 bold=None size=127000 name=Courier New text='，注意力头数'] [r9 bold=None size=127000 name=Courier New text='K'] 
+
+[P286|Normal|align=None] 输出：训练好的GATNet模型参数θ
+  runs: [r0 bold=None size=127000 name=Courier New text='输出：训练好的'] [r1 bold=None size=127000 name=Courier New text='GATNet'] [r2 bold=None size=127000 name=Courier New text='模型参数'] [r3 bold=None size=127000 name=Courier New text='θ'] 
+
+[P287|Normal|align=None] 1.  随机初始化网络参数θ
+  runs: [r0 bold=None size=127000 name=Courier New text='1.  '] [r1 bold=None size=127000 name=Courier New text='随机初始化网络参数'] [r2 bold=None size=127000 name=Courier New text='θ'] 
+
+[P288|Normal|align=None] 2.  for t = 1, 2, ..., T do
+  runs: [r0 bold=None size=127000 name=Courier New text='2.  for t = 1, 2, ..., T do'] 
+
+[P289|Normal|align=None] 3.      生成B个随机网络样本 {G^(b)}_(b=1)^B
+  runs: [r0 bold=None size=127000 name=Courier New text='3.      '] [r1 bold=None size=127000 name=Courier New text='生成'] [r2 bold=None size=127000 name=Courier New text='B'] [r3 bold=None size=127000 name=Courier New text='个'] [r4 bold=None size=127000 name=Courier New text='随机网络样本'] [r5 bold=None size=127000 name=Courier New text=' {G^(b)}_(b=1)^B'] 
+
+[P290|Normal|align=None] 4.      for each sample G^(b) do
+  runs: [r0 bold=None size=127000 name=Courier New text='4.      for each sample G^(b) do'] 
+
+[P291|Normal|align=None] 5.          计算节点特征X^(b)和边集E^(b)
+  runs: [r0 bold=None size=127000 name=Courier New text='5.          '] [r1 bold=None size=127000 name=Courier New text='计算节点特征'] [r2 bold=None size=127000 name=Courier New text='X^(b)'] [r3 bold=None size=127000 name=Courier New text='和边集'] [r4 bold=None size=127000 name=Courier New text='E^(b)'] 
+
+[P292|Normal|align=None] 6.          前向传播：p^(b) = GATNet(X^(b), E^(b); θ)
+  runs: [r0 bold=None size=127000 name=Courier New text='6.          '] [r1 bold=None size=127000 name=Courier New text='前向传播：'] [r2 bold=None size=127000 name=Courier New text='p^(b) = '] [r3 bold=None size=127000 name=Courier New text='GATNet'] [r4 bold=None size=127000 name=Courier New text='(X^(b), E^(b); θ)'] 
+
+[P293|Normal|align=None] 7.          计算SINR γ_i^(b)和速率R_i^(b)
+  runs: [r0 bold=None size=127000 name=Courier New text='7.          '] [r1 bold=None size=127000 name=Courier New text='计算'] [r2 bold=None size=127000 name=Courier New text='SINR '] [r3 bold=None size=127000 name=Courier New text='γ_i'] [r4 bold=None size=127000 name=Courier New text='^(b)'] [r5 bold=None size=127000 name=Courier New text='和速率'] [r6 bold=None size=127000 name=Courier New text='R_i'] [r7 bold=None size=127000 name=Courier New text='^(b)'] 
+
+[P294|Normal|align=None] 8.      end for
+  runs: [r0 bold=None size=127000 name=Courier New text='8.      end for'] 
+
+[P295|Normal|align=None] 9.      计算总损失L_total(θ)
+  runs: [r0 bold=None size=127000 name=Courier New text='9.      '] [r1 bold=None size=127000 name=Courier New text='计算总损失'] [r2 bold=None size=127000 name=Courier New text='L_total'] [r3 bold=None size=127000 name=Courier New text='(θ)'] 
+
+[P296|Normal|align=None] 10.     反向传播计算梯度 ∇_θ L_total
+  runs: [r0 bold=None size=127000 name=Courier New text='10.     '] [r1 bold=None size=127000 name=Courier New text='反向传播计算梯度'] [r2 bold=None size=127000 name=Courier New text=' ∇_θ '] [r3 bold=None size=127000 name=Courier New text='L_total'] 
+
+[P297|Normal|align=None] 11.     更新参数：θ ← θ - η · Adam(∇_θ L_total)
+  runs: [r0 bold=None size=127000 name=Courier New text='11.     '] [r1 bold=None size=127000 name=Courier New text='更新参数：'] [r2 bold=None size=127000 name=Courier New text='θ ← θ - η · '] [r3 bold=None size=127000 name=Courier New text='Adam('] [r4 bold=None size=127000 name=Courier New text='∇_θ '] [r5 bold=None size=127000 name=Courier New text='L_total'] [r6 bold=None size=127000 name=Courier New text=')'] 
+
+[P298|Normal|align=None] 12.     if t mod 500 == 0 then  η ← 0.9·η
+  runs: [r0 bold=None size=127000 name=Courier New text='12.     if t mod 500 == 0 '] [r1 bold=None size=127000 name=Courier New text='then  η'] [r2 bold=None size=127000 name=Courier New text=' ← 0.9·η'] 
+
+[P299|Normal|align=None] 13. end for;  return θ
+  runs: [r0 bold=None size=127000 name=Courier New text='13. end '] [r1 bold=None size=127000 name=Courier New text='for;  return'] [r2 bold=None size=127000 name=Courier New text=' θ'] 
+
+[P300|Normal|align=None] 
+  runs: 
+
+[P301|Heading 2|align=None] 3.4基线算法与对比框架
+  runs: [r0 bold=None size=None name=None text='3.4'] [r1 bold=None size=None name=None text='基线算法与对比框架'] 
+
+[P302|Normal|align=None] 为全面评估GATNet性能，选取以下5种代表性算法作为对比基线：
+  runs: [r0 bold=None size=None name=None text='为全面评估'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='性能，选取以下'] [r3 bold=None size=None name=None text='5'] [r4 bold=None size=None name=None text='种代表性算法作为对比基线：'] 
+
+[P303|Normal|align=None] 1. WMMSE：加权最小均方误差迭代算法，经典凸优化方法，作为性能上界；
+  runs: [r0 bold=None size=None name=None text='1. WMMSE'] [r1 bold=None size=None name=None text='：加权最小均方误差迭代算法，经典'] [r2 bold=None size=None name=None text='凸'] [r3 bold=None size=None name=None text='优化方法，作为性能上界；'] 
+
+[P304|Normal|align=None] 2. GA：遗传算法，启发式全局搜索方法；
+  runs: [r0 bold=None size=None name=None text='2. GA'] [r1 bold=None size=None name=None text='：遗传算法，启发式全局搜索方法；'] 
+
+[P305|Normal|align=None] 3. Equal Power：等功率分配，各链路均分最大功率；
+  runs: [r0 bold=None size=None name=None text='3. Equal Power'] [r1 bold=None size=None name=None text='：等功率分配，各链路均分最大功率；'] 
+
+[P306|Normal|align=None] 4. Random Power：随机功率分配，在[0, p_max]内均匀随机选取；
+  runs: [r0 bold=None size=None name=None text='4. Random Power'] [r1 bold=None size=None name=None text='：随机功率分配，在'] [r2 bold=None size=None name=None text='[0, '] [r3 bold=None size=None name=None text='p_max'] [r4 bold=None size=None name=None text=']'] [r5 bold=None size=None name=None text='内均匀随机选取；'] 
+
+[P307|Normal|align=None] 5. GATNet+WMMSE：两阶段混合方案，以GATNet输出作为WMMSE初始值，兼顾速度与性能。
+  runs: [r0 bold=None size=None name=None text='5. '] [r1 bold=None size=None name=None text='GATNet+WMMSE'] [r2 bold=None size=None name=None text='：两阶段混合方案，以'] [r3 bold=None size=None name=None text='GATNet'] [r4 bold=None size=None name=None text='输出作为'] [r5 bold=None size=None name=None text='WMMSE'] [r6 bold=None size=None name=None text='初始值，兼顾速度与性能。'] 
+
+[P308|Normal|align=None] 
+  runs: 
+
+[P309|Normal|align=CENTER (1)] 表3.1  各算法计算复杂度与特性对比
+  runs: [r0 bold=True size=None name=None text='表'] [r1 bold=True size=None name=None text='3.1  '] [r2 bold=True size=None name=None text='各算法计算复杂度与特性对比'] 
+
+[P310|Normal|align=None] 式中，T_iter —— WMMSE迭代次数；
+  runs: [r0 bold=None size=None name=None text='式中，'] [r1 bold=None size=None name=None text='T_iter'] [r2 bold=None size=None name=None text=' —— WMMSE'] [r3 bold=None size=None name=None text='迭代次数；'] 
+
+[P311|Normal|align=None] G, P —— 遗传算法的代数与种群规模；
+  runs: [r0 bold=None size=None name=None text='G, P —— '] [r1 bold=None size=None name=None text='遗传算法的代数与种群规模；'] 
+
+[P312|Normal|align=None] |E| —— 干扰图中边数。
+  runs: [r0 bold=None size=None name=None text='|E| —— '] [r1 bold=None size=None name=None text='干扰图中边数。'] 
+
+[P313|Normal|align=None] 
+  runs: 
+
+[P314|Heading 2|align=None] 3.5本章小结
+  runs: [r0 bold=None size=None name=None text='3.5'] [r1 bold=None size=None name=None text='本章小结'] 
+
+[P315|Normal|align=None] 本章设计了基于图注意力网络的端到端功率分配模型GATNet，主要贡献包括：
+  runs: [r0 bold=None size=None name=None text='本章设计了基于图注意力网络的端到端功率分配模型'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='，主要贡献包括：'] 
+
+[P316|Normal|align=None] 1. 多头图注意力机制：自适应区分不同干扰源的影响强度，契合无线干扰环境的非均匀特性；
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='多头图注意力机制：自适应区分不同干扰源的影响强度，契合无线干扰环境的非均匀特性；'] 
+
+[P317|Normal|align=None] 2. 残差连接与层归一化：稳定深层网络训练，缓解图神经网络的过度平滑问题；
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='残差连接与层归一化：稳定深层网络训练，缓解图神经网络的过度平滑问题；'] 
+
+[P318|Normal|align=None] 3. 无监督端到端训练：直接以频谱效率为优化目标，无需标注数据；
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='无监督端到端训练：直接以频谱效率为优化目标，无需标注数据；'] 
+
+[P319|Normal|align=None] 4. 混合方案设计：提出GATNet+WMMSE两阶段方法，平衡推理速度与优化精度。
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='混合方案设计：提出'] [r2 bold=None size=None name=None text='GATNet+WMMSE'] [r3 bold=None size=None name=None text='两阶段方法，平衡推理速度与优化精度。'] 
+
+[P320|Normal|align=None] 
+  runs: 
+
+[P321|Heading 1|align=None] 第4章 仿真实验与结果分析
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='4'] [r2 bold=None size=None name=None text='章'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='仿真实验与结果分析'] 
+
+[P322|Heading 2|align=None] 4.1 实验环境与参数设置
+  runs: [r0 bold=None size=None name=None text='4.1 '] [r1 bold=None size=None name=None text='实验环境与参数设置'] 
+
+[P323|Normal|align=None] 为验证所提GATNet模型的有效性，在Python环境下基于PyTorch与PyTorch Geometric框架搭建仿真平台。主要实验参数设置如表4.1所示。
+  runs: [r0 bold=None size=None name=None text='为验证所提'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='模型的有效性，在'] [r3 bold=None size=None name=None text='Python'] [r4 bold=None size=None name=None text='环境下基于'] [r5 bold=None size=None name=None text='PyTorch'] [r6 bold=None size=None name=None text='与'] [r7 bold=None size=None name=None text='PyTorch'] [r8 bold=None size=None name=None text=' Geometric'] [r9 bold=None size=None name=None text='框架搭建仿真平台。主要实验参数设置如表'] [r10 bold=None size=None name=None text='4.1'] [r11 bold=None size=None name=None text='所示。'] 
+
+[P324|Normal|align=None] 
+  runs: 
+
+[P325|Normal|align=CENTER (1)] 表4.1  仿真实验参数设置
+  runs: [r0 bold=True size=None name=None text='表'] [r1 bold=True size=None name=None text='4.1  '] [r2 bold=True size=None name=None text='仿真实验参数设置'] 
+
+[P326|Normal|align=None] 
+  runs: 
+
+[P327|Normal|align=None] 测试阶段采用固定随机种子生成1000个独立网络拓扑样本，以保证各算法对比的公平性与可重复性。所有实验在配备NVIDIA GPU的服务器上完成。
+  runs: [r0 bold=None size=None name=None text='测试阶段采用固定随机种子生成'] [r1 bold=None size=None name=None text='1000'] [r2 bold=None size=None name=None text='个独立网络拓扑样本，以保证各算法对比的公平性与可重复性。所有实验在配备'] [r3 bold=None size=None name=None text='NVIDIA GPU'] [r4 bold=None size=None name=None text='的服务器上完成。'] 
+
+[P328|Heading 2|align=None] 4.2 训练收敛性分析
+  runs: [r0 bold=None size=None name=None text='4.2 '] [r1 bold=None size=None name=None text='训练收敛性分析'] 
+
+[P329|Normal|align=None] GATNet模型的训练收敛曲线如图4.1所示。为直观展示收敛趋势，图中同时给出原始曲线（Raw）、移动平均（MA）、指数移动平均（EMA）及趋势步进（Trend）四种平滑处理结果。
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='模型的训练收敛曲线如图'] [r2 bold=None size=None name=None text='4.1'] [r3 bold=None size=None name=None text='所示。为直观展示收敛趋势，图中同时给出原始曲线（'] [r4 bold=None size=None name=None text='Raw'] [r5 bold=None size=None name=None text='）、移动平均（'] [r6 bold=None size=None name=None text='MA'] [r7 bold=None size=None name=None text='）、指数移动平均（'] [r8 bold=None size=None name=None text='EMA'] [r9 bold=None size=None name=None text='）及趋势步进（'] [r10 bold=None size=None name=None text='Trend'] [r11 bold=None size=None name=None text='）四种平滑处理结果。'] 
+
+[P330|Normal|align=None] 
+  runs: 
+
+[P331|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P332|Normal|align=CENTER (1)] 图4.1  GATNet训练收敛曲线
+  runs: [r0 bold=True size=None name=None text='图'] [r1 bold=True size=None name=None text='4.1  '] [r2 bold=True size=None name=None text='GATNet'] [r3 bold=True size=None name=None text='训练收敛曲线'] 
+
+[P333|Normal|align=None] 
+  runs: 
+
+[P334|Normal|align=None] 从图4.1可以观察到：
+  runs: [r0 bold=None size=None name=None text='从图'] [r1 bold=None size=None name=None text='4.1'] [r2 bold=None size=None name=None text='可以观察到：'] 
+
+[P335|Normal|align=None] 1. 损失函数收敛：Loss Gap在训练初期（前500轮）迅速下降，EMA平滑后于约1000轮趋于稳定，最终接近零值。这表明模型能够快速学习功率分配与信道状态间的映射关系。
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='损失函数收敛：'] [r2 bold=None size=None name=None text='Loss Gap'] [r3 bold=None size=None name=None text='在训练初期（前'] [r4 bold=None size=None name=None text='500'] [r5 bold=None size=None name=None text='轮）迅速下降，'] [r6 bold=None size=None name=None text='EMA'] [r7 bold=None size=None name=None text='平滑后于约'] [r8 bold=None size=None name=None text='1000'] [r9 bold=None size=None name=None text='轮趋于稳定，最终接近零值。这表明模型能够快速学习功率分配与信道状态间的映射关系。'] 
+
+[P336|Normal|align=None] 2. 和速率收敛：Sum-Rate Gap同样呈现快速下降趋势，前200轮波动较大，随后逐渐平稳。说明网络在优化频谱效率目标时具有较好的稳定性。
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='和速率收敛：'] [r2 bold=None size=None name=None text='Sum-Rate Gap'] [r3 bold=None size=None name=None text='同样呈现快速下降趋势，前'] [r4 bold=None size=None name=None text='200'] [r5 bold=None size=None name=None text='轮波动较大，随后逐渐平稳。说明网络在优化频谱效率目标时具有较好的稳定性。'] 
+
+[P337|Normal|align=None] 3. 功率与QoS收敛：Mean-Power Gap在初始阶段存在较大跳变，约300轮后收敛至稳定水平；QoS Satisfaction Gap在整个训练过程中保持较低水平，表明模型对服务质量约束具有天然的适应性。
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='功率与'] [r2 bold=None size=None name=None text='QoS'] [r3 bold=None size=None name=None text='收敛：'] [r4 bold=None size=None name=None text='Mean-Power Gap'] [r5 bold=None size=None name=None text='在初始阶段存在较大跳变，约'] [r6 bold=None size=None name=None text='300'] [r7 bold=None size=None name=None text='轮后收敛至稳定水平；'] [r8 bold=None size=None name=None text='QoS Satisfaction Gap'] [r9 bold=None size=None name=None text='在整个训练过程中保持较低水平，表明模型对服务质量约束具有天然的适应性。'] 
+
+[P338|Normal|align=None] 综上，GATNet在3000轮训练内可实现充分收敛，且各指标未出现明显发散，验证了所设计损失函数与网络结构的合理性。
+  runs: [r0 bold=None size=None name=None text='综上，'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='在'] [r3 bold=None size=None name=None text='3000'] [r4 bold=None size=None name=None text='轮训练内可实现充分收敛，且各指标未出现明显发散，验证了所设计损失函数与网络结构的合理性。'] 
+
+[P339|Heading 2|align=None] 4.3 算法综合性能对比
+  runs: [r0 bold=None size=None name=None text='4.3 '] [r1 bold=None size=None name=None text='算法综合性能对比'] 
+
+[P340|Normal|align=None] 在标准测试集上，将GATNet、GATNet+WMMSE与4种基线算法进行综合对比，结果如图4.2所示。
+  runs: [r0 bold=None size=None name=None text='在标准测试集上，将'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='、'] [r3 bold=None size=None name=None text='GATNet+WMMSE'] [r4 bold=None size=None name=None text='与'] [r5 bold=None size=None name=None text='4'] [r6 bold=None size=None name=None text='种基线算法进行综合对比，结果如图'] [r7 bold=None size=None name=None text='4.2'] [r8 bold=None size=None name=None text='所示。'] 
+
+[P341|Normal|align=None] 
+  runs: 
+
+[P342|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P343|Normal|align=CENTER (1)] 图4.2  GATNet+WMMSE与基线算法综合对比
+  runs: [r0 bold=True size=None name=None text='图'] [r1 bold=True size=None name=None text='4.2  '] [r2 bold=True size=None name=None text='GATNet+WMMSE'] [r3 bold=True size=None name=None text='与基线算法综合对比'] 
+
+[P344|Normal|align=None] 
+  runs: 
+
+[P345|Heading 3|align=None] 4.3.1 频谱效率对比
+  runs: [r0 bold=None size=None name=None text='4.3.1 '] [r1 bold=None size=None name=None text='频谱效率对比'] 
+
+[P346|Normal|align=None] 从图4.2左侧可以看出，各算法的平均加权和速率排序如下：
+  runs: [r0 bold=None size=None name=None text='从图'] [r1 bold=None size=None name=None text='4.2'] [r2 bold=None size=None name=None text='左侧可以看出，各算法的平均加权和速率排序如下：'] 
+
+[P347|Normal|align=None] WMMSE达到28.321 bps/Hz，作为迭代优化上界表现最优；
+  runs: [r0 bold=None size=None name=None text='WMMSE'] [r1 bold=None size=None name=None text='达到'] [r2 bold=None size=None name=None text='28.321 bps/Hz'] [r3 bold=None size=None name=None text='，作为迭代优化上界表现最优；'] 
+
+[P348|Normal|align=None] GA紧随其后，为28.280 bps/Hz，接近理论最优；
+  runs: [r0 bold=None size=None name=None text='GA'] [r1 bold=None size=None name=None text='紧随其后，为'] [r2 bold=None size=None name=None text='28.280 bps/Hz'] [r3 bold=None size=None name=None text='，接近理论最优；'] 
+
+[P349|Normal|align=None] GATNet+WMMSE取得27.525 bps/Hz，达到WMMSE性能的97.2%；
+  runs: [r0 bold=None size=None name=None text='GATNet+WMMSE'] [r1 bold=None size=None name=None text='取得'] [r2 bold=None size=None name=None text='27.525 bps/Hz'] [r3 bold=None size=None name=None text='，达到'] [r4 bold=None size=None name=None text='WMMSE'] [r5 bold=None size=None name=None text='性能的'] [r6 bold=None size=None name=None text='97.2%'] [r7 bold=None size=None name=None text='；'] 
+
+[P350|Normal|align=None] Equal Power和GATNet分别为21.810 bps/Hz和21.491 bps/Hz；
+  runs: [r0 bold=None size=None name=None text='Equal Power'] [r1 bold=None size=None name=None text='和'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='分别为'] [r4 bold=None size=None name=None text='21.810 bps/Hz'] [r5 bold=None size=None name=None text='和'] [r6 bold=None size=None name=None text='21.491 bps/Hz'] [r7 bold=None size=None name=None text='；'] 
+
+[P351|Normal|align=None] Random最低，为20.397 bps/Hz。
+  runs: [r0 bold=None size=None name=None text='Random'] [r1 bold=None size=None name=None text='最低，为'] [r2 bold=None size=None name=None text='20.397 bps/Hz'] [r3 bold=None size=None name=None text='。'] 
+
+[P352|Normal|align=None] GATNet+WMMSE通过以神经网络输出作为WMMSE迭代初值，显著减少了迭代次数，在性能损失极小（约3%）的前提下大幅提升了实时性。
+  runs: [r0 bold=None size=None name=None text='GATNet+WMMSE'] [r1 bold=None size=None name=None text='通过以神经网络输出作为'] [r2 bold=None size=None name=None text='WMMSE'] [r3 bold=None size=None name=None text='迭代初值，显著减少了迭代次数，在性能损失极小（约'] [r4 bold=None size=None name=None text='3%'] [r5 bold=None size=None name=None text='）的前提下大幅提升了实时性。'] 
+
+[P353|Heading 3|align=None] 4.3.2 计算延迟对比
+  runs: [r0 bold=None size=None name=None text='4.3.2 '] [r1 bold=None size=None name=None text='计算延迟对比'] 
+
+[P354|Normal|align=None] 从图4.2右侧可见，各算法单样本平均计算时间差异显著：
+  runs: [r0 bold=None size=None name=None text='从图'] [r1 bold=None size=None name=None text='4.2'] [r2 bold=None size=None name=None text='右侧可见，各算法单样本平均计算时间差异显著：'] 
+
+[P355|Normal|align=None] Equal Power仅需0.35 ms，但性能最差；
+  runs: [r0 bold=None size=None name=None text='Equal Power'] [r1 bold=None size=None name=None text='仅需'] [r2 bold=None size=None name=None text='0.35 '] [r3 bold=None size=None name=None text='ms'] [r4 bold=None size=None name=None text='，但性能最差；'] 
+
+[P356|Normal|align=None] GATNet为7.03 ms，WMMSE为7.33 ms，GATNet+WMMSE为8.31 ms，三者处于同一数量级；
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='7.03 '] [r3 bold=None size=None name=None text='ms'] [r4 bold=None size=None name=None text='，'] [r5 bold=None size=None name=None text='WMMSE'] [r6 bold=None size=None name=None text='为'] [r7 bold=None size=None name=None text='7.33 '] [r8 bold=None size=None name=None text='ms'] [r9 bold=None size=None name=None text='，'] [r10 bold=None size=None name=None text='GATNet+WMMSE'] [r11 bold=None size=None name=None text='为'] [r12 bold=None size=None name=None text='8.31 '] [r13 bold=None size=None name=None text='ms'] [r14 bold=None size=None name=None text='，三者处于同一数量级；'] 
+
+[P357|Normal|align=None] Random为46.18 ms（受多次随机采样求平均影响）；
+  runs: [r0 bold=None size=None name=None text='Random'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='46.18 '] [r3 bold=None size=None name=None text='ms'] [r4 bold=None size=None name=None text='（受多次随机采样'] [r5 bold=None size=None name=None text='求平均'] [r6 bold=None size=None name=None text='影响）；'] 
+
+[P358|Normal|align=None] GA高达63.62 ms，难以满足实时业务需求。
+  runs: [r0 bold=None size=None name=None text='GA'] [r1 bold=None size=None name=None text='高达'] [r2 bold=None size=None name=None text='63.62 '] [r3 bold=None size=None name=None text='ms'] [r4 bold=None size=None name=None text='，难以满足实时业务需求。'] 
+
+[P359|Normal|align=None] GATNet+WMMSE的计算延迟仅为GA的13.1%，同时保持了接近最优的频谱效率，验证了其在性能与实时性之间的良好折中。
+  runs: [r0 bold=None size=None name=None text='GATNet+WMMSE'] [r1 bold=None size=None name=None text='的计算延迟仅为'] [r2 bold=None size=None name=None text='GA'] [r3 bold=None size=None name=None text='的'] [r4 bold=None size=None name=None text='13.1%'] [r5 bold=None size=None name=None text='，同时保持了接近最优的频谱效率，验证了其在性能与实时性之间的良好折中。'] 
+
+[P360|Heading 2|align=None] 4.4多干扰场景鲁棒性测试
+  runs: [r0 bold=None size=None name=None text='4.4'] [r1 bold=None size=None name=None text='多干扰场景鲁棒性测试'] 
+
+[P361|Normal|align=None] 为验证算法在动态电磁环境下的适应能力，设置轻度、中度、重度三组外部干扰场景进行测试，结果如图4.3所示。
+  runs: [r0 bold=None size=None name=None text='为验证算法在动态电磁环境下的适应能力，设置轻度、中度、重度三组外部干扰场景进行测试，结果如图'] [r1 bold=None size=None name=None text='4.3'] [r2 bold=None size=None name=None text='所示。'] 
+
+[P362|Normal|align=None] 
+  runs: 
+
+[P363|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P364|Normal|align=CENTER (1)] 图4.3  三组干扰场景下算法性能对比
+  runs: [r0 bold=True size=None name=None text='图'] [r1 bold=True size=None name=None text='4.3  '] [r2 bold=True size=None name=None text='三组干扰场景下算法性能对比'] 
+
+[P365|Normal|align=None] 
+  runs: 
+
+[P366|Heading 3|align=None] 4.4.1 不同干扰强度下的频谱效率
+  runs: [r0 bold=None size=None name=None text='4.4.1 '] [r1 bold=None size=None name=None text='不同干扰强度下的频谱效率'] 
+
+[P367|Normal|align=None] 从图4.3左侧可知：
+  runs: [r0 bold=None size=None name=None text='从图'] [r1 bold=None size=None name=None text='4.3'] [r2 bold=None size=None name=None text='左侧可知：'] 
+
+[P368|Normal|align=None] 随着外部干扰增强，所有算法的频谱效率均呈下降趋势，符合理论预期；
+  runs: [r0 bold=None size=None name=None text='随着外部干扰增强，所有算法的频谱效率均呈下降趋势，符合理论预期；'] 
+
+[P369|Normal|align=None] 在轻度干扰下，WMMSE与GA表现最优（约30.5 bps/Hz），GATNet+WMMSE为29.6 bps/Hz，GATNet为23.7 bps/Hz；
+  runs: [r0 bold=None size=None name=None text='在轻度干扰下，'] [r1 bold=None size=None name=None text='WMMSE'] [r2 bold=None size=None name=None text='与'] [r3 bold=None size=None name=None text='GA'] [r4 bold=None size=None name=None text='表现最优（约'] [r5 bold=None size=None name=None text='30.5 bps/Hz'] [r6 bold=None size=None name=None text='），'] [r7 bold=None size=None name=None text='GATNet+WMMSE'] [r8 bold=None size=None name=None text='为'] [r9 bold=None size=None name=None text='29.6 bps/Hz'] [r10 bold=None size=None name=None text='，'] [r11 bold=None size=None name=None text='GATNet'] [r12 bold=None size=None name=None text='为'] [r13 bold=None size=None name=None text='23.7 bps/Hz'] [r14 bold=None size=None name=None text='；'] 
+
+[P370|Normal|align=None] 在重度干扰下，WMMSE、GA与GATNet+WMMSE仍保持20 bps/Hz以上，而GATNet下降至约16.2 bps/Hz；
+  runs: [r0 bold=None size=None name=None text='在重度干扰下，'] [r1 bold=None size=None name=None text='WMMSE'] [r2 bold=None size=None name=None text='、'] [r3 bold=None size=None name=None text='GA'] [r4 bold=None size=None name=None text='与'] [r5 bold=None size=None name=None text='GATNet+WMMSE'] [r6 bold=None size=None name=None text='仍保持'] [r7 bold=None size=None name=None text='20 bps/Hz'] [r8 bold=None size=None name=None text='以上，而'] [r9 bold=None size=None name=None text='GATNet'] [r10 bold=None size=None name=None text='下降至约'] [r11 bold=None size=None name=None text='16.2 bps/Hz'] [r12 bold=None size=None name=None text='；'] 
+
+[P371|Normal|align=None] GATNet+WMMSE在各干扰强度下均稳定接近传统优化算法性能，表现出较强的鲁棒性。
+  runs: [r0 bold=None size=None name=None text='GATNet+WMMSE'] [r1 bold=None size=None name=None text='在各干扰强度下均稳定接近传统优化算法性能，表现出较强的鲁棒性。'] 
+
+[P372|Heading 3|align=None] 4.4.2 不同干扰强度下的计算延迟
+  runs: [r0 bold=None size=None name=None text='4.4.2 '] [r1 bold=None size=None name=None text='不同干扰强度下的计算延迟'] 
+
+[P373|Normal|align=None] 从图4.3右侧可见：
+  runs: [r0 bold=None size=None name=None text='从图'] [r1 bold=None size=None name=None text='4.3'] [r2 bold=None size=None name=None text='右侧可见：'] 
+
+[P374|Normal|align=None] GA的计算延迟受干扰强度影响较小，但始终维持在63～65 ms的高位；
+  runs: [r0 bold=None size=None name=None text='GA'] [r1 bold=None size=None name=None text='的计算延迟受干扰强度影响较小，但始终维持在'] [r2 bold=None size=None name=None text='63'] [r3 bold=None size=None name=None text='～'] [r4 bold=None size=None name=None text='65 '] [r5 bold=None size=None name=None text='ms'] [r6 bold=None size=None name=None text='的高位；'] 
+
+[P375|Normal|align=None] WMMSE的延迟在7～7.5 ms之间轻微波动；
+  runs: [r0 bold=None size=None name=None text='WMMSE'] [r1 bold=None size=None name=None text='的延迟在'] [r2 bold=None size=None name=None text='7'] [r3 bold=None size=None name=None text='～'] [r4 bold=None size=None name=None text='7.5 '] [r5 bold=None size=None name=None text='ms'] [r6 bold=None size=None name=None text='之间轻微波动；'] 
+
+[P376|Normal|align=None] GATNet与GATNet+WMMSE的推理延迟几乎不受干扰强度影响（分别稳定在5～6.5 ms和6～6.5 ms），这是因为神经网络的前向传播计算量仅与网络拓扑规模相关，而与信道条件或干扰功率无关。该特性使GATNet系列方法在时变信道中具备稳定的实时响应能力。
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='与'] [r2 bold=None size=None name=None text='GATNet+WMMSE'] [r3 bold=None size=None name=None text='的推理延迟几乎不受干扰强度影响（分别稳定在'] [r4 bold=None size=None name=None text='5'] [r5 bold=None size=None name=None text='～'] [r6 bold=None size=None name=None text='6.5 '] [r7 bold=None size=None name=None text='ms'] [r8 bold=None size=None name=None text='和'] [r9 bold=None size=None name=None text='6'] [r10 bold=None size=None name=None text='～'] [r11 bold=None size=None name=None text='6.5 '] [r12 bold=None size=None name=None text='ms'] [r13 bold=None size=None name=None text='），这是因为神经网络的前向传播计算量仅与网络拓扑规模相关，而与信道条件或干扰功率无关。该特性使'] [r14 bold=None size=None name=None text='GATNet'] [r15 bold=None size=None name=None text='系列方法在时变信道中具备稳定的实时响应能力。'] 
+
+[P377|Heading 2|align=None] 4.5 多维度指标评估
+  runs: [r0 bold=None size=None name=None text='4.5 '] [r1 bold=None size=None name=None text='多维度指标评估'] 
+
+[P378|Normal|align=None] 除频谱效率与计算延迟外，进一步从信干噪比（SINR）、误码率（BER）和QoS满足率三个维度评估各算法，结果如图4.4所示。
+  runs: [r0 bold=None size=None name=None text='除频谱效率与计算延迟外，进一步'] [r1 bold=None size=None name=None text='从信干噪'] [r2 bold=None size=None name=None text='比（'] [r3 bold=None size=None name=None text='SINR'] [r4 bold=None size=None name=None text='）、误码率（'] [r5 bold=None size=None name=None text='BER'] [r6 bold=None size=None name=None text='）和'] [r7 bold=None size=None name=None text='QoS'] [r8 bold=None size=None name=None text='满足率三个维度评估各算法，结果如图'] [r9 bold=None size=None name=None text='4.4'] [r10 bold=None size=None name=None text='所示。'] 
+
+[P379|Normal|align=None] 
+  runs: 
+
+[P380|Normal|align=CENTER (1)] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P381|Normal|align=CENTER (1)] 图4.4  GATNet+WMMSE论文指标综合对比
+  runs: [r0 bold=True size=None name=None text='图'] [r1 bold=True size=None name=None text='4.4  '] [r2 bold=True size=None name=None text='GATNet+WMMSE'] [r3 bold=True size=None name=None text='论文指标综合对比'] 
+
+[P382|Normal|align=None] 
+  runs: 
+
+[P383|Heading 3|align=None] 4.5.1 平均SINR分析
+  runs: [r0 bold=None size=None name=None text='4.5.1 '] [r1 bold=None size=None name=None text='平均'] [r2 bold=None size=None name=None text='SINR'] [r3 bold=None size=None name=None text='分析'] 
+
+[P384|Normal|align=None] 如图4.4左侧所示，纯GATNet的平均SINR最高，达到2.41 dB，显著优于其他算法。WMMSE与GATNet+WMMSE分别为-0.85 dB和-0.64 dB，GA为-0.10 dB。这表明：
+  runs: [r0 bold=None size=None name=None text='如图'] [r1 bold=None size=None name=None text='4.4'] [r2 bold=None size=None name=None text='左侧所示，纯'] [r3 bold=None size=None name=None text='GATNet'] [r4 bold=None size=None name=None text='的平均'] [r5 bold=None size=None name=None text='SINR'] [r6 bold=None size=None name=None text='最高，达到'] [r7 bold=None size=None name=None text='2.41 dB'] [r8 bold=None size=None name=None text='，显著优于其他算法。'] [r9 bold=None size=None name=None text='WMMSE'] [r10 bold=None size=None name=None text='与'] [r11 bold=None size=None name=None text='GATNet+WMMSE'] [r12 bold=None size=None name=None text='分别为'] [r13 bold=None size=None name=None text='-0.85 dB'] [r14 bold=None size=None name=None text='和'] [r15 bold=None size=None name=None text='-0.64 dB'] [r16 bold=None size=None name=None text='，'] [r17 bold=None size=None name=None text='GA'] [r18 bold=None size=None name=None text='为'] [r19 bold=None size=None name=None text='-0.10 dB'] [r20 bold=None size=None name=None text='。这表明：'] 
+
+[P385|Normal|align=None] GATNet在训练过程中倾向于提升各链路的信干噪比，以保障链路可靠性；
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='在训练过程中倾向于提升各链路'] [r2 bold=None size=None name=None text='的信干噪'] [r3 bold=None size=None name=None text='比，以保障链路可靠性；'] 
+
+[P386|Normal|align=None] 传统WMMSE以和速率最大化为目标，可能牺牲部分边缘链路SINR以换取整体吞吐量，导致平均SINR偏低。
+  runs: [r0 bold=None size=None name=None text='传统'] [r1 bold=None size=None name=None text='WMMSE'] [r2 bold=None size=None name=None text='以和速率最大化为目标，可能牺牲部分边缘链路'] [r3 bold=None size=None name=None text='SINR'] [r4 bold=None size=None name=None text='以换取整体吞吐量，导致平均'] [r5 bold=None size=None name=None text='SINR'] [r6 bold=None size=None name=None text='偏低。'] 
+
+[P387|Heading 3|align=None] 4.5.2 平均误码率分析
+  runs: [r0 bold=None size=None name=None text='4.5.2 '] [r1 bold=None size=None name=None text='平均误码率分析'] 
+
+[P388|Normal|align=None] 如图4.4中间所示，各算法的BER排序与SINR大致相反：
+  runs: [r0 bold=None size=None name=None text='如图'] [r1 bold=None size=None name=None text='4.4'] [r2 bold=None size=None name=None text='中间所示，各算法的'] [r3 bold=None size=None name=None text='BER'] [r4 bold=None size=None name=None text='排序与'] [r5 bold=None size=None name=None text='SINR'] [r6 bold=None size=None name=None text='大致相反：'] 
+
+[P389|Normal|align=None] GATNet的BER最低，为8.04×10⁻²；
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='的'] [r2 bold=None size=None name=None text='BER'] [r3 bold=None size=None name=None text='最低，为'] [r4 bold=None size=None name=None text='8.04×10⁻²'] [r5 bold=None size=None name=None text='；'] 
+
+[P390|Normal|align=None] Equal Power为9.54×10⁻²；
+  runs: [r0 bold=None size=None name=None text='Equal Power'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='9.54×10⁻²'] [r3 bold=None size=None name=None text='；'] 
+
+[P391|Normal|align=None] Random为1.18×10⁻¹；
+  runs: [r0 bold=None size=None name=None text='Random'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='1.18×10⁻¹'] [r3 bold=None size=None name=None text='；'] 
+
+[P392|Normal|align=None] GATNet+WMMSE为1.49×10⁻¹；
+  runs: [r0 bold=None size=None name=None text='GATNet+WMMSE'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='1.49×10⁻¹'] [r3 bold=None size=None name=None text='；'] 
+
+[P393|Normal|align=None] GA为1.43×10⁻¹；
+  runs: [r0 bold=None size=None name=None text='GA'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='1.43×10⁻¹'] [r3 bold=None size=None name=None text='；'] 
+
+[P394|Normal|align=None] WMMSE最高，为1.55×10⁻¹。
+  runs: [r0 bold=None size=None name=None text='WMMSE'] [r1 bold=None size=None name=None text='最高，为'] [r2 bold=None size=None name=None text='1.55×10⁻¹'] [r3 bold=None size=None name=None text='。'] 
+
+[P395|Normal|align=None] GATNet在低BER方面的优势源于其对干扰图拓扑结构的深度建模，能够更合理地抑制强干扰链路功率，从而降低接收端误码概率。
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='在低'] [r2 bold=None size=None name=None text='BER'] [r3 bold=None size=None name=None text='方面的优势源于其对干扰图拓扑结构的深度建模，能够更合理地抑制强干扰链路功率，从而降低接收端误码概率。'] 
+
+[P396|Heading 3|align=None] 4.5.3 QoS满足率分析
+  runs: [r0 bold=None size=None name=None text='4.5.3 QoS'] [r1 bold=None size=None name=None text='满足率分析'] 
+
+[P397|Normal|align=None] 如图4.4右侧所示，QoS Success Ratio反映满足最小SINR门限γ_th的链路比例：
+  runs: [r0 bold=None size=None name=None text='如图'] [r1 bold=None size=None name=None text='4.4'] [r2 bold=None size=None name=None text='右侧所示，'] [r3 bold=None size=None name=None text='QoS Success Ratio'] [r4 bold=None size=None name=None text='反映满足最小'] [r5 bold=None size=None name=None text='SINR'] [r6 bold=None size=None name=None text='门限'] [r7 bold=None size=None name=None text='γ_th'] [r8 bold=None size=None name=None text='的链路比例：'] 
+
+[P398|Normal|align=None] GATNet的QoS满足率最高，为0.824；
+  runs: [r0 bold=None size=None name=None text='GATNet'] [r1 bold=None size=None name=None text='的'] [r2 bold=None size=None name=None text='QoS'] [r3 bold=None size=None name=None text='满足率最高，为'] [r4 bold=None size=None name=None text='0.824'] [r5 bold=None size=None name=None text='；'] 
+
+[P399|Normal|align=None] Equal Power为0.780；
+  runs: [r0 bold=None size=None name=None text='Equal Power'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='0.780'] [r3 bold=None size=None name=None text='；'] 
+
+[P400|Normal|align=None] Random为0.713；
+  runs: [r0 bold=None size=None name=None text='Random'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='0.713'] [r3 bold=None size=None name=None text='；'] 
+
+[P401|Normal|align=None] GA为0.678；
+  runs: [r0 bold=None size=None name=None text='GA'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='0.678'] [r3 bold=None size=None name=None text='；'] 
+
+[P402|Normal|align=None] GATNet+WMMSE为0.666；
+  runs: [r0 bold=None size=None name=None text='GATNet+WMMSE'] [r1 bold=None size=None name=None text='为'] [r2 bold=None size=None name=None text='0.666'] [r3 bold=None size=None name=None text='；'] 
+
+[P403|Normal|align=None] WMMSE最低，为0.656。
+  runs: [r0 bold=None size=None name=None text='WMMSE'] [r1 bold=None size=None name=None text='最低，为'] [r2 bold=None size=None name=None text='0.656'] [r3 bold=None size=None name=None text='。'] 
+
+[P404|Normal|align=None] 该结果再次印证：以和速率为单一优化目标的WMMSE和GA容易牺牲边缘链路，导致QoS满足率下降；而GATNet通过损失函数中的正则项设计，对公平性和QoS约束具有更好的适应性。GATNet+WMMSE由于第二阶段WMMSE的局部精细优化，QoS满足率较纯GATNet略有下降，但仍处于可接受范围。
+  runs: [r0 bold=None size=None name=None text='该结果再次印证：以和速率为单一优化目标的'] [r1 bold=None size=None name=None text='WMMSE'] [r2 bold=None size=None name=None text='和'] [r3 bold=None size=None name=None text='GA'] [r4 bold=None size=None name=None text='容易牺牲边缘链路，导致'] [r5 bold=None size=None name=None text='QoS'] [r6 bold=None size=None name=None text='满足率下降；而'] [r7 bold=None size=None name=None text='GATNet'] [r8 bold=None size=None name=None text='通过损失函数中的正则项设计，对公平性和'] [r9 bold=None size=None name=None text='QoS'] [r10 bold=None size=None name=None text='约束具有更好的适应性。'] [r11 bold=None size=None name=None text='GATNet+WMMSE'] [r12 bold=None size=None name=None text='由于第二阶段'] [r13 bold=None size=None name=None text='WMMSE'] [r14 bold=None size=None name=None text='的局部精细优化，'] [r15 bold=None size=None name=None text='QoS'] [r16 bold=None size=None name=None text='满足率较纯'] [r17 bold=None size=None name=None text='GATNet'] [r18 bold=None size=None name=None text='略有下降，但仍处于可接受范围。'] 
+
+[P405|Heading 2|align=None] 4.6 本章小结
+  runs: [r0 bold=None size=None name=None text='4.6 '] [r1 bold=None size=None name=None text='本章小结'] 
+
+[P406|Normal|align=None] 本章通过仿真实验对GATNet及其混合方案进行了全面评估，主要结论如下：
+  runs: [r0 bold=None size=None name=None text='本章通过仿真实验对'] [r1 bold=None size=None name=None text='GATNet'] [r2 bold=None size=None name=None text='及其混合方案进行了全面评估，主要结论如下：'] 
+
+[P407|Normal|align=None] 1. 收敛性：GATNet在3000轮训练内可稳定收敛，各性能指标Gap趋于零，训练过程可靠。
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='收敛性：'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='在'] [r4 bold=None size=None name=None text='3000'] [r5 bold=None size=None name=None text='轮训练内可稳定收敛，各性能指标'] [r6 bold=None size=None name=None text='Gap'] [r7 bold=None size=None name=None text='趋于零，训练过程可靠。'] 
+
+[P408|Normal|align=None] 2. 综合性能：GATNet+WMMSE以8.31 ms的推理延迟实现了97.2%的WMMSE频谱效率，显著优于GA等传统方法。
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='综合性能：'] [r2 bold=None size=None name=None text='GATNet+WMMSE'] [r3 bold=None size=None name=None text='以'] [r4 bold=None size=None name=None text='8.31 '] [r5 bold=None size=None name=None text='ms'] [r6 bold=None size=None name=None text='的推理延迟实现了'] [r7 bold=None size=None name=None text='97.2%'] [r8 bold=None size=None name=None text='的'] [r9 bold=None size=None name=None text='WMMSE'] [r10 bold=None size=None name=None text='频谱效率，显著优于'] [r11 bold=None size=None name=None text='GA'] [r12 bold=None size=None name=None text='等传统方法。'] 
+
+[P409|Normal|align=None] 3. 鲁棒性：在不同强度外部干扰下，GATNet系列方法的推理延迟保持稳定，频谱效率衰减可控，具备良好的动态环境适应能力。
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='鲁棒性：在不同强度外部干扰下，'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='系列方法的推理延迟保持稳定，频谱效率衰减可控，具备良好的动态环境适应能力。'] 
+
+[P410|Normal|align=None] 4. 多维度优势：纯GATNet在SINR、BER和QoS满足率等通信可靠性指标上表现突出，适合对链路质量敏感的业务场景；GATNet+WMMSE则在频谱效率上更接近理论最优，适用于高吞吐量需求场景。
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='多维度优势：纯'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='在'] [r4 bold=None size=None name=None text='SINR'] [r5 bold=None size=None name=None text='、'] [r6 bold=None size=None name=None text='BER'] [r7 bold=None size=None name=None text='和'] [r8 bold=None size=None name=None text='QoS'] [r9 bold=None size=None name=None text='满足率等通信可靠性指标上表现突出，适合对链路质量敏感的业务场景；'] [r10 bold=None size=None name=None text='GATNet+WMMSE'] [r11 bold=None size=None name=None text='则在频谱效率上更接近理论最优，适用于高吞吐量需求场景。'] 
+
+[P411|Normal|align=None] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P412|Normal|align=None] 
+  runs: 
+
+[P413|Heading 1|align=None] 第5章 总结与展望
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='5'] [r2 bold=None size=None name=None text='章'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='总结与展望'] 
+
+[P414|Heading 2|align=None] 5.1 主要工作与创新点
+  runs: [r0 bold=None size=None name=None text='5.1 '] [r1 bold=None size=None name=None text='主要工作与创新点'] 
+
+[P415|Normal|align=None] 本文针对传统功率分配方法在复杂拓扑与动态信道下面临的建模困难、计算复杂度高与实时性不足等问题，开展了基于图神经网络的无线通信网络功率分配研究。主要工作与创新点总结如下：
+  runs: [r0 bold=None size=None name=None text='本文针对传统功率分配方法在复杂拓扑与动态信道下面临的建模困难、计算复杂度高与实时性不足等问题，开展了基于图神经网络的无线通信网络功率分配研究。主要工作与创新点总'] 
+
+[P416|Normal|align=None] 1. 建立了面向图神经网络的网络模型与问题框架
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='建立了面向图神经网络的网络模型与问题框架'] 
+
+[P417|Normal|align=None] 将多链路干扰场景下的无线通信网络抽象为干扰图，设计了包含直接信道增益、干扰统计特征与功率约束的节点特征，以及表征干扰强度的边特征。在此基础上，建立了以加权和速率最大化为目标、兼顾功率约束与QoS保障的非凸优化模型，为后续图神经网络的应用提供了结构化数据基础。
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text='将多链路干扰场景下的无线通信网络抽象为干扰图，设计了包含直接信道增益、干扰统计特征与功率约束的节点特征，以及表征干扰强度的边特征。在此基础上，建立了以加权和速率'] [r2 bold=None size=None name=None text='QoS'] [r3 bold=None size=None name=None text='保障的非'] [r4 bold=None size=None name=None text='凸'] [r5 bold=None size=None name=None text='优化模型，为后续图神经网络的应用提供了结构化数据基础。'] 
+
+[P418|Normal|align=None] 2. 提出了基于多头图注意力网络的端到端功率分配方法
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='提出了基于多头图注意力网络的端到端功率分配方法'] 
+
+[P419|Normal|align=None] 设计了GATNet模型，利用多头图注意力机制自适应地学习不同干扰源对目标链路的影响权重，克服了传统全连接网络将拓扑信息"打平"处理的缺陷。通过引入残差连接与层归一化，有效缓解了深层图神经网络的过度平滑问题，实现了从信道状态到功率分配系数的稳定端到端映射。
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text='设计了'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='模型，利用多头图注意力机制自适应地学习不同干扰源对目标链路的影响权重，克服了传统全连接网络将拓扑信息'] [r4 bold=None size=None name=None text='"'] [r5 bold=None size=None name=None text='打平'] [r6 bold=None size=None name=None text='"'] [r7 bold=None size=None name=None text='处理的缺陷。通过引入残差连接与层归一化，有效缓解了深层图神经网络的过度平滑问题，实现了从信道状态到功率分配系数的稳定端到端映射。'] 
+
+[P420|Normal|align=None] 3. 构建了无监督训练策略与多目标损失函数
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='构建了无监督训练策略与多目标损失函数'] 
+
+[P421|Normal|align=None] 以频谱效率为优化目标进行无监督训练，无需依赖传统迭代算法的标注数据。同时，在损失函数中引入Jain公平性正则项与QoS违反惩罚项，使模型在提升网络吞吐量的同时兼顾链路公平性与服务质量保障。
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text='以频谱效率为优化目标进行无监督训练，无需依赖传统迭代算法的标注数据。同时，在损失函数中引入'] [r2 bold=None size=None name=None text='Jain'] [r3 bold=None size=None name=None text='公平性正则项与'] [r4 bold=None size=None name=None text='QoS'] [r5 bold=None size=None name=None text='违反惩罚项，使模型在提升网络吞吐量的同时兼顾链路公平性与服务质量保障。'] 
+
+[P422|Normal|align=None] 4. 提出了GATNet与WMMSE的两阶段混合方案
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='提出了'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='与'] [r4 bold=None size=None name=None text='WMMSE'] [r5 bold=None size=None name=None text='的两阶段混合方案'] 
+
+[P423|Normal|align=None] 针对纯数据驱动方法性能上界受限的问题，设计了GATNet+WMMSE混合架构。利用GATNet的快速推理能力生成高质量初始解，再经WMMSE少量迭代精细优化，在计算延迟仅为传统遗传算法13.1%的条件下，达到了WMMSE性能上界的97.2%。
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text='针对纯数据驱动方法性能上界受限的问题，设计了'] [r2 bold=None size=None name=None text='GATNet+WMMSE'] [r3 bold=None size=None name=None text='混合架构。利用'] [r4 bold=None size=None name=None text='GATNet'] [r5 bold=None size=None name=None text='的快速推理能力生成高质量初始解，再经'] [r6 bold=None size=None name=None text='WMMSE'] [r7 bold=None size=None name=None text='少量迭代精细优化，在计算延迟仅为传统遗传算法'] [r8 bold=None size=None name=None text='13.1%'] [r9 bold=None size=None name=None text='的条件下，达到了'] [r10 bold=None size=None name=None text='WMMSE'] [r11 bold=None size=None name=None text='性能上界的'] [r12 bold=None size=None name=None text='97.2%'] [r13 bold=None size=None name=None text='。'] 
+
+[P424|Normal|align=None] 5. 验证了模型在多干扰场景下的泛化能力与鲁棒性
+  runs: [r0 bold=None size=None name=None text='5. '] [r1 bold=None size=None name=None text='验证了模型在多干扰场景下的泛化能力与鲁棒性'] 
+
+[P425|Normal|align=None] 在轻度、中度、重度三组外部干扰场景下开展对比实验，结果表明GATNet系列方法的推理延迟几乎不受干扰强度影响，频谱效率衰减可控。此外，纯GATNet在SINR、误码率和QoS满足率等通信可靠性指标上优于传统优化方法，展现了良好的综合性能。
+  runs: [r0 bold=None size=None name=None text='    '] [r1 bold=None size=None name=None text='在轻度、中度、重度三组外部干扰场景下开展对比实验，结果表明'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='系列方法的推理延迟几乎不受干扰强度影响，频谱效率衰减可控。此外，纯'] [r4 bold=None size=None name=None text='GATNet'] [r5 bold=None size=None name=None text='在'] [r6 bold=None size=None name=None text='SINR'] [r7 bold=None size=None name=None text='、误码率和'] [r8 bold=None size=None name=None text='QoS'] [r9 bold=None size=None name=None text='满足率等通信可靠性指标上优于传统优化方法，展现了良好的综合性能。'] 
+
+[P426|Heading 2|align=None] 5.2 研究局限性
+  runs: [r0 bold=None size=None name=None text='5.2 '] [r1 bold=None size=None name=None text='研究局限性'] 
+
+[P427|Normal|align=None] 尽管本文所提方法在仿真环境中取得了良好效果，但仍存在以下局限：
+  runs: [r0 bold=None size=None name=None text='尽管本文所提方法在仿真环境中取得了良好效果，但仍存在以下局限：'] 
+
+[P428|Normal|align=None] 1. 网络规模受限：当前实验主要针对20～50条链路的场景验证，对于超密集组网（如数百条链路）下GATNet的注意力计算复杂度与可扩展性尚需进一步验证。
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='网络规模受限：当前实验主要针对'] [r2 bold=None size=None name=None text='20'] [r3 bold=None size=None name=None text='～'] [r4 bold=None size=None name=None text='50'] [r5 bold=None size=None name=None text='条链路的场景验证，对于超密集组网（如数百条链路）下'] [r6 bold=None size=None name=None text='GATNet'] [r7 bold=None size=None name=None text='的注意力计算复杂度与可扩展性尚需进一步验证。'] 
+
+[P429|Normal|align=None] 2. 信道模型相对理想：仿真采用Rayleigh衰落与路径损耗复合模型，未充分考虑实际环境中的阴影衰落、多径时延扩展以及毫米波/太赫兹频段的定向信道特性。
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='信道模型相对理想：仿真采用'] [r2 bold=None size=None name=None text='Rayleigh'] [r3 bold=None size=None name=None text='衰落与路径损耗复合模型，未充分考虑实际环境中的阴影衰落、多径时延扩展以及毫米波'] [r4 bold=None size=None name=None text='/'] [r5 bold=None size=None name=None text='太赫兹频段的定向信道特性。'] 
+
+[P430|Normal|align=None] 3. 功率约束形式单一：目前仅考虑了各链路独立的最大功率约束，尚未涉及总功率预算约束、多载波场景下的频域功率分配以及多天线系统的波束成形联合优化。
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='功率约束形式单一：目前仅考虑了各链路独立的最大功率约束，尚未涉及总功率预算约束、多载波场景下的频域功率分配以及多天线系统的波束成形联合优化。'] 
+
+[P431|Normal|align=None] 4. 动态场景适应性有限：训练过程基于静态快照数据，对于用户高速移动导致的信道快速时变、链路动态接入与退出的场景，模型的在线适应能力仍需提升。
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='动态场景适应性有限：训练过程基于静态快照数据，对于用户高速移动导致的信道快速时变、链路动态接入与退出的场景，模型的在线适应能力仍需提升。'] 
+
+[P432|Heading 2|align=None] 5.3 后续研究工作展望
+  runs: [r0 bold=None size=None name=None text='5.3 '] [r1 bold=None size=None name=None text='后续研究工作展望'] 
+
+[P433|Normal|align=None] 针对上述局限，未来可从以下方向展开深入研究：
+  runs: [r0 bold=None size=None name=None text='针对上述局限，未来可从以下方向展开深入研究：'] 
+
+[P434|Normal|align=None] 1. 大规模网络扩展研究：探索图注意力机制的稀疏化与采样策略（如GraphSAGE、Cluster-GCN），降低大规模干扰图中的注意力计算开销，验证所提方法在超密集异构网络中的可扩展性。
+  runs: [r0 bold=None size=None name=None text='1. '] [r1 bold=None size=None name=None text='大规模网络扩展研究：探索图注意力机制的稀疏化与采样策略（如'] [r2 bold=None size=None name=None text='GraphSAGE'] [r3 bold=None size=None name=None text='、'] [r4 bold=None size=None name=None text='Cluster-GCN'] [r5 bold=None size=None name=None text='），降低大规模干扰图中的注意力计算开销，验证所提方法在超密集异构网络中的可扩展性。'] 
+
+[P435|Normal|align=None] 2. 面向6G复杂信道的模型增强：将信道状态信息扩展至包含角度域、时延域特征，结合三维几何信道模型（如3GPP TR 38.901），研究GNN在毫米波Massive MIMO与智能超表面（RIS）辅助通信中的功率分配问题。
+  runs: [r0 bold=None size=None name=None text='2. '] [r1 bold=None size=None name=None text='面向'] [r2 bold=None size=None name=None text='6G'] [r3 bold=None size=None name=None text='复杂信道的模型增强：将信道状态信息扩展至包含角度域、时延域特征，结合三维几何信道模型（如'] [r4 bold=None size=None name=None text='3GPP TR 38.901'] [r5 bold=None size=None name=None text='），研究'] [r6 bold=None size=None name=None text='GNN'] [r7 bold=None size=None name=None text='在毫米波'] [r8 bold=None size=None name=None text='Massive MIMO'] [r9 bold=None size=None name=None text='与智能超表面（'] [r10 bold=None size=None name=None text='RIS'] [r11 bold=None size=None name=None text='）辅助通信中的功率分配问题。'] 
+
+[P436|Normal|align=None] 3. 联合资源分配与多目标优化：将功率分配与子载波分配、用户关联、波束成形等联合优化问题统一建模为异构图学习问题，设计多任务图神经网络架构，实现频谱效率、能量效率与公平性的帕累托最优平衡。
+  runs: [r0 bold=None size=None name=None text='3. '] [r1 bold=None size=None name=None text='联合资源分配与多目标优化：将功率分配与子载波分配、用户关联、波束成形等联合优化问题统一建模为'] [r2 bold=None size=None name=None text='异构图学习'] [r3 bold=None size=None name=None text='问题，设计多任务图神经网络架构，实现频谱效率、能量效率与公平性的帕累托最优平衡。'] 
+
+[P437|Normal|align=None] 4. 在线学习与迁移学习机制：引入元学习（Meta-Learning）与持续学习（Continual Learning）框架，使模型能够快速适应新拓扑与新信道分布；结合数字孪生网络构建在线训练闭环，实现真实部署环境下的模型持续进化。
+  runs: [r0 bold=None size=None name=None text='4. '] [r1 bold=None size=None name=None text='在线学习与迁移学习机制：引入元学习（'] [r2 bold=None size=None name=None text='Meta-Learning'] [r3 bold=None size=None name=None text='）与持续学习（'] [r4 bold=None size=None name=None text='Continual Learning'] [r5 bold=None size=None name=None text='）框架，使模型能够快速适应新拓扑与新信道分布；结合数字孪生网络构建在线训练闭环，实现真实部署环境下的模型持续进化。'] 
+
+[P438|Normal|align=None] 5. 分布式部署与轻量化推理：研究GATNet的模型压缩与量化方法，设计适用于边缘计算节点的轻量化推理方案，探索基于联邦学习的分布式训练架构，降低对集中式计算资源的依赖。
+  runs: [r0 bold=None size=None name=None text='5. '] [r1 bold=None size=None name=None text='分布式部署与轻量化推理：研究'] [r2 bold=None size=None name=None text='GATNet'] [r3 bold=None size=None name=None text='的模型压缩与量化方法，设计适用于边缘计算节点的轻量化推理方案，探索基于联邦学习的分布式训练架构，降低对集中式计算资源的依赖。'] 
+
+[P439|Normal|align=None] 
+  runs: [r0 bold=None size=None name=None text=''] 
+
+[P440|Heading 1|align=None] 第6章 参考文献的标注和要求
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='6'] [r2 bold=None size=None name=None text='章'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='参考文献的标注和要求'] 
+
+[P441|Normal|align=None] 学位论文必须要列参考文献，以说明著述内容的科学根据和出处，进而方便读者扩展性阅读的查找。若引用他人成果，应列出引文出处，以尊重他人的科学研究成果[2,15]。
+  runs: [r0 bold=None size=None name=None text='学位论文必须要列参考文献，以说明著述内容的科学根据和出处，进而'] [r1 bold=None size=None name=None text='方便'] [r2 bold=None size=None name=None text='读者扩展性阅读的查找。若引用他人成果，应列出引文出处，以尊重他人的科学研究成果'] [r3 bold=None size=None name=None text='[2,'] [r4 bold=None size=None name=None text='15]'] [r5 bold=None size=None name=None text='。'] 
+
+[P442|Heading 2|align=None] 6.1 参考文献的重要性
+  runs: [r0 bold=None size=None name=None text='6.1 '] [r1 bold=None size=None name=None text='参考文献的重要性'] 
+
+[P443|Normal|align=None] 参考文献反映论文作者的科学态度和论文具有真实、广泛的科学依据，也反映论文的起点和深度。方便论文作者与前人的成果区别开来，是对他人劳动成果的尊重。方便读者检索和查找有关资料。有利于节省论文篇幅，有助于科技情报人员进行情报研究和计量学研究。
+  runs: [r0 bold=None size=None name=None text='参考文献反映论文作者的科学态度和论文具有真实、广泛的科学依据，也反映论文的起点和深度。方便论文作者与前人的成果区别开来，是对他人劳动成果的尊重。方便读者检索和查'] 
+
+[P444|Heading 2|align=None] 6.2 顺序编码体系
+  runs: [r0 bold=None size=None name=None text='6.2 '] [r1 bold=None size=None name=None text='顺序编码体系'] 
+
+[P445|Normal|align=None] 参考文献标著录有如下4种体系：著者－出版年体系（Harvard体系），顺序编码体系，数字字母混合体系和出版年顺序体系[4]。我校本科学位论文的参考文献标注采用顺序编码体系。即参考文献以文献在整个学位论文中出现的次序用[1]、[2]、[3]…形式统一排序、依次列出，置于文中提及的文字末尾的右上角，视引文表标注情况，置于标点符号前或后[4]。
+  runs: [r0 bold=None size=None name=None text='参考文献标著录有如下'] [r1 bold=None size=None name=None text='4'] [r2 bold=None size=None name=None text='种体系：著者－出版年体系（'] [r3 bold=None size=None name=None text='Harvard'] [r4 bold=None size=None name=None text='体系），顺序编码体系，数字字母混合体系和出版年顺序体系'] [r5 bold=None size=None name=None text='[4]'] [r6 bold=None size=None name=None text='。我校'] [r7 bold=None size=None name=None text='本科'] [r8 bold=None size=None name=None text='学位论文的参考文献标注采用顺序编码体系。即参考文献以文献在整个学位论文中出现的次序用'] [r9 bold=None size=None name=None text='[1]'] [r10 bold=None size=None name=None text='、'] [r11 bold=None size=None name=None text='[2]'] [r12 bold=None size=None name=None text='、'] [r13 bold=None size=None name=None text='[3]…'] [r14 bold=None size=None name=None text='形式统一排序、依次列出，置于文中提及的文字末尾的右上角，视引文表标注情况，置于标点符号前或后'] [r15 bold=None size=None name=None text='[4]'] [r16 bold=None size=None name=None text='。'] 
+
+[P446|Heading 3|align=None] 6.2.1正文中引用文献的标注方法
+  runs: [r0 bold=None size=None name=None text='6.2.1'] [r1 bold=None size=None name=None text='正文中引用文献的标注方法'] 
+
+[P447|Normal|align=None] 正文中引用文献的标示应置于所引内容最后一个字的右上角，所引文献编号用阿拉伯数字置于方括号“[ ]”中，用小4号字体的上角标，引用单篇文献时如例1所示；引用两篇文献时，各篇文献序号置于同一个方括号内，其间用逗号（不是顿号）分开，如例2所示，如果连续序号多于两个以上时，可用范围号“~”（中文还可用全身“—”，外文用en-dash“-”）连接起讫序号，如例3所示；如果文献序号作为叙述文字的一部分，则文献号与正文平排，并且每条文献都要加方括号，如例4和例5所示；如果同一文献在文中不同处被重复引用，全文只在其第一次出现时标应标的序号，以后各处均标这同一序号；若必须标出引文页码，可把页码标在方括号外，如例
+  runs: [r0 bold=None size=None name=None text='正文中引用文献的标示应置于所引内容最后一个字的右上角，所引文献编号用阿拉伯数字置于方括号'] [r1 bold=None size=None name=None text='“[ ]”'] [r2 bold=None size=None name=None text='中，用小'] [r3 bold=None size=None name=None text='4'] [r4 bold=None size=None name=None text='号字体的上角标，引用单篇文献时如例'] [r5 bold=None size=None name=None text='1'] [r6 bold=None size=None name=None text='所示；引用两篇文献时，各篇文献序号置于同一个方括号内，其间用逗号（不是顿号）分开，如例'] [r7 bold=None size=None name=None text='2'] [r8 bold=None size=None name=None text='所示，如果连续序号多于两个以上时，可用范围号'] [r9 bold=None size=None name=None text='“~”'] [r10 bold=None size=None name=None text='（中文还可用全身'] [r11 bold=None size=None name=None text='“—”'] [r12 bold=None size=None name=None text='，外文用'] [r13 bold=None size=None name=None text='en'] [r14 bold=None size=None name=None text='-dash“-”'] [r15 bold=None size=None name=None text='）连接起讫序号，如例'] [r16 bold=None size=None name=None text='3'] [r17 bold=None size=None name=None text='所示；如果文献序号作为叙述文字的一部分，则文献号与正文平排，并且每条文献都要加方括号，如例'] [r18 bold=None size=None name=None text='4'] [r19 bold=None size=None name=None text='和例'] [r20 bold=None size=None name=None text='5'] [r21 bold=None size=None name=None text='所示；如果同一文献在文中不同处被重复引用，全文只在其第一次出现时'] [r22 bold=None size=None name=None text='标应标的序号，以后各处均标这同一序号；若必须标出引文页码，可把页码标在方括号外，如例'] [r23 bold=None size=None name=None text='6'] [r24 bold=None size=None name=None text='所示，也可用其他明确的方式标出。'] 
+
+[P448|Normal|align=None] 例1：……，表明已低到2500 m的高度[2]，……。
+  runs: [r0 bold=None size=None name=None text='例'] [r1 bold=None size=None name=None text='1'] [r2 bold=None size=None name=None text='：'] [r3 bold=None size=None name=None text='……'] [r4 bold=None size=None name=None text='，表明已低到'] [r5 bold=None size=None name=None text='2500 m'] [r6 bold=None size=None name=None text='的高度'] [r7 bold=None size=None name=None text='[2]'] [r8 bold=None size=None name=None text='，'] [r9 bold=None size=None name=None text='……'] [r10 bold=None size=None name=None text='。'] 
+
+[P449|Normal|align=None] 例2：原位生成的TiB主要有针状或晶须状[21,22]
+  runs: [r0 bold=None size=None name=None text='例'] [r1 bold=None size=None name=None text='2'] [r2 bold=None size=None name=None text='：'] [r3 bold=None size=None name=None text='原位生成的'] [r4 bold=None size=None name=None text='TiB'] [r5 bold=None size=None name=None text='主要有针状或晶须状'] [r6 bold=None size=None name=None text='[21,22]'] 
+
+[P450|Normal|align=None] 例3：复杂网络是当今学术界的研究热点[3-6]，早期的研究结果[2,4,6-9] 表明，……。
+  runs: [r0 bold=None size=None name=None text='例'] [r1 bold=None size=None name=None text='3'] [r2 bold=None size=None name=None text='：'] [r3 bold=None size=None name=None text='复杂网络是当今学术界的研究热点'] [r4 bold=None size=None name=None text='[3-6]'] [r5 bold=None size=None name=None text='，早期的研究结果'] [r6 bold=None size=None name=None text='[2,4,6-9] '] [r7 bold=None size=None name=None text='表明，'] [r8 bold=None size=None name=None text='……'] [r9 bold=None size=None name=None text='。'] 
+
+[P451|Normal|align=None] 例4：文献[2]指出，此高度已低到2500 m。
+  runs: [r0 bold=None size=None name=None text='例'] [r1 bold=None size=None name=None text='4'] [r2 bold=None size=None name=None text='：文献'] [r3 bold=None size=None name=None text='[2]'] [r4 bold=None size=None name=None text='指出，'] [r5 bold=None size=None name=None text='此高度'] [r6 bold=None size=None name=None text='已低到'] [r7 bold=None size=None name=None text='2500 m'] [r8 bold=None size=None name=None text='。'] 
+
+[P452|Normal|align=None] 例5：紫色土壤主要分布在我国西南地区（参见文献[11]、[12]、[32]）。
+  runs: [r0 bold=None size=None name=None text='例'] [r1 bold=None size=None name=None text='5'] [r2 bold=None size=None name=None text='：紫色土壤主要分布在我国西南地区（参见文献'] [r3 bold=None size=None name=None text='[11]'] [r4 bold=None size=None name=None text='、'] [r5 bold=None size=None name=None text='[12]'] [r6 bold=None size=None name=None text='、'] [r7 bold=None size=None name=None text='[32]'] [r8 bold=None size=None name=None text='）。'] 
+
+[P453|Normal|align=None] 例6：……，表明已低到2500 m的高度[2,35]，……。
+  runs: [r0 bold=None size=None name=None text='例'] [r1 bold=None size=None name=None text='6'] [r2 bold=None size=None name=None text='：'] [r3 bold=None size=None name=None text='……'] [r4 bold=None size=None name=None text='，表明已低到'] [r5 bold=None size=None name=None text='2500 m'] [r6 bold=None size=None name=None text='的高度'] [r7 bold=None size=None name=None text='['] [r8 bold=None size=None name=None text='2,'] [r9 bold=None size=None name=None text='35'] [r10 bold=None size=None name=None text=']'] [r11 bold=None size=None name=None text='，'] [r12 bold=None size=None name=None text='……'] [r13 bold=None size=None name=None text='。'] 
+
+[P454|Normal|align=None] 不得将引用文献标示置于各级标题处。
+  runs: [r0 bold=None size=None name=None text='不得将引用文献标示置于各级标题处。'] 
+
+[P455|Heading 3|align=None] 6.2.2 文后参考文献表的著录方法
+  runs: [r0 bold=None size=None name=None text='6.2.2 '] [r1 bold=None size=None name=None text='文后参考文献表的著录方法'] 
+
+[P456|Normal|align=None] 按论文中引用的顺序号排列参考文献，不按著者，不分语种。多著者时，著者间用西文逗号隔开，只列前3人，后加“等(et al．)”。在句中，凡是西文符号后应空半格。
+  runs: [r0 bold=None size=None name=None text='按论文中引用的顺序号排列参考文献，不按著者，不分语种。多著者时，著者间用西文逗号隔开，只列前'] [r1 bold=None size=None name=None text='3'] [r2 bold=None size=None name=None text='人，'] [r3 bold=None size=None name=None text='后加'] [r4 bold=None size=None name=None text='“'] [r5 bold=None size=None name=None text='等'] [r6 bold=None size=None name=None text='(et'] [r7 bold=None size=None name=None text=' '] [r8 bold=None size=None name=None text='al'] [r9 bold=None size=None name=None text='．'] [r10 bold=None size=None name=None text=')”'] [r11 bold=None size=None name=None text='。在句中，凡是西文符号'] [r12 bold=None size=None name=None text='后应空半格'] [r13 bold=None size=None name=None text='。'] 
+
+[P457|Normal|align=None] 参考文献的著录格式严格按照以下形式书写（含标点符号）：
+  runs: [r0 bold=None size=None name=None text='参考文献的著录格式严格按照以下形式书写（含标点符号）：'] 
+
+[P458|Normal|align=None] 1）专著：作者.书名.版本(第1版不著录)[M].出版地:出版者,出版年:引用起止页码.
+  runs: [r0 bold=True size=None name=None text='1'] [r1 bold=True size=None name=None text='）专著'] [r2 bold=None size=None name=None text='：作者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='书名'] [r5 bold=None size=None name=None text='.'] [r6 bold=None size=None name=None text='版本'] [r7 bold=None size=None name=None text='('] [r8 bold=None size=None name=None text='第'] [r9 bold=None size=None name=None text='1'] [r10 bold=None size=None name=None text='版'] [r11 bold=None size=None name=None text='不'] [r12 bold=None size=None name=None text='著录'] [r13 bold=None size=None name=None text=')[M].'] [r14 bold=None size=None name=None text='出版地'] [r15 bold=None size=None name=None text=':'] [r16 bold=None size=None name=None text='出版者'] [r17 bold=None size=None name=None text=','] [r18 bold=None size=None name=None text='出版年'] [r19 bold=None size=None name=None text=':'] [r20 bold=None size=None name=None text='引用'] [r21 bold=None size=None name=None text='起止页码'] [r22 bold=None size=None name=None text='.'] 
+
+[P459|Normal|align=None] 2）译著：作者.书名［M］.译者,译.出版地:出版者,出版年: 引用起止页码.
+  runs: [r0 bold=True size=None name=None text='2'] [r1 bold=True size=None name=None text='）译著'] [r2 bold=None size=None name=None text='：作者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='书名［'] [r5 bold=None size=None name=None text='M'] [r6 bold=None size=None name=None text='］'] [r7 bold=None size=None name=None text='.'] [r8 bold=None size=None name=None text='译者'] [r9 bold=None size=None name=None text=','] [r10 bold=None size=None name=None text='译'] [r11 bold=None size=None name=None text='.'] [r12 bold=None size=None name=None text='出版地'] [r13 bold=None size=None name=None text=':'] [r14 bold=None size=None name=None text='出版者'] [r15 bold=None size=None name=None text=','] [r16 bold=None size=None name=None text='出版年'] [r17 bold=None size=None name=None text=':'] [r18 bold=None size=None name=None text=' '] [r19 bold=None size=None name=None text='引用'] [r20 bold=None size=None name=None text='起止页码'] [r21 bold=None size=None name=None text='.'] 
+
+[P460|Normal|align=None] 3）期刊：作者.题名［J］.刊名,出版年份,卷(期):起止页码.
+  runs: [r0 bold=True size=None name=None text='3'] [r1 bold=True size=None name=None text='）期刊'] [r2 bold=None size=None name=None text='：作者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='题名［'] [r5 bold=None size=None name=None text='J'] [r6 bold=None size=None name=None text='］'] [r7 bold=None size=None name=None text='.'] [r8 bold=None size=None name=None text='刊名'] [r9 bold=None size=None name=None text=','] [r10 bold=None size=None name=None text='出版年份'] [r11 bold=None size=None name=None text=','] [r12 bold=None size=None name=None text='卷'] [r13 bold=None size=None name=None text='('] [r14 bold=None size=None name=None text='期'] [r15 bold=None size=None name=None text='):'] [r16 bold=None size=None name=None text='起止页码'] [r17 bold=None size=None name=None text='.'] 
+
+[P461|Normal|align=None] 4）会议论文集：作者.题名［C］// 编者.论文集名.出版地:出版者,出版年:起止页码.
+  runs: [r0 bold=True size=None name=None text='4'] [r1 bold=True size=None name=None text='）会议论文集'] [r2 bold=None size=None name=None text='：作者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='题名［'] [r5 bold=None size=None name=None text='C'] [r6 bold=None size=None name=None text='］'] [r7 bold=None size=None name=None text='// '] [r8 bold=None size=None name=None text='编者'] [r9 bold=None size=None name=None text='.'] [r10 bold=None size=None name=None text='论文集名'] [r11 bold=None size=None name=None text='.'] [r12 bold=None size=None name=None text='出版地'] [r13 bold=None size=None name=None text=':'] [r14 bold=None size=None name=None text='出版者'] [r15 bold=None size=None name=None text=','] [r16 bold=None size=None name=None text='出版年'] [r17 bold=None size=None name=None text=':'] [r18 bold=None size=None name=None text='起止页码'] [r19 bold=None size=None name=None text='.'] 
+
+[P462|Normal|align=None] 5）学位论文：作者.题名:［D］.保存地:保存者,年份.
+  runs: [r0 bold=True size=None name=None text='5'] [r1 bold=True size=None name=None text='）学位论文'] [r2 bold=None size=None name=None text='：作者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='题名'] [r5 bold=None size=None name=None text=':'] [r6 bold=None size=None name=None text='［'] [r7 bold=None size=None name=None text='D'] [r8 bold=None size=None name=None text='］'] [r9 bold=None size=None name=None text='.'] [r10 bold=None size=None name=None text='保存地'] [r11 bold=None size=None name=None text=':'] [r12 bold=None size=None name=None text='保存者'] [r13 bold=None size=None name=None text=','] [r14 bold=None size=None name=None text='年份'] [r15 bold=None size=None name=None text='.'] 
+
+[P463|Normal|align=None] 6）专利文献：专利申请者.题名.专利国别,专利号［P］.公告日期或公开日期.
+  runs: [r0 bold=True size=None name=None text='6'] [r1 bold=True size=None name=None text='）专利文献'] [r2 bold=None size=None name=None text='：专利申请者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='题名'] [r5 bold=None size=None name=None text='.'] [r6 bold=None size=None name=None text='专利国别'] [r7 bold=None size=None name=None text=','] [r8 bold=None size=None name=None text='专利号［'] [r9 bold=None size=None name=None text='P'] [r10 bold=None size=None name=None text='］'] [r11 bold=None size=None name=None text='.'] [r12 bold=None size=None name=None text='公告日期或公开日期'] [r13 bold=None size=None name=None text='.'] 
+
+[P464|Normal|align=None] 7）标准：责任者.标准代号标准名称［S］.出版地:出版者,出版年.
+  runs: [r0 bold=True size=None name=None text='7'] [r1 bold=True size=None name=None text='）标准'] [r2 bold=None size=None name=None text='：责任者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='标准代号标准名称［'] [r5 bold=None size=None name=None text='S'] [r6 bold=None size=None name=None text='］'] [r7 bold=None size=None name=None text='.'] [r8 bold=None size=None name=None text='出版地'] [r9 bold=None size=None name=None text=':'] [r10 bold=None size=None name=None text='出版者'] [r11 bold=None size=None name=None text=','] [r12 bold=None size=None name=None text='出版年'] [r13 bold=None size=None name=None text='.'] 
+
+[P465|Normal|align=None] 8）电子文献标注格式：主要责任者.题名: 其它题名信息[文献类型标志/文献载体标志].出版地: 出版者, 出版年(更新或修改日期)（引用日期）.获取和访问路径.
+  runs: [r0 bold=True size=None name=None text='8'] [r1 bold=True size=None name=None text='）电子文献标注格式'] [r2 bold=None size=None name=None text='：主要责任者'] [r3 bold=None size=None name=None text='.'] [r4 bold=None size=None name=None text='题名'] [r5 bold=None size=None name=None text=': '] [r6 bold=None size=None name=None text='其它题名信息'] [r7 bold=None size=None name=None text='['] [r8 bold=None size=None name=None text='文献类型标志'] [r9 bold=None size=None name=None text='/'] [r10 bold=None size=None name=None text='文献载体标志'] [r11 bold=None size=None name=None text='].'] [r12 bold=None size=None name=None text='出版地'] [r13 bold=None size=None name=None text=': '] [r14 bold=None size=None name=None text='出版者'] [r15 bold=None size=None name=None text=', '] [r16 bold=None size=None name=None text='出版年'] [r17 bold=None size=None name=None text='('] [r18 bold=None size=None name=None text='更新或修改日期'] [r19 bold=None size=None name=None text=')'] [r20 bold=None size=None name=None text='（'] [r21 bold=None size=None name=None text='引用日期'] [r22 bold=None size=None name=None text='）'] [r23 bold=None size=None name=None text='.'] [r24 bold=None size=None name=None text='获取和访问路径'] [r25 bold=None size=None name=None text='.'] 
+
+[P466|Normal|align=None] 参考文献著录时还应注意：参考文献中的外文作者名、外文刊名的缩写一律不用缩写点。外文著者一律用姓在名前，采用首字母缩写（中国人用全名不缩写）。姓和名之间不加逗号，名2个以上大写首字母，2名间空一格。文献作者3名以内全部列出，4名以上则列前3人，后加“et al”。各著者间不加“and”、“和”等，应用逗号分开。外文题名第一个单词首字母大写，其余单词（专有名词除外）均不大写。外文刊名应按国际标准规定缩写，不加缩写点。
+  runs: [r0 bold=None size=None name=None text='参考文献著录时还应注意：参考文献中的外文作者名、外文刊名的缩写一律不用缩写点。外文著者一律用姓在名前，采用首字母缩写（中国人用全名不缩写）。姓和名之间不加逗号，'] [r1 bold=None size=None name=None text='2'] [r2 bold=None size=None name=None text='个以上大写首字母，'] [r3 bold=None size=None name=None text='2'] [r4 bold=None size=None name=None text='名间空一格'] [r5 bold=None size=None name=None text='。文献作者'] [r6 bold=None size=None name=None text='3'] [r7 bold=None size=None name=None text='名以内'] [r8 bold=None size=None name=None text='全部列出，'] [r9 bold=None size=None name=None text='4'] [r10 bold=None size=None name=None text='名以上则列前'] [r11 bold=None size=None name=None text='3'] [r12 bold=None size=None name=None text='人，后加'] [r13 bold=None size=None name=None text='“et al”'] [r14 bold=None size=None name=None text='。各著者间不加'] [r15 bold=None size=None name=None text='“and”'] [r16 bold=None size=None name=None text='、'] [r17 bold=None size=None name=None text='“'] [r18 bold=None size=None name=None text='和'] [r19 bold=None size=None name=None text='”'] [r20 bold=None size=None name=None text='等，应用逗号分开。外文题名第一个单词首字母大写，其余单词（专有名词除外）均不大写。外文刊名应按国际标准规定缩写，不加缩写点。'] 
+
+[P467|Normal|align=None] 特别提醒，对西文作者，正文中引用时应遵循西文规范，即名在前姓在后，缩写部分要加缩写点。以参考文献[10]为例，其参考文献条目为：
+  runs: [r0 bold=None size=None name=None text='特别提醒，对西文作者，正文中引用时应遵循西文规范，即名在前姓在后，缩写部分要加缩写点。以参考文献'] [r1 bold=None size=None name=None text='[10]'] [r2 bold=None size=None name=None text='为例，其参考文献条目为：'] 
+
+[P468|Normal|align=None] [10]	Atzori L, Iera A, Morabito G. The internet of things: a survey[J]. Computer Networks, 2010, 54(15): 2787 -2805.
+  runs: [r0 bold=None size=None name=None text='[10]'] [r1 bold=None size=None name=None text='	Atzori L, Iera A, Morabito G. The internet of things: a survey[J]. Computer Net'] 
+
+[P469|Normal|align=None] 正文中引用时的文字为：“L. Atzori等人对物联网的进展进行了综述，指出……”。西文人名乱用、不当使用是常见的写作问题。
+  runs: [r0 bold=None size=None name=None text='正文中引用时的文字为：'] [r1 bold=None size=None name=None text='“L. Atzori'] [r2 bold=None size=None name=None text='等人对物联网的进展进行了综述，指出'] [r3 bold=None size=None name=None text='…'] [r4 bold=None size=None name=None text='…”'] [r5 bold=None size=None name=None text='。'] [r6 bold=None size=None name=None text='西文人名乱用、不当使用是常见的写作问题。'] 
+
+[P470|Normal|align=None] 通过查非发现，大部分论文参考文献格式都存在各种问题，应该严格规范执行。更多样例见本模板参考文献部分。如有未尽之处，可参看发表的重邮学报论文参考文献标注样例。需要特别说明的是，由于不是所有已发表论文或高年级撰写的学位论文都严格执行了同一规范，请勿将不规范的格式当做模仿对象，以免给自己带来后续问题。
+  runs: [r0 bold=None size=None name=None text='通过查非发现'] [r1 bold=None size=None name=None text='，大部分论文参考文献格式都存在各种问题，应该严格规范执行。更'] [r2 bold=None size=None name=None text='多样例见本'] [r3 bold=None size=None name=None text='模板参考文献部分。如有未尽之处，可参看发表'] [r4 bold=None size=None name=None text='的重邮学报'] [r5 bold=None size=None name=None text='论文参考文献标注样例。需要特别说明的是，由于不是所有已发表论文或高年级撰写的学位论文都严格执行了同一规范，请勿将不规范的格式'] [r6 bold=None size=None name=None text='当做'] [r7 bold=None size=None name=None text='模仿对象，以免给自己带来后续问题。'] 
+
+[P471|Heading 2|align=None] 6.3 参考文献要求
+  runs: [r0 bold=None size=None name=None text='6.3 '] [r1 bold=None size=None name=None text='参考文献要求'] 
+
+[P472|Normal|align=None] 1）所有被引用文献均要列入参考文献中，必须按顺序标注，但同一篇文章只用一个序号。
+  runs: [r0 bold=None size=None name=None text='1'] [r1 bold=None size=None name=None text='）所有被引用文献均要列入参考文献中，必须按顺序标注，但同一篇文章只用一个序号。'] 
+
+[P473|Normal|align=None] 2）参考文献数量不得少于15篇，各二级学院应按不同专业提出外文参考文献具体要求，教科书和硕士学位论文不得多于5本,其中外文文献一般不少于2条。参考文献中近三年的文献数一般应不少于总数的1/3，并应有近两年的参考文献。(网上参考文献和各类标准不包含在上述规定的文献数量之内)。
+  runs: [r0 bold=None size=None name=None text=' 2'] [r1 bold=None size=None name=None text='）'] [r2 bold=None size=None name=None text='参考文献数量不得少于'] [r3 bold=None size=None name=None text='15'] [r4 bold=None size=None name=None text='篇，各二级学院应按不同专业提出外文参考文献具体要求，教科书和硕士学位论文不得多于'] [r5 bold=None size=None name=None text='5'] [r6 bold=None size=None name=None text='本'] [r7 bold=None size=None name=None text=','] [r8 bold=None size=None name=None text='其中外文文献一般不少于'] [r9 bold=None size=None name=None text='2'] [r10 bold=None size=None name=None text='条。参考文献中近三年的文献数一般应不少于总数的'] [r11 bold=None size=None name=None text='1/3'] [r12 bold=None size=None name=None text='，并应有近两年的参考文献。'] [r13 bold=None size=None name=None text='('] [r14 bold=None size=None name=None text='网上参考文献和各类标准不包含在上述规定的文献数量之内'] [r15 bold=None size=None name=None text=')'] [r16 bold=None size=None name=None text='。'] 
+
+[P474|Normal|align=None] 3）教材、产品说明书、未公开发表的研究报告（著名的内部报告如PB、AD报告及著名大公司的企业技术报告等除外）等通常不宜作为参考文献引用。一些未公开发表的内容引用时，可以采用注释如脚注的方式。
+  runs: [r0 bold=None size=None name=None text='3'] [r1 bold=None size=None name=None text='）教材、产品说明书、未公开发表的研究报告（著名的内部报告如'] [r2 bold=None size=None name=None text='PB'] [r3 bold=None size=None name=None text='、'] [r4 bold=None size=None name=None text='AD'] [r5 bold=None size=None name=None text='报告及著名大公司的企业技术报告等除外）等通常不宜作为参考文献引用。一些未公开发表的内容引用时，可以采用注释如脚注的方式。'] 
+
+[P475|Normal|align=None] 4）引用网上参考文献时，应注明该文献的准确网页地址。因为网上文献大都不规范，除特殊情况，原则上不引用，尽量用脚注方式给出。如测试数据来源网址，在正文首次出现时均可直接脚注或正文中给出出处。
+  runs: [r0 bold=None size=None name=None text='4'] [r1 bold=None size=None name=None text='）引用网上参考文献时，应注明该文献的准确网页地址。因为网上文献大都不规范，除特殊情况，原则上不引用，尽量用脚注方式给出。如测试数据来源网址，在正文首次出现时均可'] 
+
+[P476|Normal|align=None] 5）序号应按文献在论文中的被引用顺序编排。换行时与作者名第一个字对齐。若同一文献中有多处被引用，则要写出相应引用页码，各起止页码间空一格，排列按引用顺序，不按页码顺序。
+  runs: [r0 bold=None size=None name=None text='5'] [r1 bold=None size=None name=None text='）序号应按文献在论文中的被引用顺序编排。换行时与作者名第一个字对齐。若同一文献中有多处被引用，则要写出相应引用页码，各起止'] [r2 bold=None size=None name=None text='页码间空一格'] [r3 bold=None size=None name=None text='，'] [r4 bold=None size=None name=None text='排列按'] [r5 bold=None size=None name=None text='引用顺序，不按页码顺序。'] 
+
+[P477|Normal|align=None] 参考文献内容中文宋体，英文Times New Roman，小4号宋体，1.5倍行距。
+  runs: [r0 bold=None size=None name=None text='参考文献内容中文宋体，英文'] [r1 bold=None size=None name=None text='Times New Roman'] [r2 bold=None size=None name=None text='，小'] [r3 bold=None size=None name=None text='4'] [r4 bold=None size=None name=None text='号宋体，'] [r5 bold=None size=None name=None text='1.5'] [r6 bold=None size=None name=None text='倍行距。'] 
+
+[P478|Normal|align=None] Word也提供了参考文献引用的基本功能，但维护一致性比较困难。目前有较多的参考文献管理软件或工具，各有利弊，可根据情况使用，相互交流使用经验，更好地做好文献管理。
+  runs: [r0 bold=None size=None name=None text='Word'] [r1 bold=None size=None name=None text='也提供了参考文献引用的基本功能，但维护一致性比较困难。目前有较多的参考文献管理软件或工具，各有利弊，可根据情况使用，相互交流使用经验，更好地做好文献管理。'] 
+
+[P479|Heading 2|align=None] 6.4本章小结
+  runs: [r0 bold=None size=None name=None text='6.4'] [r1 bold=None size=None name=None text='本章小结'] 
+
+[P480|Normal|align=None] 介绍了参考文献的标注方法、著录方法和相关要求。
+  runs: [r0 bold=None size=None name=None text='介绍了参考文献的标注方法、著录方法和相关要求。'] 
+
+[P481|Normal|align=None] 
+  runs: 
+
+[P482|Normal|align=None] 
+  runs: 
+
+[P483|Normal|align=None] 
+  runs: 
+
+[P484|Heading 1|align=None] 第7章 总结与展望
+  runs: [r0 bold=None size=None name=None text='第'] [r1 bold=None size=None name=None text='7'] [r2 bold=None size=None name=None text='章'] [r3 bold=None size=None name=None text=' '] [r4 bold=None size=None name=None text='总结与展望'] 
+
+[P485|Normal|align=None] 学位论文应有结论，可以从论文的主要工作、创新点和后续的研究工作等方面进行总结。
+  runs: [r0 bold=None size=None name=None text='学位论文应有结论，可以从论文的主要工作、创新点和后续的研究工作等方面进行总结。'] 
+
+[P486|Heading 2|align=None] 7.1 主要工作与创新点
+  runs: [r0 bold=None size=None name=None text='7.1 '] [r1 bold=None size=None name=None text='主要工作与创新点'] 
+
+[P487|Normal|align=None] 学位论文的结论是最终的、总体的结论，不是正文中各段的小结的简单重复。结论应该观点明确、严谨、完整、准确、精炼。文字必须简明扼要。可以从论文的主要工作、创新点和后续的研究工作等方面总结。
+  runs: [r0 bold=None size=None name=None text='学位论文的结论是最终的、总体的结论，不是正文中各段的小结的简单重复。结论应该观点明确、严谨、完整、准确、精炼。文字必须简明扼要。可以从论文的主要工作、创新点和后'] 
+
+[P488|Normal|align=None] 如果不可能导出应有的结论，也可以没有结论而进行必要的讨论。
+  runs: [r0 bold=None size=None name=None text='如果不可能导出应有的结论，也可以没有结论而进行必要的讨论。'] 
+
+[P489|Normal|align=None] 可以在结论或讨论中提出建议、研究设想、仪器设备改进意见、尚待解决的问题等。不要简单重复罗列实验结果，要认真阐明本人在科研工作中创造性的成果和新见解，在本领域中的地位和作用，新见解的意义。对存在的问题和不足应作出客观的叙述。应严格区分自己的成果与他人（特别是导师的）科研成果的界限。
+  runs: [r0 bold=None size=None name=None text='可以在结论或讨论中提出建议、研究设想、仪器设备改进意见、尚待解决的问题等。不要简单重复罗列实验结果，要认真阐明本人在科研工作中创造性的成果和新见解，在本领域中的'] [r1 bold=None size=None name=None text='作出'] [r2 bold=None size=None name=None text='客观的叙述。应严格区分自己的成果与他人（特别是导师的）科研成果的界限。'] 
+
+[P490|Normal|align=None] 一般应按四级标题的方式给出，根据需要设置数量。如本文主要工作和创新点如下：
+  runs: [r0 bold=None size=None name=None text='一般应按四级标题的方式给出，根据需要设置数量。如本文主要工作和创新点如下：'] 
+
+[P491|Normal|align=None] 1）阐述第一个创新工作。不要把阅读文献当成创新工作。
+  runs: [r0 bold=None size=None name=None text='1'] [r1 bold=None size=None name=None text='）阐述第一个创新工作。不要把阅读文献当成创新工作。'] 
+
+[P492|Normal|align=None] 2）阐述第二个创新工作。
+  runs: [r0 bold=None size=None name=None text='2'] [r1 bold=None size=None name=None text='）阐述第二个创新工作。'] 
+
+[P493|Normal|align=None] 3）阐述第三个创新工作。
+  runs: [r0 bold=None size=None name=None text='3'] [r1 bold=None size=None name=None text='）阐述第三个创新工作。'] 
+
+[P494|Normal|align=None] 4）阐述第四个创新工作。
+  runs: [r0 bold=None size=None name=None text='4'] [r1 bold=None size=None name=None text='）阐述第四个创新工作。'] 
+
+[P495|Normal|align=None] 特别提醒，不应简单和中文摘要内容相互拷贝。同一段文字或句子在本文中原则上只出现一次。
+  runs: [r0 bold=None size=None name=None text='特别提醒，不应简单和中文摘要内容相互拷贝。同一段文字或句子在本文中原则上只出现一次。'] 
+
+[P496|Heading 2|align=None] 7.2 后续研究工作展望
+  runs: [r0 bold=None size=None name=None text='7.2 '] [r1 bold=None size=None name=None text='后续研究工作'] [r2 bold=None size=None name=None text='展望'] 
+
+[P497|Normal|align=None] 针对工作不足或问题，说明更下一步深入的研究。如内容较多，也应用四级标题方式列出。
+  runs: [r0 bold=None size=None name=None text='针对工作不足或问题，说明更下一步深入的研究。如内容较多，也应用四级标题方式列出。'] 
+
+[P498|Heading 1|align=None] 参考文献
+  runs: [r0 bold=None size=None name=None text='参考文献'] 
+
+[P499|Normal|align=None] [1] Eisen M, Ribeiro A. Optimal wireless resource allocation with random edge graph neural networks[J]. IEEE Transactions on Signal Processing, 2020, 68: 2977-2991.
+  runs: [r0 bold=None size=139700 name=None text='[1] Eisen M, Ribeiro A. Optimal wireless resource allocation with random edge gr'] 
+
+[P500|Normal|align=None] [2] Shen Y, Shi Y, Zhang J, et al. Graph neural networks for scalable radio resource management: Architecture design and theoretical analysis[J]. IEEE Journal on Selected Areas in Communications, 2021, 39(1): 101-115.
+  runs: [r0 bold=None size=139700 name=None text='[2] Shen Y, Shi Y, Zhang J, et al. Graph neural networks for scalable radio reso'] 
+
+[P501|Normal|align=None] [3] Shen Y, Zhang J, Song S H, et al. Graph neural networks for wireless communications: From theory to practice[J]. IEEE Transactions on Wireless Communications, 2023, 22(5): 3554-3569.
+  runs: [r0 bold=None size=139700 name=None text='[3] Shen Y, Zhang J, Song S H, et al. Graph neural networks for wireless communi'] 
+
+[P502|Normal|align=None] [4] Chowdhury A, Verma G, Rao C, et al. Unfolding WMMSE using graph neural networks for efficient power allocation[J]. IEEE Transactions on Wireless Communications, 2021, 20(9): 6004-6017.
+  runs: [r0 bold=None size=139700 name=None text='[4] Chowdhury A, Verma G, Rao C, et al. Unfolding WMMSE using graph neural netwo'] 
+
+[P503|Normal|align=None] [5] Zhang X, Zhao H, Xiong J, et al. Scalable power control/beamforming in heterogeneous wireless networks with graph neural networks[C]//2021 IEEE Global Communications Conference (GLOBECOM). IEEE, 2021: 1-6.
+  runs: [r0 bold=None size=139700 name=None text='[5] Zhang X, Zhao H, Xiong J, et al. Scalable power control/beamforming in heter'] 
+
+[P504|Normal|align=None] [6] Guo J, Yang C. Learning power control for cellular systems with heterogeneous graph neural network[C]//2021 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2021: 1-6.
+  runs: [r0 bold=None size=139700 name=None text='[6] Guo J, Yang C. Learning power control for cellular systems with heterogeneou'] 
+
+[P505|Normal|align=None] [7] Veličković P, Cucurull G, Casanova A, et al. Graph attention networks[C]//International Conference on Learning Representations (ICLR). 2018.
+  runs: [r0 bold=None size=139700 name=None text='[7] '] [r1 bold=None size=139700 name=None text='Veličković'] [r2 bold=None size=139700 name=None text=' P, '] [r3 bold=None size=139700 name=None text='Cucurull'] [r4 bold=None size=139700 name=None text=' G, Casanova A, et al. Graph attention networks[C]//International Conference on '] 
+
+[P506|Normal|align=None] [8] Niu Z, Zhong G, Yu H. A review on the attention mechanism of deep learning[J]. Neurocomputing, 2021, 452: 48-62.
+  runs: [r0 bold=None size=139700 name=None text='[8] Niu Z, Zhong G, Yu H. A review on the attention mechanism of deep learning[J'] 
+
+[P507|Normal|align=None] [9] Guo M H, Xu T X, Liu J J, et al. Attention mechanisms in computer vision: A survey[J]. IEEE Transactions on Knowledge and Data Engineering, 2022, 35(12): 12136-12158.
+  runs: [r0 bold=None size=139700 name=None text='[9] Guo M H, Xu T X, Liu J '] [r1 bold=None size=139700 name=None text='J'] [r2 bold=None size=139700 name=None text=', et al. Attention mechanisms in computer vision: A survey[J]. IEEE Transactions'] 
+
+[P508|Normal|align=None] [10] Abode D, Adeogun R, Berardinelli G. Power control for 6G industrial wireless subnetworks: A graph neural network approach[C]//2023 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2023: 1-6.
+  runs: [r0 bold=None size=139700 name=None text='[10] Abode D, '] [r1 bold=None size=139700 name=None text='Adeogun'] [r2 bold=None size=139700 name=None text=' R, Berardinelli G. Power control for 6G industrial wireless subnetworks: A grap'] 
+
+[P509|Normal|align=None] [11] Marwani M, Kaddoum G. Graph neural networks approach for joint wireless power control and spectrum allocation[J]. IEEE Transactions on Machine Learning in Communications and Networking, 2024.
+  runs: [r0 bold=None size=139700 name=None text='[11] '] [r1 bold=None size=139700 name=None text='Marwani'] [r2 bold=None size=139700 name=None text=' M, '] [r3 bold=None size=139700 name=None text='Kaddoum'] [r4 bold=None size=139700 name=None text=' G. Graph neural networks approach for joint wireless power control and spectrum'] 
+
+[P510|Normal|align=None] [12] He S, Shin W, Vahidian S, et al. An overview on the application of graph neural networks in wireless networks[J]. IEEE Open Journal of the Communications Society, 2021, 2: 2547-2565.
+  runs: [r0 bold=None size=139700 name=None text='[12] He S, Shin W, '] [r1 bold=None size=139700 name=None text='Vahidian'] [r2 bold=None size=139700 name=None text=' S, et al. An overview on the application of graph neural networks in wireless n'] 
+
+[P511|Normal|align=None] [13] Sun Q, Fang Z, Li Y, et al. Jumping knowledge graph attention network for resource allocation in wireless cellular system[J]. Scientific Reports, 2025, 15: 6034.
+  runs: [r0 bold=None size=139700 name=None text='[13] Sun Q, Fang Z, Li Y, et al. Jumping knowledge graph attention network for r'] 
+
+[P512|Normal|align=None] [14] Liu X, Zhao J, Shen F, et al. Resource allocation in fronthaul-constrained cell-free networks using edge-graph attention networks[J]. IEEE Transactions on Wireless Communications, 2026, 25(3): 2145-2159.
+  runs: [r0 bold=None size=139700 name=None text='[14] Liu X, Zhao J, Shen F, et al. Resource allocation in fronthaul-constrained '] 
+
+[P513|Normal|align=None] [15] Yang J, Xu J, Zhang Y, et al. Graph attention network-based precoding for reconfigurable intelligent surfaces aided wireless communication systems[J]. IEEE Transactions on Wireless Communications, 2024, 23(8): 11008-11020.
+  runs: [r0 bold=None size=139700 name=None text='[15] Yang J, Xu J, Zhang Y, et al. Graph attention network-based precoding for r'] 
+
+[P514|Normal|align=None] [16] Lu Y, Li Y, Zhang R, et al. Graph neural networks for wireless networks: Graph representation, architecture and evaluation[J]. IEEE Communications Surveys & Tutorials, 2024, 26(3): 1784-1814.
+  runs: [r0 bold=None size=139700 name=None text='[16] Lu Y, Li Y, Zhang R, et al. Graph neural networks for wireless networks: Gr'] 
+
+[P515|Normal|align=None] [17] Lu Y, Zhang S, Liu C, et al. Agentic graph neural networks for wireless communications and networking towards edge general intelligence: A survey[J]. IEEE Communications Surveys & Tutorials, 2026, 28(1): 1-35.
+  runs: [r0 bold=None size=139700 name=None text='[17] Lu Y, Zhang S, Liu C, et al. Agentic graph neural networks for wireless com'] 
+
+[P516|Normal|align=None] [18] Brauwers G, Frasincar F. A general survey on attention mechanisms in deep learning[J]. IEEE Transactions on Knowledge and Data Engineering, 2022, 34(10): 4779-4798.
+  runs: [r0 bold=None size=139700 name=None text='[18] '] [r1 bold=None size=139700 name=None text='Brauwers'] [r2 bold=None size=139700 name=None text=' G, '] [r3 bold=None size=139700 name=None text='Frasincar'] [r4 bold=None size=139700 name=None text=' F. A general survey on attention mechanisms in deep learning[J]. IEEE Transacti'] 
+
+[P517|Normal|align=None] [19] Soydaner D. Attention mechanism in neural networks: where it comes and where it goes[J]. Neural Computing and Applications, 2022, 34(7): 5117-5130.
+  runs: [r0 bold=None size=139700 name=None text='[19] '] [r1 bold=None size=139700 name=None text='Soydaner'] [r2 bold=None size=139700 name=None text=' D. Attention mechanism in neural networks: where it comes and where it goes[J].'] 
+
+[P518|Normal|align=None] [20] Liu J W, Liu J, Luo X. Research progress in attention mechanism in deep learning[J]. Chinese Journal of Engineering, 2021, 43(11): 1490-1502.
+  runs: [r0 bold=None size=139700 name=None text='[20] Liu J W, Liu J, Luo X. Research progress in attention mechanism in deep lea'] 
+
+[P519|Normal|align=None] [21] Li B, Verma G, Segarra S. Graph-based algorithm unfolding for energy-aware power allocation in wireless networks[J]. IEEE Transactions on Wireless Communications, 2023, 22(2): 1559-1573.
+  runs: [r0 bold=None size=139700 name=None text='[21] Li B, Verma G, Segarra S. Graph-based algorithm unfolding for energy-aware '] 
+
+[P520|Normal|align=None] [22] NaderiAlizadeh N, Eisen M, Ribeiro A. Adaptive wireless power allocation with graph neural networks[C]//2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 5213-5217.
+  runs: [r0 bold=None size=139700 name=None text='[22] '] [r1 bold=None size=139700 name=None text='NaderiAlizadeh'] [r2 bold=None size=139700 name=None text=' N, Eisen M, Ribeiro A. Adaptive wireless power allocation with graph neural net'] 
+
+[P521|Normal|align=None] [23] Chen L, Zhu J, Evans J. GNN-based joint channel and power allocation in heterogeneous wireless networks[C]//2024 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2024: 1-6.
+  runs: [r0 bold=None size=139700 name=None text='[23] Chen L, Zhu J, Evans J. GNN-based joint channel and power allocation in het'] 
+
+[P522|Normal|align=None] [24] Huang Z, Wang Z, Han Z. Graph neural network empowered wireless communications: Fundamentals, state-of-the-art, challenges, and opportunities[J]. IEEE Wireless Communications, 2025, 32(2): 56-63.
+  runs: [r0 bold=None size=139700 name=None text='[24] Huang Z, Wang Z, Han Z. Graph neural network empowered wireless communicati'] 
+
+[P523|Normal|align=None] [25] Liu S, Yang C, Han S. Learning wideband user scheduling and hybrid precoding with graph neural networks[J]. arXiv preprint arXiv:2503.04233, 2025.
+  runs: [r0 bold=None size=139700 name=None text='[25] Liu S, Yang C, Han S. Learning wideband user scheduling and hybrid precodin'] [r1 bold=None size=139700 name=None text='arXiv'] [r2 bold=None size=139700 name=None text=' preprint arXiv:2503.04233, 2025.'] 
+
+[P524|列表段落1|align=None] 
+  runs: 
+
+[P525|列表段落1|align=None] 
+  runs: 
+
+[P526|列表段落1|align=None] 
+  runs: 
+
+[P527|列表段落1|align=None] 
+  runs: 
+
+[P528|列表段落1|align=None] 
+  runs: 
+
+[P529|列表段落1|align=None] 
+  runs: 
+
+[P530|Normal|align=None] 
+  runs: 
+
+[P531|Normal|align=None] 
+  runs: 
+
+[P532|Heading 1|align=None] 致谢
+  runs: [r0 bold=None size=None name=None text='致谢'] 
+
+[P533|Normal|align=None] 致谢二字一级标题：黑体3号字居中，段前17磅，段后16.5磅，1.5倍行距，致谢二字与致谢内容之间不空行。致谢内容正文样式：宋体小四号，1.5倍行距。
+  runs: [r0 bold=None size=None name=None text='致谢二字一级标题：黑体'] [r1 bold=None size=None name=None text='3'] [r2 bold=None size=None name=None text='号字居中，'] [r3 bold=None size=None name=None text='段前'] [r4 bold=None size=None name=None text='17'] [r5 bold=None size=None name=None text='磅'] [r6 bold=None size=None name=None text='，段后'] [r7 bold=None size=None name=None text='16.5'] [r8 bold=None size=None name=None text='磅，'] [r9 bold=None size=None name=None text='1.5'] [r10 bold=None size=None name=None text='倍行距，致谢二字与致谢内容之间'] [r11 bold=None size=None name=None text='不'] [r12 bold=None size=None name=None text='空行。致谢内容正文样式：宋体小四号，'] [r13 bold=None size=None name=None text='1.5'] [r14 bold=None size=None name=None text='倍行距。'] 
+
+[P534|Normal|align=None] 可以从下列方面致谢：协助完成研究工作和提供便利条件的组织或个人；在研究工作中提出建议和提供帮助的人；给予转载和引用权的资料、图片、文献、研究思想和设想的所有者；其他应感谢的组织或个人。
+  runs: [r0 bold=None size=None name=None text='可以从下列方面致谢：协助完成研究工作和提供便利条件的组织或个人'] [r1 bold=None size=None name=None text='；'] [r2 bold=None size=None name=None text='在研究工作中提出建议和提供帮助的人'] [r3 bold=None size=None name=None text='；'] [r4 bold=None size=None name=None text='给予转载和引用权的资料、图片、文献、研究思想和设想的所有者'] [r5 bold=None size=None name=None text='；'] [r6 bold=None size=None name=None text='其他应感谢的组织或个人。'] 
+
+[P535|Normal|align=None] 主要感谢导师和对论文工作有直接贡献及帮助的人士和单位。学位申请人的家属及亲朋好友等与论文无直接关系的人员，一般不列入致谢的范围。
+  runs: [r0 bold=None size=None name=None text='主要感谢导师和对论文工作有直接贡献及帮助的人士和单位。学位申请人的家属及亲朋好友等与论文无直接关系的人员，一般不列入致谢的范围。'] 
+
+[P536|Normal|align=None] 致谢辞应谦虚诚恳，实事求是，切忌浮夸与庸俗之词。
+  runs: [r0 bold=None size=None name=None text='致谢辞应谦虚诚恳，实事求是，切忌浮夸与庸俗之词。'] 
+
+[P537|Heading 1|align=JUSTIFY (3)] 附录A  科技写作中非学术性低级错误的主要表现
+  runs: [r0 bold=None size=None name=None text=''] [r1 bold=None size=None name=None text='附录'] [r2 bold=None size=None name=None text='A  '] [r3 bold=None size=177800 name=None text='科技写作中非学术性低级错误的主要表现'] 
+
+[P538|论文正文|align=None] 本附录主要针对学位论文写作或中文科技论文写作，供重庆邮电大学学位论文查非工作参考。未尽事宜，可参考重庆邮电大学论文写作要求、重庆邮电大学学报编辑部等国内期刊社、出版社的通用出版规定。
+  runs: [r0 bold=None size=None name=None text='本附录主要针对学位论文写作或中文科技论文写作，供重庆邮电大学学位论文查非工作参考。未尽事宜，可参考重庆邮电大学论文写作要求、重庆邮电大学学报编辑部等国内期刊社、'] 
+
+[P539|论文正文|align=None] 推荐阅读《科学出版社作者编辑手册》、《科学道德与学风建设宣传参考大纲（试用本）》等写作指导性书籍或资料，可了解更多、更详尽的通用写作出版规范。
+  runs: [r0 bold=None size=None name=None text='推荐阅读《科学出版社作者编辑手册》、《科学道德与学风建设宣传参考大纲（试用本）》等写作指导性书籍或资料，可了解更多、更详尽的通用写作出版规范。'] 
+
+[P540|Normal|align=None] 
+  runs: 
+
+[P541|Heading 1|align=JUSTIFY (3)] 
+  runs: 
+
+[P542|Heading 1|align=JUSTIFY (3)] 附录B  英文翻译
+  runs: [r0 bold=None size=None name=None text='附录'] [r1 bold=None size=None name=None text='B  '] [r2 bold=None size=None name=None text='英文翻译'] 
+
+[P543|论文正文|align=None] 指导教师制定与专业相关的外文文献内容，由学生独立翻译成中文，其外文文献内容翻译成中文后的内容不得少于3000字符。译文和原文附于附录部分，按照正文格式进行排版。若原文没有电子版只是原版的复印件，复印件装订在内可不计页码。
+  runs: [r0 bold=None size=None name=None text='指导教师制定与专业相关的外文文献内容，由学生独立翻译成中文，其外文文献内容'] [r1 bold=None size=None name=None text='翻译成中文后的内容'] [r2 bold=None size=None name=None text='不得少于'] [r3 bold=None size=None name=None text='3000'] [r4 bold=None size=None name=None text='字符。译文和原文附于附录部分'] [r5 bold=None size=None name=None text='，'] [r6 bold=None size=None name=None text='按照正文格式进行排版。若原文没有电子版只是原版的复印件，复印件装订在内可不计页码。'] 
+
+
+=== Section 1 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: CONTINUOUS (0)
+  different_first_page_header_footer: False
+  Header paragraphs:
+  Footer paragraphs:
+
+=== Section 2 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: CONTINUOUS (0)
+  different_first_page_header_footer: False
+  Header paragraphs:
+  Footer paragraphs:
+
+=== Section 3 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+  Footer paragraphs:
+    V
+
+=== Section 4 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+  Footer paragraphs:
+    V
+
+=== Section 5 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    目录
+  Footer paragraphs:
+    V
+
+=== Section 6 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: CONTINUOUS (0)
+  different_first_page_header_footer: True
+  Header paragraphs:
+    重庆邮电大学硕士学位论文第1章引言
+  Footer paragraphs:
+    9
+
+=== Section 7 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    第1章 引言
+  Footer paragraphs:
+    9
+
+=== Section 8 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    第5章 科学道德与学风
+  Footer paragraphs:
+    9
+
+=== Section 9 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    第6章 参考文献的标注和要求
+  Footer paragraphs:
+    9
+
+=== Section 10 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    第7章 总结与展望
+  Footer paragraphs:
+    9
+
+=== Section 11 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    参考文献
+  Footer paragraphs:
+    9
+
+=== Section 12 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    致谢
+  Footer paragraphs:
+    9
+
+=== Section 13 ===
+  Page width: 7560310, height: 10692130
+  Margins: top=1080135, bottom=900430, left=900430, right=900430
+  Orientation: PORTRAIT (0)
+  start_type: NEW_PAGE (2)
+  different_first_page_header_footer: False
+  Header paragraphs:
+    附录
+  Footer paragraphs:
+    9
+
+=== Document Styles ===
+  Style: Normal (type=PARAGRAPH (1), id=a)
+  Style: Heading 1 (type=PARAGRAPH (1), id=1)
+  Style: Heading 2 (type=PARAGRAPH (1), id=2)
+  Style: Heading 3 (type=PARAGRAPH (1), id=3)
+  Style: Default Paragraph Font (type=CHARACTER (2), id=a0)
+  Style: Normal Table (type=TABLE (3), id=a1)
+  Style: No List (type=LIST (4), id=a2)
+  Style: 标题 1 字符 (type=CHARACTER (2), id=10)
+  Style: 标题 2 字符 (type=CHARACTER (2), id=20)
+  Style: 标题 3 字符 (type=CHARACTER (2), id=30)
+  Style: toc 7 (type=PARAGRAPH (1), id=TOC7)
+  Style: Caption (type=PARAGRAPH (1), id=a3)
+  Style: Document Map (type=PARAGRAPH (1), id=a4)
+  Style: annotation text (type=PARAGRAPH (1), id=a5)
+  Style: 批注文字 字符 (type=CHARACTER (2), id=a6)
+  Style: Body Text (type=PARAGRAPH (1), id=a7)
+  Style: 正文文本 字符 (type=CHARACTER (2), id=a8)
+  Style: toc 5 (type=PARAGRAPH (1), id=TOC5)
+  Style: toc 3 (type=PARAGRAPH (1), id=TOC3)
+  Style: 无缩进正文 (type=PARAGRAPH (1), id=a9)
+  Style: 无缩进正文 Char (type=CHARACTER (2), id=Char)
+  Style: TOC 3 字符 (type=CHARACTER (2), id=TOC30)
+  Style: Plain Text (type=PARAGRAPH (1), id=aa)
+  Style: 纯文本 字符 (type=CHARACTER (2), id=ab)
+  Style: toc 8 (type=PARAGRAPH (1), id=TOC8)
+  Style: Date (type=PARAGRAPH (1), id=ac)
+  Style: 日期 字符 (type=CHARACTER (2), id=ad)
+  Style: endnote text (type=PARAGRAPH (1), id=ae)
+  Style: 尾注文本 字符 (type=CHARACTER (2), id=af)
+  Style: Balloon Text (type=PARAGRAPH (1), id=af0)
+  Style: 批注框文本 字符 (type=CHARACTER (2), id=af1)
+  Style: Footer (type=PARAGRAPH (1), id=af2)
+  Style: 页脚 字符 (type=CHARACTER (2), id=af3)
+  Style: Header (type=PARAGRAPH (1), id=af4)
+  Style: 页眉 字符 (type=CHARACTER (2), id=af5)
+  Style: toc 1 (type=PARAGRAPH (1), id=TOC1)
+  Style: TOC 1 字符 (type=CHARACTER (2), id=TOC10)
+  Style: toc 4 (type=PARAGRAPH (1), id=TOC4)
+  Style: footnote text (type=PARAGRAPH (1), id=af6)
+  Style: 脚注文本 字符 (type=CHARACTER (2), id=af7)
+  Style: toc 6 (type=PARAGRAPH (1), id=TOC6)
+  Style: table of figures (type=PARAGRAPH (1), id=af8)
+  Style: toc 2 (type=PARAGRAPH (1), id=TOC2)
+  Style: TOC 2 字符 (type=CHARACTER (2), id=TOC20)
+  Style: toc 9 (type=PARAGRAPH (1), id=TOC9)
+  Style: Normal (Web) (type=PARAGRAPH (1), id=af9)
+  Style: Title (type=PARAGRAPH (1), id=afa)
+  Style: 标题 字符 (type=CHARACTER (2), id=afb)
+  Style: annotation subject (type=PARAGRAPH (1), id=afc)
+  Style: 批注主题 字符 (type=CHARACTER (2), id=afd)
+  Style: Table Grid (type=TABLE (3), id=afe)
+  Style: Strong (type=CHARACTER (2), id=aff)
+  Style: endnote reference (type=CHARACTER (2), id=aff0)
+  Style: page number (type=CHARACTER (2), id=aff1)
+  Style: FollowedHyperlink (type=CHARACTER (2), id=aff2)
+  Style: line number (type=CHARACTER (2), id=aff3)
+  Style: Hyperlink (type=CHARACTER (2), id=aff4)
+  Style: annotation reference (type=CHARACTER (2), id=aff5)
+  Style: footnote reference (type=CHARACTER (2), id=aff6)
+  Style: 毕业论文一级标题 (type=PARAGRAPH (1), id=aff7)
+  Style: 毕业论文二级标题 (type=PARAGRAPH (1), id=aff8)
+  Style: p0 (type=PARAGRAPH (1), id=p0)
+  Style: 修订1 (type=PARAGRAPH (1), id=11)
+  Style: 列表段落1 (type=PARAGRAPH (1), id=12)
+  Style: EQN (type=PARAGRAPH (1), id=EQN)
+  Style: 样式 标题 1 + 小四 (type=PARAGRAPH (1), id=13)
+  Style: references (type=PARAGRAPH (1), id=references)
+  Style: 样式正文 (type=PARAGRAPH (1), id=aff9)
+  Style: mb (type=CHARACTER (2), id=mb)
+  Style: apple-converted-space (type=CHARACTER (2), id=apple-converted-space)
+  Style: 网格型1 (type=TABLE (3), id=14)
+  Style: Display Equation (Aurora) (type=PARAGRAPH (1), id=DisplayEquationAurora)
+  Style: Display Equation (Aurora) Char (type=CHARACTER (2), id=DisplayEquationAuroraChar)
+  Style: Section Break (Aurora) (type=CHARACTER (2), id=SectionBreakAurora)
+  Style: 英文封面-论文标题 (type=PARAGRAPH (1), id=-)
+  Style: 英文封面-论文标题 Char (type=CHARACTER (2), id=-Char)
+  Style: 说明文字 (type=PARAGRAPH (1), id=affa)
+  Style: 摘要内容 (type=PARAGRAPH (1), id=affb)
+  Style: 关键词内容 (type=PARAGRAPH (1), id=affc)
+  Style: 关键词内容 Char (type=CHARACTER (2), id=Char0)
+  Style: ABTSTRACT内容 (type=PARAGRAPH (1), id=ABTSTRACT)
+  Style: ABTSTRACT内容 Char (type=CHARACTER (2), id=ABTSTRACTChar)
+  Style: 图表 (type=PARAGRAPH (1), id=affd)
+  Style: 图-中文题注 (type=PARAGRAPH (1), id=-0)
+  Style: 图-英文题注 (type=PARAGRAPH (1), id=-1)
+  Style: 表-中文题注 (type=PARAGRAPH (1), id=-2)
+  Style: 表-英文题注 (type=PARAGRAPH (1), id=-3)
+  Style: 正文后的题目 (type=PARAGRAPH (1), id=affe)
+  Style: 参考文献内容 (type=PARAGRAPH (1), id=afff)
+  Style: 论文正文 (type=PARAGRAPH (1), id=afff0)
+  Style: 目录题目 (type=PARAGRAPH (1), id=afff1)
+  Style: 图表目录内容 (type=PARAGRAPH (1), id=afff2)
+  Style: 图表标题 (type=PARAGRAPH (1), id=afff3)
+  Style: BT1 (type=PARAGRAPH (1), id=BT1)
+  Style: BT3 (type=PARAGRAPH (1), id=BT3)
+  Style: BT3 Char (type=CHARACTER (2), id=BT3Char)
+  Style: 列出段落1 (type=PARAGRAPH (1), id=15)
+  Style: 列出段落1 Char (type=CHARACTER (2), id=1Char)
+  Style: 样式 bt2 + 左侧:  0 厘米 悬挂缩进: 1.5 字符 段前: 0.7 行 段后: 0.8 行 (type=PARAGRAPH (1), id=bt20150708)
+  Style: 占位符文本1 (type=CHARACTER (2), id=16)
+  Style: 目录1 (type=PARAGRAPH (1), id=17)
+  Style: 目录1 Char (type=CHARACTER (2), id=1Char0)
+  Style: 目录2 (type=PARAGRAPH (1), id=21)
+  Style: 目录2 Char (type=CHARACTER (2), id=2Char)
+  Style: 目录3 (type=PARAGRAPH (1), id=31)
+  Style: 目录3 Char (type=CHARACTER (2), id=3Char)
+  Style: 图表正文 (type=PARAGRAPH (1), id=afff4)
+  Style: 图表正文 Char (type=CHARACTER (2), id=Char1)
+  Style: Revision (type=PARAGRAPH (1), id=afff5)
+  Style: ds-markdown-paragraph (type=PARAGRAPH (1), id=ds-markdown-paragraph)
+  Style: Placeholder Text (type=CHARACTER (2), id=afff6)
+  Style: HTML Preformatted (type=PARAGRAPH (1), id=HTML)
+  Style: HTML 预设格式 字符 (type=CHARACTER (2), id=HTML0)
