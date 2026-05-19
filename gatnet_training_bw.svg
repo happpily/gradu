@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 500 700" style="background: white;">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+    <path d="M1.5 1.5 L8.5 5 L1.5 8.5" fill="none" stroke="#111" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+  
+</defs>
+
+<!-- outer loop dashed box -->
+<rect x="103" y="158" width="294" height="380" rx="7" style="fill:none;stroke:rgb(85, 85, 85);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-dasharray:6px, 4px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<!-- outer loop label (rotated left side) -->
+<text x="90" y="348" text-anchor="middle" font-size="10.5" fill="#555" transform="rotate(-90,90,348)" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:10.5px;font-weight:400;text-anchor:middle;dominant-baseline:auto">外层循环  for t = 1, 2, …, T</text>
+
+<!-- inner loop dashed box (around merged block) -->
+<rect x="110" y="232" width="280" height="104" rx="5" style="fill:none;stroke:#888;stroke-width:0.7;stroke-dasharray:4 3;fill:none;stroke:rgb(136, 136, 136);color:rgb(0, 0, 0);stroke-width:0.7px;stroke-dasharray:4px, 3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="118" y="246" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">内层循环</text>
+
+<!-- ── INPUT terminal ── -->
+<rect x="115" y="10" width="270" height="54" rx="27" style="fill:rgb(245, 245, 245);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="30" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">输  入</text>
+<text x="250" y="51" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11.5px;font-weight:400;text-anchor:middle;dominant-baseline:auto">训练轮数 T，批次 B，学习率 η，层数 L，头数 K</text>
+
+<line x1="250" y1="64" x2="250" y2="84" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- ① Init -->
+<rect x="115" y="84" width="270" height="46" rx="5" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="103" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:13px;font-weight:600;text-anchor:middle;dominant-baseline:auto">① 随机初始化参数 θ</text>
+<text x="250" y="121" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Xavier / Kaiming 初始化</text>
+
+<line x1="250" y1="130" x2="250" y2="166" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="260" y="150" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">for t = 1, 2, …, T</text>
+
+<!-- ③ Sample -->
+<rect x="115" y="166" width="270" height="46" rx="5" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="185" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:13px;font-weight:600;text-anchor:middle;dominant-baseline:auto">③ 采样 B 个随机网络拓扑</text>
+<text x="250" y="203" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">生成样本集 {G^(b)}, b = 1…B</text>
+
+<line x1="250" y1="212" x2="250" y2="236" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="260" y="226" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">for each G^(b)</text>
+
+<!-- Inner merged box: y=240, h=92 -->
+<rect x="115" y="240" width="270" height="92" rx="5" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<line x1="115" y1="258" x2="385" y2="258" stroke="#bbb" stroke-width="0.6" style="fill:rgb(0, 0, 0);stroke:rgb(187, 187, 187);color:rgb(0, 0, 0);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="125" y="272" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11.5px;font-weight:400;text-anchor:start;dominant-baseline:auto">⑤  提取图特征  X^(b), E^(b)</text>
+<line x1="115" y1="282" x2="385" y2="282" stroke="#ddd" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(221, 221, 221);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="125" y="296" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11.5px;font-weight:400;text-anchor:start;dominant-baseline:auto">⑥  前向传播  p^(b) = GATNet(X, E; θ)</text>
+<line x1="115" y1="306" x2="385" y2="306" stroke="#ddd" stroke-width="0.5" style="fill:rgb(0, 0, 0);stroke:rgb(221, 221, 221);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="125" y="322" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11.5px;font-weight:400;text-anchor:start;dominant-baseline:auto">⑦  计算 SINR  γᵢ^(b)  与速率  Rᵢ^(b)</text>
+
+<line x1="250" y1="332" x2="250" y2="358" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="260" y="347" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">end for</text>
+
+<!-- ⑨ Loss -->
+<rect x="115" y="358" width="270" height="46" rx="5" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="377" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:13px;font-weight:600;text-anchor:middle;dominant-baseline:auto">⑨  计算总损失  L_total(θ)</text>
+<text x="250" y="395" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">L_total = L + λ₁·L_fair + λ₂·L_qos</text>
+
+<line x1="250" y1="404" x2="250" y2="420" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- ⑩ Backprop -->
+<rect x="115" y="420" width="270" height="46" rx="5" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="439" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:13px;font-weight:600;text-anchor:middle;dominant-baseline:auto">⑩  反向传播，梯度裁剪</text>
+<text x="250" y="457" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">∇_θ L_total，L₂ 范数 ≤ 1.0</text>
+
+<line x1="250" y1="466" x2="250" y2="482" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- ⑪ Update -->
+<rect x="115" y="482" width="270" height="46" rx="5" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="501" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:13px;font-weight:600;text-anchor:middle;dominant-baseline:auto">⑪  更新参数 θ</text>
+<text x="250" y="519" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">θ ← θ − η · Adam(∇_θ L_total)</text>
+
+<line x1="250" y1="528" x2="250" y2="546" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<!-- Decision diamond: center=(250,568), hw=70, hh=22 -->
+<polygon points="250,546 320,568 250,590 180,568" style="fill:rgb(255, 255, 255);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="568" text-anchor="middle" dominant-baseline="central" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11.5px;font-weight:400;text-anchor:middle;dominant-baseline:central">t mod 500 = 0 ?</text>
+
+<!-- YES → LR box -->
+<line x1="320" y1="568" x2="388" y2="568" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="354" y="560" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">是</text>
+<rect x="388" y="546" width="100" height="44" rx="5" style="fill:#f5f5f5;stroke:#111;stroke-width:0.9;fill:rgb(245, 245, 245);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="438" y="564" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:13px;font-weight:600;text-anchor:middle;dominant-baseline:auto">⑫ 学习率衰减</text>
+<text x="438" y="581" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">η ← 0.9 · η</text>
+
+<!-- LR bottom → junction -->
+<path d="M 438 590 L 438 618 L 251 618" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<!-- NO → junction -->
+<text x="234" y="590" text-anchor="end" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">否</text>
+<line x1="250" y1="590" x2="250" y2="618" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<!-- Junction dot -->
+<circle cx="250" cy="618" r="3" fill="#111" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<!-- Loop label -->
+<text x="232" y="609" text-anchor="middle" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">t &lt; T</text>
+<!-- Loop back -->
+<path d="M 250 618 L 102 618 L 102 189 L 114 189" marker-end="url(#ah)" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<!-- Exit -->
+<line x1="250" y1="618" x2="250" y2="638" style="fill:none;stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="263" y="630" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">t = T</text>
+
+<!-- OUTPUT terminal -->
+<rect x="115" y="638" width="270" height="54" rx="27" style="fill:rgb(245, 245, 245);stroke:rgb(17, 17, 17);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="250" y="658" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">输  出</text>
+<text x="250" y="678" text-anchor="middle" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:11.5px;font-weight:400;text-anchor:middle;dominant-baseline:auto">训练完成的模型参数 θ*</text>
+
+<!-- Caption -->
+<text x="250" y="698" text-anchor="middle" font-size="12" font-weight="600" fill="#111" style="fill:rgb(17, 17, 17);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Times New Roman&quot;, SimSun, serif;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">图 3.2  GATNet 训练算法流程图</text>
+</svg>
